@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.9-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.9/Sailfish-1.0.9-win-x64.zip",
+  "assetName": "Sailfish-1.0.10-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.10/Sailfish-1.0.10-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "c73de361dcb8a7f4f9c562a45626d83fbb8cde1639b910848434e89e07848c43",
-  "exeSizeBytes": 6605312,
+  "exeSha256": "f2406faf07d2e463175364224a4e61676d5d86fbce16be34e80b5be9a997ddbd",
+  "exeSizeBytes": 6616064,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-10-31T23:30:51+09:00",
+  "publishedAt": "2026-11-01T02:08:12+09:00",
   "releaseNotes": {
-    "en": "Delete individual, selected or all conversation messages locally, without resurrecting records after send completion or peer retries.",
-    "ko": "모든 상태의 메시지 개별·선택·전체 삭제. 내 기록만 삭제하며 전송 완료나 상대 재전송으로 되살아나지 않습니다."
+    "en": "Quick link Ctrl+Alt+Q, monitoring and capture notices, grouped share history and clear all.",
+    "ko": "빠른 링크 Ctrl+Alt+Q, 감시 OFF·캡처 알림, 공유 기록 날짜별 분류와 전체 삭제."
   },
-  "releaseTag": "v1.0.9",
+  "releaseTag": "v1.0.10",
   "schemaVersion": 1,
-  "sha256": "4ccbb15662f18d66be97989a96e1114248ed707e220ab9b503e400a4e34d5e07",
-  "signature": "ec32f104e78826505b0dd7efe91ca87de3d21e48fc713c6f4f3d477348fd754f1010dad1c2881263b39c8004faece77d3e8ef49c75cbf4606384ef35cc744b33",
+  "sha256": "112a815444aa8875ab06442159822baf04a7579b59b815e1f53c1d5e24c728f9",
+  "signature": "4043b322dacf1ddca6a1d1098cc8a59019033adea757846cd008f7d55b9dbffb1d068914dc7ae2fb203b5edb6a128393eb80af0917ee0b1c339572d0ef683d43",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4137287,
-  "version": "1.0.9"
+  "sizeBytes": 4141370,
+  "version": "1.0.10"
 }
