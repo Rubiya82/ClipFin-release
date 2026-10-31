@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.11-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.11/Sailfish-1.0.11-win-x64.zip",
+  "assetName": "Sailfish-1.0.12-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.12/Sailfish-1.0.12-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "3c5273310c83a6a974f3dadc708b3bc64ca346551c24c6a15962df0149c3d792",
-  "exeSizeBytes": 6625280,
+  "exeSha256": "f78a9ac8b64b9a4d3fd1a4b7ef466a250264ceccec8616aed5d00ca34ad5c33b",
+  "exeSizeBytes": 6637056,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-01T02:19:08+09:00",
+  "publishedAt": "2026-11-01T02:28:24+09:00",
   "releaseNotes": {
-    "en": "Choose a desktop shortcut after first setup or setup rerun. Local builds run from the stable build/Release folder.",
-    "ko": "최초 실행과 초기 설정 재실행 시 바탕화면 바로가기 선택. 로컬 빌드는 build/Release 한 경로에서 실행."
+    "en": "Share selection, sender preview, code display and capture cursor improvements",
+    "ko": "공유 목록 선택 삭제, 보내는 화면 미리보기, 코드 보기와 캡처 포인터 개선"
   },
-  "releaseTag": "v1.0.11",
+  "releaseTag": "v1.0.12",
   "schemaVersion": 1,
-  "sha256": "3feba34acd332026974bf3637fd5805a28949b7eb580d22815100bb5aea4d8ff",
-  "signature": "14e84cf17587cef4eb24eaf930279c851404a1303b982ef046495516e3a5389d60358dd828275d064cc315061c8e08c44f58dd88872aa9f762d3c7806932642c",
+  "sha256": "4cded1352005b3437ca7c642711662261418468dee6921aedc651f0f780827fd",
+  "signature": "7994540ee71e06756a9d0d1553d0582c3f4f9dd51f3811a7a84c149ab28ffc9aae1a7bdbf76e463431a8f31566693f65f6746e39cc6ed5434243edcc9d6f48fe",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4145627,
-  "version": "1.0.11"
+  "sizeBytes": 4150817,
+  "version": "1.0.12"
 }
