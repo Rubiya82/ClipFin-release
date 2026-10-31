@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.13-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.13/Sailfish-1.0.13-win-x64.zip",
+  "assetName": "Sailfish-1.0.14-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.14/Sailfish-1.0.14-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "a891cfd5e8a8748cfe816fc3e3459f2811c6f6e791878dca666e15c6579b6a8b",
-  "exeSizeBytes": 6642176,
+  "exeSha256": "6ee74d5b90b0ab953c207cdbbb8b33d26ff7364022dae22d30655c1ffc50a4ad",
+  "exeSizeBytes": 6648832,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-01T07:32:28+09:00",
+  "publishedAt": "2026-11-01T08:13:49+09:00",
   "releaseNotes": {
-    "en": "Compact share page, code editor, window placement and toast improvements",
-    "ko": "브라우저 코드 에디터, 창 위치 기억과 토스트 개선"
+    "en": "Unread taskbar and tray badges; fix disabled share settings menu",
+    "ko": "작업표시줄과 트레이의 미읽음 배지, 공유 설정 메뉴 활성화 수정"
   },
-  "releaseTag": "v1.0.13",
+  "releaseTag": "v1.0.14",
   "schemaVersion": 1,
-  "sha256": "c9890893ea292a80adcababee649ecb9b239b809557f6c844e17c53cdb9563c9",
-  "signature": "1a367a9c6f242bbf7298450462e4850e73f39364473fc8fe19da84ede4e9057f6d86930c42697c8322506d1c2d662d6373cd35cda20fedb5f491b52e4b0aa2fe",
+  "sha256": "3e3eaab3cf532ab8c6344104cb5e5a712baeccc9f1942b936f7c546d986aa178",
+  "signature": "0f23b51d04f225d6a902b34417c0431f0ae19f76d7d2bcd1cc7f9553ca9768f9ec70a9317d50b9e702414a06586ca15ebfcd6f7a31c9567e598a3d59f2007235",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4152179,
-  "version": "1.0.13"
+  "sizeBytes": 4154702,
+  "version": "1.0.14"
 }
