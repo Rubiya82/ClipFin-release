@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.7-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.7/Sailfish-1.0.7-win-x64.zip",
+  "assetName": "Sailfish-1.0.8-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.8/Sailfish-1.0.8-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "d15947797806e954124881ede026c276312d5636678a3d841754831616a7f877",
-  "exeSizeBytes": 6558720,
+  "exeSha256": "8dd58035567eb4a3b5fa2bacc72f6dd64f4d87113824fd55ce1ec3be5535180d",
+  "exeSizeBytes": 6575616,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-10-31T22:38:37+09:00",
+  "publishedAt": "2026-10-31T23:09:48+09:00",
   "releaseNotes": {
-    "en": "Remove completed receive entries individually or together while keeping files. Stop and resume the current receive batch.",
-    "ko": "완료 수신 목록 개별 X·모두 삭제 추가. 파일은 보존하며 현재 수신 묶음 중지와 이어받기를 지원합니다."
+    "en": "Retry or delete failed outgoing messages. Retries preserve the original message ID; deletion affects only local history.",
+    "ko": "실패한 내 메시지 재전송·삭제 추가. 기존 메시지 ID로 중복을 방지하고 내 기록에서만 삭제합니다."
   },
-  "releaseTag": "v1.0.7",
+  "releaseTag": "v1.0.8",
   "schemaVersion": 1,
-  "sha256": "e0024455a5fcab5de9bbdf3ad14a3ca6a21cbc468a386d3036e6505ba901e272",
-  "signature": "27c24d539d57372c70d5e45fa299b61708ccc4ac01230b16628ec68b3a650e2b1276ca4a0fc4fc851bec407dee1f2fee81c65640e6fe3ed4d5696f3116519050",
+  "sha256": "ba239ba46035e678c9c0a133a3f1c113264efb0ca09147400b2fb48b69b6893c",
+  "signature": "0814044c5503a5cba5c5c3b654e155071910a83a8983e485484e0da91119de78e86bce0241742b7952049e2f5d896a53f1849d553130f9bfa6d2301f7cd065a1",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4117297,
-  "version": "1.0.7"
+  "sizeBytes": 4124032,
+  "version": "1.0.8"
 }
