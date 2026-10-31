@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.6-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.6/Sailfish-1.0.6-win-x64.zip",
+  "assetName": "Sailfish-1.0.7-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.7/Sailfish-1.0.7-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "b3eb6f7e82602557ca382d208099ea6c9934ef6da5ea78831aa66edb41846d4f",
-  "exeSizeBytes": 6545920,
+  "exeSha256": "d15947797806e954124881ede026c276312d5636678a3d841754831616a7f877",
+  "exeSizeBytes": 6558720,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-10-31T20:14:26+09:00",
+  "publishedAt": "2026-10-31T22:38:37+09:00",
   "releaseNotes": {
-    "en": "Optional Windows startup, enabled by default with persistent opt-out. Rounded themed focus on exit buttons.",
-    "ko": "Windows 자동 실행 옵션 추가(기본 ON, OFF 선택 저장). 종료 확인창 버튼의 검은 사각형 표시 수정."
+    "en": "Remove completed receive entries individually or together while keeping files. Stop and resume the current receive batch.",
+    "ko": "완료 수신 목록 개별 X·모두 삭제 추가. 파일은 보존하며 현재 수신 묶음 중지와 이어받기를 지원합니다."
   },
-  "releaseTag": "v1.0.6",
+  "releaseTag": "v1.0.7",
   "schemaVersion": 1,
-  "sha256": "02fc4ea6548c40d041b7108f9af52b179085e722cfd76a9d221ff3788069b347",
-  "signature": "5061a55db55a8c1185c66347597fd52f3f4e2f631096f2fb9c49ad3119d95e237c5351f9801a3507ffb9c455fb0941d6cf6e5d121c501c5997f9f6b5ca1c989a",
+  "sha256": "e0024455a5fcab5de9bbdf3ad14a3ca6a21cbc468a386d3036e6505ba901e272",
+  "signature": "27c24d539d57372c70d5e45fa299b61708ccc4ac01230b16628ec68b3a650e2b1276ca4a0fc4fc851bec407dee1f2fee81c65640e6fe3ed4d5696f3116519050",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4112288,
-  "version": "1.0.6"
+  "sizeBytes": 4117297,
+  "version": "1.0.7"
 }
