@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.3-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.3/Sailfish-1.0.3-win-x64.zip",
+  "assetName": "Sailfish-1.0.4-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.4/Sailfish-1.0.4-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "65108bbc27401b6043a6c372b820c373c958adddbd836791f70e646c6aaab1df",
-  "exeSizeBytes": 6508032,
+  "exeSha256": "7c01c322a6a76476b5fb88f9c66fb86a9995fd8364f3e70f19b002c197997d2f",
+  "exeSizeBytes": 6535680,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-10-31T17:41:58+09:00",
+  "publishedAt": "2026-10-31T18:33:18+09:00",
   "releaseNotes": {
-    "en": "Distinct main/share-settings menu icons and red quit button. Prefer routed network adapters. Android file and TLS message interoperability verified.",
-    "ko": "상단 전체 메뉴·공유 설정 아이콘 구분, 종료 X 색상 개선, 가상 어댑터 대신 연결 경로 우선. Android와 양방향 파일·TLS 메시지 연동 검증."
+    "en": "Conversation bubbles, a fixed composer, compact chat menus, and fixed client font sizes at 125% display scaling.",
+    "ko": "메신저 말풍선과 고정 입력창, 간결한 대화 메뉴, 125% 배율에서 내부 글자 크기 고정."
   },
-  "releaseTag": "v1.0.3",
+  "releaseTag": "v1.0.4",
   "schemaVersion": 1,
-  "sha256": "20c10c3dafced2477fec2c64b17c4a0b915d86ee3a993dba5d5be53e0221b341",
-  "signature": "ce4d1010169eb0be3f7689bf224eacd26ad6105eb4e89284cc78c9ffc562a834737506662f4709f1e1ebc3cafc4f73093e835330047c295bf8e84784f0781995",
+  "sha256": "c894cd67d3f5c8695aa387fe7fac1ecca11dac0febe686ce4762a5d887288429",
+  "signature": "13eb1157a584205b996c97398a784b3cc37a1419e32685663dc70a29c84dd8d054a5a8936fb0ddc45339510c3ba2e2a789b70cba06359b82c8f5e9ea82a307f3",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4095059,
-  "version": "1.0.3"
+  "sizeBytes": 4107063,
+  "version": "1.0.4"
 }
