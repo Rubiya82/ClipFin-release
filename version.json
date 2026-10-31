@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.12-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.12/Sailfish-1.0.12-win-x64.zip",
+  "assetName": "Sailfish-1.0.13-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.13/Sailfish-1.0.13-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "f78a9ac8b64b9a4d3fd1a4b7ef466a250264ceccec8616aed5d00ca34ad5c33b",
-  "exeSizeBytes": 6637056,
+  "exeSha256": "a891cfd5e8a8748cfe816fc3e3459f2811c6f6e791878dca666e15c6579b6a8b",
+  "exeSizeBytes": 6642176,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-01T02:28:24+09:00",
+  "publishedAt": "2026-11-01T07:32:28+09:00",
   "releaseNotes": {
-    "en": "Share selection, sender preview, code display and capture cursor improvements",
-    "ko": "공유 목록 선택 삭제, 보내는 화면 미리보기, 코드 보기와 캡처 포인터 개선"
+    "en": "Compact share page, code editor, window placement and toast improvements",
+    "ko": "브라우저 코드 에디터, 창 위치 기억과 토스트 개선"
   },
-  "releaseTag": "v1.0.12",
+  "releaseTag": "v1.0.13",
   "schemaVersion": 1,
-  "sha256": "4cded1352005b3437ca7c642711662261418468dee6921aedc651f0f780827fd",
-  "signature": "7994540ee71e06756a9d0d1553d0582c3f4f9dd51f3811a7a84c149ab28ffc9aae1a7bdbf76e463431a8f31566693f65f6746e39cc6ed5434243edcc9d6f48fe",
+  "sha256": "c9890893ea292a80adcababee649ecb9b239b809557f6c844e17c53cdb9563c9",
+  "signature": "1a367a9c6f242bbf7298450462e4850e73f39364473fc8fe19da84ede4e9057f6d86930c42697c8322506d1c2d662d6373cd35cda20fedb5f491b52e4b0aa2fe",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4150817,
-  "version": "1.0.12"
+  "sizeBytes": 4152179,
+  "version": "1.0.13"
 }
