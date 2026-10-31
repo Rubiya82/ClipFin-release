@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.1-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.1/Sailfish-1.0.1-win-x64.zip",
+  "assetName": "Sailfish-1.0.2-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.2/Sailfish-1.0.2-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "a2d88b0a44c0d26067447b684cb3cd177a96d43ef48874fc1e0d92671e525a7f",
-  "exeSizeBytes": 6480896,
+  "exeSha256": "d0500b5a5a5c36fe97eeda7289a975b130b8b292f1aac7501928715317fa11f1",
+  "exeSizeBytes": 6489088,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-10-31T16:24:12+09:00",
+  "publishedAt": "2026-10-31T16:43:55+09:00",
   "releaseNotes": {
-    "en": "TLS 1.3 mutual-certificate messages, first-contact verification codes and DPAPI-protected local records. Update both apps and verify your peer.",
-    "ko": "메시지 TLS 1.3 상호 인증, 최초 상대 확인 코드, 로컬 대화·설정 DPAPI 보호. 양쪽 앱 업데이트 후 상대 확인이 필요합니다."
+    "en": "Improved shared-link controls and deletion. Change expiry and per-file total limits from collapsed cards. Active transfers can finish; deleted links refuse new downloads.",
+    "ko": "최근 공유 버튼과 삭제 동작 개선. 접힌 항목의 메뉴에서 유효기간·파일당 총 다운로드 횟수 변경. 기존 전송은 유지하고 삭제한 링크의 새 다운로드는 차단."
   },
-  "releaseTag": "v1.0.1",
+  "releaseTag": "v1.0.2",
   "schemaVersion": 1,
-  "sha256": "44454f1669e7d1c9ab103df382cc7036c7fb7035c06a93318f7ab2710a1ef321",
-  "signature": "2f533e5b05c4c18ced6ac616775d0b58b9bf6fb71693312ed756b9fe469485b1f6d70efd268c06d8d00c52d5d948c2c99a4e135b9beaf0d04b30eb6af1a7a8cc",
+  "sha256": "e9ef8875c21aa72fb5b6599e4ecb457e6060d90179df1c5585ecc34699d71a59",
+  "signature": "2df76c89dbff5cbb5b2133c5b1fb83c07581e8e5751b5cef04d5337319d377594382afe16c0a16d92f378aab35bd0d7619317d3e0e3c83870a21b917280b4408",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4082056,
-  "version": "1.0.1"
+  "sizeBytes": 4086719,
+  "version": "1.0.2"
 }
