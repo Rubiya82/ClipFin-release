@@ -1,0 +1,22 @@
+{
+  "assetName": "Sailfish-1.0.0-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.0/Sailfish-1.0.0-win-x64.zip",
+  "exePath": "Sailfish.exe",
+  "exeSha256": "91715d3b99d555b1a7435fc40f321ea47cbd6f44bb0c16bb8ee8d6481151eaff",
+  "exeSizeBytes": 6437376,
+  "keyId": "sailfish-release-2026",
+  "platform": "windows-x64",
+  "published": true,
+  "publishedAt": "2026-10-31T15:48:46+09:00",
+  "releaseNotes": {
+    "en": "Sailfish 1.0: clipboard sharing, parallel transfers, peer messages and verified updates.",
+    "ko": "Sailfish 1.0 정식 배포. 클립보드 공유, 병렬 전송, 메시지 및 자동 업데이트."
+  },
+  "releaseTag": "v1.0.0",
+  "schemaVersion": 1,
+  "sha256": "86c5885d38f96a9281f0b65eda4f9d6ffc7d708ffe1185252798a8eb1cd8dc0f",
+  "signature": "9c3159795148edebe8858166153dec8c039c7ac93108a54a0c48fc61534b9ea251cfe6445e7b6f84c9decdf2520986485597543862aaaa0cdf2e7335383f1df4",
+  "signatureAlgorithm": "ecdsa-p256-sha256",
+  "sizeBytes": 4064097,
+  "version": "1.0.0"
+}
