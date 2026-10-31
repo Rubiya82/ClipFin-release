@@ -19,3 +19,5 @@ Intranet routing must allow direct connections. Senders must remain online. Curr
 Seokwon Choi 2026. Third-party notices: [JSON](licenses/JSON-LICENSE.txt), [miniz](licenses/MINIZ-LICENSE.txt).
 
 From 1.0.1: TLS 1.3 peer messages with mutual device certificates and an explicit first-contact verification code. Both peers must update and approve the matching code. Local records use current-user DPAPI and device private keys stay nonexportable in Windows CNG. File sharing remains HTTP.
+
+Android: separately signed release APKs use `android-v<version>` tags and `android/version.json`. Same-signer increasing-versionCode updates preserve app data and require Android installer approval. The Windows update manifest stays separate.

@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.2-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.2/Sailfish-1.0.2-win-x64.zip",
+  "assetName": "Sailfish-1.0.3-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.3/Sailfish-1.0.3-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "d0500b5a5a5c36fe97eeda7289a975b130b8b292f1aac7501928715317fa11f1",
-  "exeSizeBytes": 6489088,
+  "exeSha256": "65108bbc27401b6043a6c372b820c373c958adddbd836791f70e646c6aaab1df",
+  "exeSizeBytes": 6508032,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-10-31T16:43:55+09:00",
+  "publishedAt": "2026-10-31T17:41:58+09:00",
   "releaseNotes": {
-    "en": "Improved shared-link controls and deletion. Change expiry and per-file total limits from collapsed cards. Active transfers can finish; deleted links refuse new downloads.",
-    "ko": "최근 공유 버튼과 삭제 동작 개선. 접힌 항목의 메뉴에서 유효기간·파일당 총 다운로드 횟수 변경. 기존 전송은 유지하고 삭제한 링크의 새 다운로드는 차단."
+    "en": "Distinct main/share-settings menu icons and red quit button. Prefer routed network adapters. Android file and TLS message interoperability verified.",
+    "ko": "상단 전체 메뉴·공유 설정 아이콘 구분, 종료 X 색상 개선, 가상 어댑터 대신 연결 경로 우선. Android와 양방향 파일·TLS 메시지 연동 검증."
   },
-  "releaseTag": "v1.0.2",
+  "releaseTag": "v1.0.3",
   "schemaVersion": 1,
-  "sha256": "e9ef8875c21aa72fb5b6599e4ecb457e6060d90179df1c5585ecc34699d71a59",
-  "signature": "2df76c89dbff5cbb5b2133c5b1fb83c07581e8e5751b5cef04d5337319d377594382afe16c0a16d92f378aab35bd0d7619317d3e0e3c83870a21b917280b4408",
+  "sha256": "20c10c3dafced2477fec2c64b17c4a0b915d86ee3a993dba5d5be53e0221b341",
+  "signature": "ce4d1010169eb0be3f7689bf224eacd26ad6105eb4e89284cc78c9ffc562a834737506662f4709f1e1ebc3cafc4f73093e835330047c295bf8e84784f0781995",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4086719,
-  "version": "1.0.2"
+  "sizeBytes": 4095059,
+  "version": "1.0.3"
 }

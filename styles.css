@@ -15,3 +15,5 @@
 .hero-copy,.hero-visual{min-width:0}.hero .hero-visual{width:min(520px,100%)}
 @media(max-width:900px){.hero{grid-template-columns:minmax(0,1fr)}.hero-copy{width:100%;max-width:650px}}
 @media(max-width:640px){.hero-visual .orb{max-width:100%}.hero-visual .orb-blue{right:0}}
+
+.android-release{display:grid;grid-template-columns:minmax(0,1fr) 260px;gap:50px;align-items:center;padding:40px;background:#fff;border-radius:32px}.android-release h2{font-size:clamp(32px,4vw,48px);line-height:1.16}.android-release p{line-height:1.8;color:#826d67;margin:20px 0}.android-release img{width:100%;height:auto;border-radius:24px;box-shadow:0 20px 60px #54312618}.android-release .small-note{font-size:13px}@media(max-width:640px){.android-release{grid-template-columns:minmax(0,1fr);padding:24px;gap:30px}.android-release img{max-width:260px;justify-self:center}}
