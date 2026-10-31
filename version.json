@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.8-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.8/Sailfish-1.0.8-win-x64.zip",
+  "assetName": "Sailfish-1.0.9-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.9/Sailfish-1.0.9-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "8dd58035567eb4a3b5fa2bacc72f6dd64f4d87113824fd55ce1ec3be5535180d",
-  "exeSizeBytes": 6575616,
+  "exeSha256": "c73de361dcb8a7f4f9c562a45626d83fbb8cde1639b910848434e89e07848c43",
+  "exeSizeBytes": 6605312,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-10-31T23:09:48+09:00",
+  "publishedAt": "2026-10-31T23:30:51+09:00",
   "releaseNotes": {
-    "en": "Retry or delete failed outgoing messages. Retries preserve the original message ID; deletion affects only local history.",
-    "ko": "실패한 내 메시지 재전송·삭제 추가. 기존 메시지 ID로 중복을 방지하고 내 기록에서만 삭제합니다."
+    "en": "Delete individual, selected or all conversation messages locally, without resurrecting records after send completion or peer retries.",
+    "ko": "모든 상태의 메시지 개별·선택·전체 삭제. 내 기록만 삭제하며 전송 완료나 상대 재전송으로 되살아나지 않습니다."
   },
-  "releaseTag": "v1.0.8",
+  "releaseTag": "v1.0.9",
   "schemaVersion": 1,
-  "sha256": "ba239ba46035e678c9c0a133a3f1c113264efb0ca09147400b2fb48b69b6893c",
-  "signature": "0814044c5503a5cba5c5c3b654e155071910a83a8983e485484e0da91119de78e86bce0241742b7952049e2f5d896a53f1849d553130f9bfa6d2301f7cd065a1",
+  "sha256": "4ccbb15662f18d66be97989a96e1114248ed707e220ab9b503e400a4e34d5e07",
+  "signature": "ec32f104e78826505b0dd7efe91ca87de3d21e48fc713c6f4f3d477348fd754f1010dad1c2881263b39c8004faece77d3e8ef49c75cbf4606384ef35cc744b33",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4124032,
-  "version": "1.0.8"
+  "sizeBytes": 4137287,
+  "version": "1.0.9"
 }

@@ -1,16 +1,16 @@
 {
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/android-v1.0.3/Sailfish-1.0.3-android.apk",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/android-v1.0.4/Sailfish-1.0.4-android.apk",
   "keyId": "sailfish-release-2026",
   "minSdk": 29,
   "packageName": "com.rubiya.sailfish",
   "platform": "android",
   "published": true,
   "schemaVersion": 1,
-  "sha256": "45eb00b5b0696c8597985383d89936dc1e3584b267982552df674403c135aadf",
-  "signature": "2023301e4e9a37592e024b47dc1f42051bd935ab177adb173cb1cb304c0e1afe6d2cd4dd615f60e2a43a4c72740ce378db8af2cf9d4286f431efc932b84a6a91",
+  "sha256": "3a9c974f32c79642809d3c4f7e09bc29f3d9b49142555251a4513380acb9a9c5",
+  "signature": "2b8d35d4fa68d27ead941fa4643747a55b9ac3d0e578aa2d8f44ef5e92abd7ee694045794ace3035ae6b97e2a14401d348d302660cd5ea2037fba5401939fc49",
   "signatureAlgorithm": "ecdsa-p256-sha256",
   "signerSha256": "51f1d581ee1adb0b6a7708a9df798ce195ffb1c63164b2b5291944d20147ce3d",
-  "sizeBytes": 2351738,
-  "version": "1.0.3",
-  "versionCode": 10003
+  "sizeBytes": 2364026,
+  "version": "1.0.4",
+  "versionCode": 10004
 }
