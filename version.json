@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.14-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.14/Sailfish-1.0.14-win-x64.zip",
+  "assetName": "Sailfish-1.0.15-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.15/Sailfish-1.0.15-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "6ee74d5b90b0ab953c207cdbbb8b33d26ff7364022dae22d30655c1ffc50a4ad",
-  "exeSizeBytes": 6648832,
+  "exeSha256": "291f7e1d61389185b7fbb3b59d720204118188bcbecc6d9ed4cfeaaa707e7490",
+  "exeSizeBytes": 6673408,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-01T08:13:49+09:00",
+  "publishedAt": "2026-11-01T08:22:23+09:00",
   "releaseNotes": {
-    "en": "Unread taskbar and tray badges; fix disabled share settings menu",
-    "ko": "작업표시줄과 트레이의 미읽음 배지, 공유 설정 메뉴 활성화 수정"
+    "en": "In-chat shared image and file previews; show sharing IP and port",
+    "ko": "Sailfish 메시지 이미지·파일 미리보기와 공유 IP/포트 표시"
   },
-  "releaseTag": "v1.0.14",
+  "releaseTag": "v1.0.15",
   "schemaVersion": 1,
-  "sha256": "3e3eaab3cf532ab8c6344104cb5e5a712baeccc9f1942b936f7c546d986aa178",
-  "signature": "0f23b51d04f225d6a902b34417c0431f0ae19f76d7d2bcd1cc7f9553ca9768f9ec70a9317d50b9e702414a06586ca15ebfcd6f7a31c9567e598a3d59f2007235",
+  "sha256": "3da16c07062c583da6000148867e951e39e0846e72fd739218503aa3d60152ab",
+  "signature": "f4a6612995a9b4aa605cf9eea0277c4026aaa9267c471322254fd52344fbe8c68b6d8dbd4e4f21310f4f48ec77f3cc4a79873978706028e5ac365ee8bfbb6ad2",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4154702,
-  "version": "1.0.14"
+  "sizeBytes": 4167163,
+  "version": "1.0.15"
 }
