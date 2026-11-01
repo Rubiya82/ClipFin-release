@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.18-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.18/Sailfish-1.0.18-win-x64.zip",
+  "assetName": "Sailfish-1.0.19-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.19/Sailfish-1.0.19-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "5ef0a1e84139c38b1be92d7701f07cfcf6d02f27f0a8d6b394fef3f5687e2dd7",
-  "exeSizeBytes": 6709248,
+  "exeSha256": "a975d478f600ea12ee67a23245ab2205f230f1003c9f16ea89603e49c6a2cf3e",
+  "exeSizeBytes": 6709760,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-02T00:25:29+09:00",
+  "publishedAt": "2026-11-02T00:57:59+09:00",
   "releaseNotes": {
-    "en": "Improved message links and previews, receipt cleanup, duplicate file choices, and share page branding.",
-    "ko": "수신 메시지 링크와 이미지 미리보기 개선, 실패 목록 정리, 중복 파일 처리 선택, 공유 페이지 복원."
+    "en": "Improved toast close and delete controls and enlarged Android back and delete touch targets.",
+    "ko": "토스트 닫기 버튼과 삭제 표시를 개선하고 Android 뒤로가기 및 삭제 터치 영역을 확대했습니다."
   },
-  "releaseTag": "v1.0.18",
+  "releaseTag": "v1.0.19",
   "schemaVersion": 1,
-  "sha256": "064caff4557c6d03675a7563fd130fa61b976b8f0431a73b3d96d2074323ea9f",
-  "signature": "38946122dcacfe0b20b8a58c0c2c8922f0037b9d513f57220aa506f649d2512a3bc460fd780fbb62813db1995fc86cbd01dcb7178ba6798e580578171e5b2886",
+  "sha256": "8aa42b2ac731adde8cc7f0bd4709d7a7b68f51f68c979b174a6ac8435925077b",
+  "signature": "7a2522ece04a79e829bce9037e116426b06059c1ba9b3ef888fb94c3270d7ae71a33a7ad853b4af8b63053043756c3be2a114eeac2e1be36386e8fe560a9fe6a",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4180912,
-  "version": "1.0.18"
+  "sizeBytes": 4181000,
+  "version": "1.0.19"
 }
