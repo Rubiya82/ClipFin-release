@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.17-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.17/Sailfish-1.0.17-win-x64.zip",
+  "assetName": "Sailfish-1.0.18-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.18/Sailfish-1.0.18-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "d1169d60d764e9a45d495c4dc9ce46002204adf464fe05881959ecf041e354ba",
-  "exeSizeBytes": 6702592,
+  "exeSha256": "5ef0a1e84139c38b1be92d7701f07cfcf6d02f27f0a8d6b394fef3f5687e2dd7",
+  "exeSizeBytes": 6709248,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-01T13:07:56+09:00",
+  "publishedAt": "2026-11-02T00:25:29+09:00",
   "releaseNotes": {
-    "en": "Open sent links, save folder menu and preview recovery",
-    "ko": "보낸 링크 열기, 저장 폴더 메뉴와 메시지 미리보기 복구"
+    "en": "Improved message links and previews, receipt cleanup, duplicate file choices, and share page branding.",
+    "ko": "수신 메시지 링크와 이미지 미리보기 개선, 실패 목록 정리, 중복 파일 처리 선택, 공유 페이지 복원."
   },
-  "releaseTag": "v1.0.17",
+  "releaseTag": "v1.0.18",
   "schemaVersion": 1,
-  "sha256": "6cc3fa606f4d3bffe9fb3beb01bcb17eae9f14c473967d355a86aaeced41689c",
-  "signature": "e45afb215c62fa7bb5e01469fc8d5b6e21408a08857443212028a9bf715553b7c57dab9666ca604d8884c2ba1fe4a96337dda1dccf8182dec91a38e002159340",
+  "sha256": "064caff4557c6d03675a7563fd130fa61b976b8f0431a73b3d96d2074323ea9f",
+  "signature": "38946122dcacfe0b20b8a58c0c2c8922f0037b9d513f57220aa506f649d2512a3bc460fd780fbb62813db1995fc86cbd01dcb7178ba6798e580578171e5b2886",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4178661,
-  "version": "1.0.17"
+  "sizeBytes": 4180912,
+  "version": "1.0.18"
 }
