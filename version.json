@@ -1,22 +1,23 @@
 {
-  "assetName": "Sailfish-1.0.19-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.19/Sailfish-1.0.19-win-x64.zip",
+  "assetName": "Sailfish-1.0.20-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.20/Sailfish-1.0.20-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "a975d478f600ea12ee67a23245ab2205f230f1003c9f16ea89603e49c6a2cf3e",
-  "exeSizeBytes": 6709760,
+  "exeSha256": "7ca95865e3f2eb4bb02520b383820d5d2a191de6aaaefa2b5bfad8f19e1c74ab",
+  "exeSizeBytes": 6712320,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-02T00:57:59+09:00",
+  "publishedAt": "2026-11-02T07:23:40+09:00",
   "releaseNotes": {
-    "en": "Improved toast close and delete controls and enlarged Android back and delete touch targets.",
-    "ko": "토스트 닫기 버튼과 삭제 표시를 개선하고 Android 뒤로가기 및 삭제 터치 영역을 확대했습니다."
+    "en": "Branded Sailfish share links with legacy link compatibility.",
+    "ko": "공유 링크에 Sailfish 이름 표시 및 기존 링크 호환."
   },
-  "releaseTag": "v1.0.19",
+  "releaseTag": "v1.0.20",
   "schemaVersion": 1,
-  "sha256": "8aa42b2ac731adde8cc7f0bd4709d7a7b68f51f68c979b174a6ac8435925077b",
-  "signature": "7a2522ece04a79e829bce9037e116426b06059c1ba9b3ef888fb94c3270d7ae71a33a7ad853b4af8b63053043756c3be2a114eeac2e1be36386e8fe560a9fe6a",
+  "sha256": "55d0d6b243d4034e00740ef9dab8df2db6e4812b6483eaee8e099c6e78ec6996",
+  "signature": "b2c6c4da0a4510e575f3db9ee07049ca6e002b75d1dc2d07fb243a4b05c98c392823d07d5aa46366465c7457fc4c2fc7e86762d008f50c5222f9050dee6a5d40",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4181000,
-  "version": "1.0.19"
+  "sizeBytes": 4181822,
+  "version": "1.0.20"
 }
+
