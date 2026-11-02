@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.21-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.21/Sailfish-1.0.21-win-x64.zip",
+  "assetName": "Sailfish-1.0.22-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.22/Sailfish-1.0.22-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "f52e8b930f253cb6f96758640f2ba9df27a90b33a4def8bce8f371f43402f1ad",
-  "exeSizeBytes": 6713344,
+  "exeSha256": "9ce4c943f817c8b67fa2c6f63a86f0eb84d4771e5dfd3ce66d3b3f47a0b03816",
+  "exeSizeBytes": 6959616,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-02T10:55:38+09:00",
+  "publishedAt": "2026-11-02T15:12:27+09:00",
   "releaseNotes": {
-    "en": "Fixed message menu commands and added Enter to send and Shift+Enter for a new line.",
-    "ko": "메시지 창 메뉴 활성화 및 Enter 전송과 Shift+Enter 줄바꿈을 적용했습니다."
+    "en": "Added Windows address book, presence lamps, mutual first-use verification, group rooms and durable retries. Group delivery requires the owner PC to be reachable.",
+    "ko": "Windows 주소록, 온라인 램프, 양쪽 최초 인증, 그룹 대화방과 오프라인 재전송을 추가했습니다. 그룹 전송에는 방장 PC 연결이 필요합니다."
   },
-  "releaseTag": "v1.0.21",
+  "releaseTag": "v1.0.22",
   "schemaVersion": 1,
-  "sha256": "7cd4b1411e31f49c7b5ae496e98e0ec40b274411dd6fc378d67c779b5f62f933",
-  "signature": "9931869785e83c73ba4c537206c00bc0db10e59c34413872bd3bd3945abd66aca48aaefa34a2a827412e0b30b9a71d7606e68ae6b5fb9688a2bb08a1b2add7dd",
+  "sha256": "61d5fd6023dd2783413663e9e752807fe5639f316f885d40e0fe6f1ce56dd6a6",
+  "signature": "a4a1a352ed4ae91d984b692cd51d8b4c81055de6e87bb69daed58d640647346c977cceb1fa2640751d93833bfa8e131b227c8a42d3ee3259d244531747c1d32e",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4182091,
-  "version": "1.0.21"
+  "sizeBytes": 4285664,
+  "version": "1.0.22"
 }
