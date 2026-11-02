@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.24-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.24/Sailfish-1.0.24-win-x64.zip",
+  "assetName": "Sailfish-1.0.25-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.25/Sailfish-1.0.25-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "61947fd407f05b83addf4292f332bf7347cabddb5f1b768976e107cc65f4217b",
-  "exeSizeBytes": 7064064,
+  "exeSha256": "1830f05029569214814eb8d8f523d08fe6d2fc838724abdae28ddbe3c9d7570b",
+  "exeSizeBytes": 10573312,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-02T23:20:05+09:00",
+  "publishedAt": "2026-11-02T23:50:21+09:00",
   "releaseNotes": {
-    "en": "Resumable encrypted message attachments up to 20 GiB, cancellation and retries, profiles and dark mode improvements. Update both peers.",
-    "ko": "메시지 첨부의 20GB 분할 전송·중단·재전송·이어받기, 프로필 및 다크 모드 개선. 양쪽 앱을 업데이트하세요."
+    "en": "Bundled TLS 1.3 removes the Windows 10 Schannel startup limitation while retaining existing device certificates and verification codes.",
+    "ko": "Windows 10 메시지 서버 시작 오류 개선. TLS 1.3을 EXE에 내장하고 기존 인증서와 상대 확인 코드를 유지합니다."
   },
-  "releaseTag": "v1.0.24",
+  "releaseTag": "v1.0.25",
   "schemaVersion": 1,
-  "sha256": "e41fca3e826eafaabfd4a0585de91d29cd8687324133800a7b98a03499e9b6e5",
-  "signature": "427b3ef9c79fb88e00d9935e35bd036568efcb2fbf94828d5c340dc063b4a03880981571c2b1abe79770f259ab9d5b2b4ddbd4e3f5fc551c80dd18b638390412",
+  "sha256": "4be9c9542417ad9670c53583719313072e51a9c1c6b986e53bfcd551c3cdb111",
+  "signature": "943afd58873b5396526a7ec2effbfbd35dc0be1520b50c9b2b9beed2a13112b114cee46ddbf1925e74777bf893d67214559ba8f3f37dac2f5c6d751e010384f9",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4325826,
-  "version": "1.0.24"
+  "sizeBytes": 5805973,
+  "version": "1.0.25"
 }
