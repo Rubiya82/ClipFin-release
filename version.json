@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.27-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.27/Sailfish-1.0.27-win-x64.zip",
+  "assetName": "Sailfish-1.0.28-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.28/Sailfish-1.0.28-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "0f9e2c8e5bf5b6aa73f9914f878e909d22f65fa28df6c1435dbd1ad11ec9eb0a",
-  "exeSizeBytes": 11951104,
+  "exeSha256": "3ca73a720218523061e3640c29e9ae3c71f4068def782366afadeaf30484c865",
+  "exeSizeBytes": 11964416,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-03T01:30:13+09:00",
+  "publishedAt": "2026-11-03T07:29:33+09:00",
   "releaseNotes": {
-    "en": "Persistent transfer speed and duration, image previews before receiving originals, open received files, and Ctrl+wheel chat text sizing. Update both peers to 1.0.27.",
-    "ko": "메시지 완료 카드에 평균 속도·소요 시간 저장, 원본 받기 전 양쪽 이미지 미리보기, 수신 파일 열기, Ctrl+마우스 휠 글자 크기 조절. 양쪽 앱을 1.0.27로 업데이트하세요."
+    "en": "Live sender transfer speed, fresh transfers for the same file, and image click to receive and open or open the sent original.",
+    "ko": "송신 중 전송속도 표시, 동일 파일 새 전송 문제 수정, 이미지 클릭 시 수신 후 열기 및 송신 원본 열기."
   },
-  "releaseTag": "v1.0.27",
+  "releaseTag": "v1.0.28",
   "schemaVersion": 1,
-  "sha256": "05442363458327d0b1b75dba80f8ec3d7bd361bb1103317dcb692c6aa4bd5bfa",
-  "signature": "8a8dc4dcd72ad0d7dce661d2d1a52e9ad67672f0679fe26c732bafd286af8af89dc01014c0081ac5f647031a9baddf8a3f6436f169042b428c5b358a7795ada2",
+  "sha256": "ad65dcdb8abbcf404c1c328bb66a39baea95e7b83e097a7bd9c51a6bab5cde3d",
+  "signature": "3cc682274d4b9de13e9dd44bfc04e0dfb36aebc8744ead9be936d0203b0b0cec860a74b924e4245afad8248d5eef8a6cbd0daa422ae581d6f7cd4cdb9a137d12",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6184149,
-  "version": "1.0.27"
+  "sizeBytes": 6188411,
+  "version": "1.0.28"
 }
