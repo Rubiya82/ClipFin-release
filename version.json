@@ -1,23 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.20-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.20/Sailfish-1.0.20-win-x64.zip",
+  "assetName": "Sailfish-1.0.21-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.21/Sailfish-1.0.21-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "7ca95865e3f2eb4bb02520b383820d5d2a191de6aaaefa2b5bfad8f19e1c74ab",
-  "exeSizeBytes": 6712320,
+  "exeSha256": "f52e8b930f253cb6f96758640f2ba9df27a90b33a4def8bce8f371f43402f1ad",
+  "exeSizeBytes": 6713344,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-02T07:23:40+09:00",
+  "publishedAt": "2026-11-02T10:55:38+09:00",
   "releaseNotes": {
-    "en": "Branded Sailfish share links with legacy link compatibility.",
-    "ko": "공유 링크에 Sailfish 이름 표시 및 기존 링크 호환."
+    "en": "Fixed message menu commands and added Enter to send and Shift+Enter for a new line.",
+    "ko": "메시지 창 메뉴 활성화 및 Enter 전송과 Shift+Enter 줄바꿈을 적용했습니다."
   },
-  "releaseTag": "v1.0.20",
+  "releaseTag": "v1.0.21",
   "schemaVersion": 1,
-  "sha256": "55d0d6b243d4034e00740ef9dab8df2db6e4812b6483eaee8e099c6e78ec6996",
-  "signature": "b2c6c4da0a4510e575f3db9ee07049ca6e002b75d1dc2d07fb243a4b05c98c392823d07d5aa46366465c7457fc4c2fc7e86762d008f50c5222f9050dee6a5d40",
+  "sha256": "7cd4b1411e31f49c7b5ae496e98e0ec40b274411dd6fc378d67c779b5f62f933",
+  "signature": "9931869785e83c73ba4c537206c00bc0db10e59c34413872bd3bd3945abd66aca48aaefa34a2a827412e0b30b9a71d7606e68ae6b5fb9688a2bb08a1b2add7dd",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4181822,
-  "version": "1.0.20"
+  "sizeBytes": 4182091,
+  "version": "1.0.21"
 }
-
