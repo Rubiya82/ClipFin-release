@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.25-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.25/Sailfish-1.0.25-win-x64.zip",
+  "assetName": "Sailfish-1.0.26-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.26/Sailfish-1.0.26-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "1830f05029569214814eb8d8f523d08fe6d2fc838724abdae28ddbe3c9d7570b",
-  "exeSizeBytes": 10573312,
+  "exeSha256": "a91528647a6fe2f23145cf4222eed8853cc89b1770d295f0e68dbb9edf006a8d",
+  "exeSizeBytes": 11920896,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-02T23:50:21+09:00",
+  "publishedAt": "2026-11-03T01:05:58+09:00",
   "releaseNotes": {
-    "en": "Bundled TLS 1.3 removes the Windows 10 Schannel startup limitation while retaining existing device certificates and verification codes.",
-    "ko": "Windows 10 메시지 서버 시작 오류 개선. TLS 1.3을 EXE에 내장하고 기존 인증서와 상대 확인 코드를 유지합니다."
+    "en": "Recipient-approved attachment downloads, image paste previews, duplicate-file choices, faster TLS transfers and capture shortcuts 1-4. Update both peers.",
+    "ko": "수신자가 받기를 눌러 파일 수신. 이미지 붙여넣기 미리보기, 중복 파일 선택, 전송 속도 개선과 캡처 단축키 1~4 재배치. 양쪽 앱 업데이트가 필요합니다."
   },
-  "releaseTag": "v1.0.25",
+  "releaseTag": "v1.0.26",
   "schemaVersion": 1,
-  "sha256": "4be9c9542417ad9670c53583719313072e51a9c1c6b986e53bfcd551c3cdb111",
-  "signature": "943afd58873b5396526a7ec2effbfbd35dc0be1520b50c9b2b9beed2a13112b114cee46ddbf1925e74777bf893d67214559ba8f3f37dac2f5c6d751e010384f9",
+  "sha256": "7c106c4257f32ec1a7b4b58429263e73f8c614a81ac1dec597a1da7a9678de7e",
+  "signature": "0378d03715f3db79e19aac927792fb3050896c9a1e24d1cd62d6dbd8c74028462cac5735181bc4bcd52c83bd45d208a60085ab7e823c635b7bb703c9563b19d3",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 5805973,
-  "version": "1.0.25"
+  "sizeBytes": 6171082,
+  "version": "1.0.26"
 }
