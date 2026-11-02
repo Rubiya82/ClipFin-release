@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.22-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.22/Sailfish-1.0.22-win-x64.zip",
+  "assetName": "Sailfish-1.0.23-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.23/Sailfish-1.0.23-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "9ce4c943f817c8b67fa2c6f63a86f0eb84d4771e5dfd3ce66d3b3f47a0b03816",
-  "exeSizeBytes": 6959616,
+  "exeSha256": "fd0be6f9bf5b78f629ea6b1aa34060c88f1ac250e5f88bcc3dd01f5a56606903",
+  "exeSizeBytes": 6960128,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-02T15:12:27+09:00",
+  "publishedAt": "2026-11-02T15:36:53+09:00",
   "releaseNotes": {
-    "en": "Added Windows address book, presence lamps, mutual first-use verification, group rooms and durable retries. Group delivery requires the owner PC to be reachable.",
-    "ko": "Windows 주소록, 온라인 램프, 양쪽 최초 인증, 그룹 대화방과 오프라인 재전송을 추가했습니다. 그룹 전송에는 방장 PC 연결이 필요합니다."
+    "en": "Shows the Windows user display name in web shares and messaging.",
+    "ko": "웹 공유와 메신저에 Windows 사용자 표시 이름을 표시합니다."
   },
-  "releaseTag": "v1.0.22",
+  "releaseTag": "v1.0.23",
   "schemaVersion": 1,
-  "sha256": "61d5fd6023dd2783413663e9e752807fe5639f316f885d40e0fe6f1ce56dd6a6",
-  "signature": "a4a1a352ed4ae91d984b692cd51d8b4c81055de6e87bb69daed58d640647346c977cceb1fa2640751d93833bfa8e131b227c8a42d3ee3259d244531747c1d32e",
+  "sha256": "1e8de8c82920a6f6f377640e657bf2ffb4e211c1bd7a39997839c961f0317a28",
+  "signature": "197d136e8247cb342310f1ff1bb336c2eeba6f018048814a8d5acd05b2b89e3883589098110914216cb91ca4fe90f68d9aefae3b8470aa026dfd3d69a685e265",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4285664,
-  "version": "1.0.22"
+  "sizeBytes": 4285992,
+  "version": "1.0.23"
 }
