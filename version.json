@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.26-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.26/Sailfish-1.0.26-win-x64.zip",
+  "assetName": "Sailfish-1.0.27-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.27/Sailfish-1.0.27-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "a91528647a6fe2f23145cf4222eed8853cc89b1770d295f0e68dbb9edf006a8d",
-  "exeSizeBytes": 11920896,
+  "exeSha256": "0f9e2c8e5bf5b6aa73f9914f878e909d22f65fa28df6c1435dbd1ad11ec9eb0a",
+  "exeSizeBytes": 11951104,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-03T01:05:58+09:00",
+  "publishedAt": "2026-11-03T01:30:13+09:00",
   "releaseNotes": {
-    "en": "Recipient-approved attachment downloads, image paste previews, duplicate-file choices, faster TLS transfers and capture shortcuts 1-4. Update both peers.",
-    "ko": "수신자가 받기를 눌러 파일 수신. 이미지 붙여넣기 미리보기, 중복 파일 선택, 전송 속도 개선과 캡처 단축키 1~4 재배치. 양쪽 앱 업데이트가 필요합니다."
+    "en": "Persistent transfer speed and duration, image previews before receiving originals, open received files, and Ctrl+wheel chat text sizing. Update both peers to 1.0.27.",
+    "ko": "메시지 완료 카드에 평균 속도·소요 시간 저장, 원본 받기 전 양쪽 이미지 미리보기, 수신 파일 열기, Ctrl+마우스 휠 글자 크기 조절. 양쪽 앱을 1.0.27로 업데이트하세요."
   },
-  "releaseTag": "v1.0.26",
+  "releaseTag": "v1.0.27",
   "schemaVersion": 1,
-  "sha256": "7c106c4257f32ec1a7b4b58429263e73f8c614a81ac1dec597a1da7a9678de7e",
-  "signature": "0378d03715f3db79e19aac927792fb3050896c9a1e24d1cd62d6dbd8c74028462cac5735181bc4bcd52c83bd45d208a60085ab7e823c635b7bb703c9563b19d3",
+  "sha256": "05442363458327d0b1b75dba80f8ec3d7bd361bb1103317dcb692c6aa4bd5bfa",
+  "signature": "8a8dc4dcd72ad0d7dce661d2d1a52e9ad67672f0679fe26c732bafd286af8af89dc01014c0081ac5f647031a9baddf8a3f6436f169042b428c5b358a7795ada2",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6171082,
-  "version": "1.0.26"
+  "sizeBytes": 6184149,
+  "version": "1.0.27"
 }
