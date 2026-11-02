@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.23-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.23/Sailfish-1.0.23-win-x64.zip",
+  "assetName": "Sailfish-1.0.24-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.24/Sailfish-1.0.24-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "fd0be6f9bf5b78f629ea6b1aa34060c88f1ac250e5f88bcc3dd01f5a56606903",
-  "exeSizeBytes": 6960128,
+  "exeSha256": "61947fd407f05b83addf4292f332bf7347cabddb5f1b768976e107cc65f4217b",
+  "exeSizeBytes": 7064064,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-02T15:36:53+09:00",
+  "publishedAt": "2026-11-02T23:20:05+09:00",
   "releaseNotes": {
-    "en": "Shows the Windows user display name in web shares and messaging.",
-    "ko": "웹 공유와 메신저에 Windows 사용자 표시 이름을 표시합니다."
+    "en": "Resumable encrypted message attachments up to 20 GiB, cancellation and retries, profiles and dark mode improvements. Update both peers.",
+    "ko": "메시지 첨부의 20GB 분할 전송·중단·재전송·이어받기, 프로필 및 다크 모드 개선. 양쪽 앱을 업데이트하세요."
   },
-  "releaseTag": "v1.0.23",
+  "releaseTag": "v1.0.24",
   "schemaVersion": 1,
-  "sha256": "1e8de8c82920a6f6f377640e657bf2ffb4e211c1bd7a39997839c961f0317a28",
-  "signature": "197d136e8247cb342310f1ff1bb336c2eeba6f018048814a8d5acd05b2b89e3883589098110914216cb91ca4fe90f68d9aefae3b8470aa026dfd3d69a685e265",
+  "sha256": "e41fca3e826eafaabfd4a0585de91d29cd8687324133800a7b98a03499e9b6e5",
+  "signature": "427b3ef9c79fb88e00d9935e35bd036568efcb2fbf94828d5c340dc063b4a03880981571c2b1abe79770f259ab9d5b2b4ddbd4e3f5fc551c80dd18b638390412",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4285992,
-  "version": "1.0.23"
+  "sizeBytes": 4325826,
+  "version": "1.0.24"
 }
