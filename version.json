@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.28-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.28/Sailfish-1.0.28-win-x64.zip",
+  "assetName": "Sailfish-1.0.29-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.29/Sailfish-1.0.29-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "3ca73a720218523061e3640c29e9ae3c71f4068def782366afadeaf30484c865",
-  "exeSizeBytes": 11964416,
+  "exeSha256": "7d9157d82e0011360e35dd224ea79ad731524a2d42c529bf96f14d40063479fd",
+  "exeSizeBytes": 11964928,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-03T07:29:33+09:00",
+  "publishedAt": "2026-11-03T08:12:13+09:00",
   "releaseNotes": {
-    "en": "Live sender transfer speed, fresh transfers for the same file, and image click to receive and open or open the sent original.",
-    "ko": "송신 중 전송속도 표시, 동일 파일 새 전송 문제 수정, 이미지 클릭 시 수신 후 열기 및 송신 원본 열기."
+    "en": "Android messages return to the main screen on Back, attachment + beside the composer, and preview Send beside Remove on Windows and Android.",
+    "ko": "Android 메시지 뒤로가기는 메인 화면으로 이동, 입력칸 + 첨부 버튼, Windows·Android 이미지 미리보기 X 옆 보내기 버튼 추가."
   },
-  "releaseTag": "v1.0.28",
+  "releaseTag": "v1.0.29",
   "schemaVersion": 1,
-  "sha256": "ad65dcdb8abbcf404c1c328bb66a39baea95e7b83e097a7bd9c51a6bab5cde3d",
-  "signature": "3cc682274d4b9de13e9dd44bfc04e0dfb36aebc8744ead9be936d0203b0b0cec860a74b924e4245afad8248d5eef8a6cbd0daa422ae581d6f7cd4cdb9a137d12",
+  "sha256": "7bb4fc8085af704fb5b6f9d31223a8e99ee0f338e944e866a6a92e507aa7627c",
+  "signature": "36f429dc103321dfb84e8e3fac783ee947112c7f90c5612eccf96fac7f7f9a1cd9420e883870230c5cd024670d4246550999975fbba0d7c3e5467764ba3fe159",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6188411,
-  "version": "1.0.28"
+  "sizeBytes": 6188700,
+  "version": "1.0.29"
 }
