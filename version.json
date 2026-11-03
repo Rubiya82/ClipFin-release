@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.35-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.35/Sailfish-1.0.35-win-x64.zip",
+  "assetName": "Sailfish-1.0.36-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.36/Sailfish-1.0.36-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "d69dac5319039d6bbd01b56796d106790be15cef27023ffda4ea97414cb94584",
-  "exeSizeBytes": 11398144,
+  "exeSha256": "77f58465017f7815bac7f242e1ef4c7c17aecb3b7f040ac0fdf5e6f50ab7b871",
+  "exeSizeBytes": 11740160,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-04T00:25:27+09:00",
+  "publishedAt": "2026-11-04T01:22:50+09:00",
   "releaseNotes": {
-    "en": "Renamed to ClipFin with a new icon. Existing features and data are preserved.",
-    "ko": "ClipFin 이름과 아이콘으로 변경했습니다. 기존 기능과 자료는 유지합니다."
+    "en": "Migrate the installed executable to ClipFin.exe and use circular light/dark icons while preserving data and update compatibility.",
+    "ko": "설치 실행 파일명을 ClipFin.exe로 전환하고 원형·다크 아이콘을 적용했습니다. 기존 자료와 업데이트 호환성은 유지합니다."
   },
-  "releaseTag": "v1.0.35",
+  "releaseTag": "v1.0.36",
   "schemaVersion": 1,
-  "sha256": "4a5ef2922dc711e2c43681714b54fd3001d1bf53801d4524fc900b64c578f02b",
-  "signature": "d178c5946d9a38ceae459022a53ce798cb8b1d82a37b8e312e6d5f2b2ac9fceb500a24d22bddfa4989d5b73d06435065c26ce8d618dd823e50d83966b23b7570",
+  "sha256": "2c3e62039249633745434f3d157956f93e7f8cb1b3924a95d22b6b7611020f15",
+  "signature": "e4010e72880e8cf6fb4cb6a8dc958a7bce43359033a294233288ce2c1fbdfc70c2368be5ac154755d00310a90ccd757b22ab7caf405195484ebc459f69f693cf",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 5812420,
-  "version": "1.0.35"
+  "sizeBytes": 6144100,
+  "version": "1.0.36"
 }

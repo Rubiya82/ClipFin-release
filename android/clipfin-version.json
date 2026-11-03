@@ -1,16 +1,16 @@
 {
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/android-v1.0.32/ClipFin-1.0.32-android.apk",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/android-v1.0.36/ClipFin-1.0.36-android.apk",
   "keyId": "sailfish-release-2026",
   "minSdk": 29,
   "packageName": "com.rubiya.sailfish",
   "platform": "android",
   "published": true,
   "schemaVersion": 1,
-  "sha256": "17e3c788ad6c31e8286107d5dfab9c931270ef7580111c67db8c80b01b5f7c84",
-  "signature": "a6186ea3ef33def7751958995200d8ca9af72a4b87045e588984bdab920f9f97847fbf3d211d1a010579b9f301fa8d2e600d3ae1ffc71d12fd2eb6ccda6cbc80",
+  "sha256": "e58aad36ad518376f7059b422273a76de2c644943b08a34bb8bdb15ccef9903c",
+  "signature": "dbd41cb8bc1972c059f87717fdfc0b1c6deb5b361c974aed54de3d7e40647adabc90ad69bf12a03e7293335baeb691d04bc0f83daee1f54f531727f88b7f9757",
   "signatureAlgorithm": "ecdsa-p256-sha256",
   "signerSha256": "51f1d581ee1adb0b6a7708a9df798ce195ffb1c63164b2b5291944d20147ce3d",
-  "sizeBytes": 758450,
-  "version": "1.0.32",
-  "versionCode": 10032
+  "sizeBytes": 762546,
+  "version": "1.0.36",
+  "versionCode": 10036
 }
