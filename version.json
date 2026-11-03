@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.32-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.32/Sailfish-1.0.32-win-x64.zip",
+  "assetName": "Sailfish-1.0.33-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.33/Sailfish-1.0.33-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "9296025dd38fe9e46004013b7cf8c4f8e7e878f8d9a27df249f7c7a9946a18d6",
-  "exeSizeBytes": 12339712,
+  "exeSha256": "6223f6a945c9802ad8bda6d36b29934d3700e091c0cd21cf64772ebb6b183022",
+  "exeSizeBytes": 12495872,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-03T13:54:59+09:00",
+  "publishedAt": "2026-11-03T17:36:14+09:00",
   "releaseNotes": {
-    "en": "Accept IP contact requests and group invitations for pinned TLS chats. Includes 24 profile faces, a resizable contact list, full-name tooltips and single-backup retention. Update all Windows participants.",
-    "ko": "IP 등록 요청·그룹 초대 수락 후 TLS 대화, 얼굴 프로필 24개, 목록 폭 조절·전체 이름 툴팁, 최신 업데이트 백업 1개 유지. Windows 참여자 모두 업데이트하세요."
+    "en": "Smoother message input and sidebar resizing, own profile card, button tips, remembered window bounds, version-click update checks and file/folder usage lookup.",
+    "ko": "메시지 입력·목록 깜빡임 개선, 내 이모지·이름 프로필 카드, 버튼 도움말·창 위치 복원, 버전 클릭 업데이트 확인, 파일·폴더 점유 프로세스 검색."
   },
-  "releaseTag": "v1.0.32",
+  "releaseTag": "v1.0.33",
   "schemaVersion": 1,
-  "sha256": "9073534959cad2c45e701e6c345cb1b92ce4c7bf50beef9bfb338ce0e0d4957c",
-  "signature": "833a39344187ac5477346957410cf9232731113b6e774ac64e8dd9f7cdd1d96851af587f99737c9454274c9191354879a2a644d71da703038864482b0988c563",
+  "sha256": "88bd7d3eb5571b9d8c44973481201fcf38a257eea50116303fdffc2e19316c5c",
+  "signature": "7f4f41fabd928cf9c3c7d76837b033ec1a32058a2002896203f9077369465e7b8deb06b3e511ee6d933a1fdbc75f9c354563c573fea5d69d9c36e7ebaa758a77",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6404005,
-  "version": "1.0.32"
+  "sizeBytes": 6475347,
+  "version": "1.0.33"
 }
