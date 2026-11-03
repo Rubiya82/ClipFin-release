@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.29-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.29/Sailfish-1.0.29-win-x64.zip",
+  "assetName": "Sailfish-1.0.30-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.30/Sailfish-1.0.30-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "7d9157d82e0011360e35dd224ea79ad731524a2d42c529bf96f14d40063479fd",
-  "exeSizeBytes": 11964928,
+  "exeSha256": "6978906320cc8f7906c0605843e35eab6a6fc7b8d87fbf9041436d299f46c0f1",
+  "exeSizeBytes": 11999744,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-03T08:12:13+09:00",
+  "publishedAt": "2026-11-03T11:41:24+09:00",
   "releaseNotes": {
-    "en": "Android messages return to the main screen on Back, attachment + beside the composer, and preview Send beside Remove on Windows and Android.",
-    "ko": "Android 메시지 뒤로가기는 메인 화면으로 이동, 입력칸 + 첨부 버튼, Windows·Android 이미지 미리보기 X 옆 보내기 버튼 추가."
+    "en": "Taskbar flashing and notification sounds for incoming messages, independent On/Off controls, WAV selection and preview, and persistent settings.",
+    "ko": "Windows 메시지 수신 시 작업표시줄 깜빡임과 소리 알림, 소리 On/Off·WAV 선택·미리 듣기 및 설정 저장을 추가했습니다."
   },
-  "releaseTag": "v1.0.29",
+  "releaseTag": "v1.0.30",
   "schemaVersion": 1,
-  "sha256": "7bb4fc8085af704fb5b6f9d31223a8e99ee0f338e944e866a6a92e507aa7627c",
-  "signature": "36f429dc103321dfb84e8e3fac783ee947112c7f90c5612eccf96fac7f7f9a1cd9420e883870230c5cd024670d4246550999975fbba0d7c3e5467764ba3fe159",
+  "sha256": "527e11b771774453f0180ef1ecb7b0987def16341f6e6d81d855b2285caa9323",
+  "signature": "47cdd1787809702fd8b30d222921e88d7edb9ade5ca88d94b7f8c2195cf92416a5fca58912a1cb006beb8a242518bb3528703591d99467705f4ff98c9cf7bdbd",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6188700,
-  "version": "1.0.29"
+  "sizeBytes": 6202358,
+  "version": "1.0.30"
 }
