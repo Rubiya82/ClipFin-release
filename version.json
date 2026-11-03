@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.34-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.34/Sailfish-1.0.34-win-x64.zip",
+  "assetName": "Sailfish-1.0.35-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.35/Sailfish-1.0.35-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "67ab191bab38fcb5f3b52f30c9124033bbbd5161e7d53acc81cd8ec8e6cb3a85",
-  "exeSizeBytes": 12510720,
+  "exeSha256": "d69dac5319039d6bbd01b56796d106790be15cef27023ffda4ea97414cb94584",
+  "exeSizeBytes": 11398144,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-03T23:24:54+09:00",
+  "publishedAt": "2026-11-04T00:25:27+09:00",
   "releaseNotes": {
-    "en": "Restore region-to-clipboard capture, open main from messages, fix dark buttons and scrollbars, and retain message text size.",
-    "ko": "영역 캡처 클립보드 메뉴 활성화, 메시지 창 메인 화면 열기, 다크 테마 버튼·스크롤바 및 글자 크기 복원 수정."
+    "en": "Renamed to ClipFin with a new icon. Existing features and data are preserved.",
+    "ko": "ClipFin 이름과 아이콘으로 변경했습니다. 기존 기능과 자료는 유지합니다."
   },
-  "releaseTag": "v1.0.34",
+  "releaseTag": "v1.0.35",
   "schemaVersion": 1,
-  "sha256": "efc3c0735a51f11c4886e985900eecefddff3cd17571e43b53e585abfeb3490c",
-  "signature": "ef3c0aa7b68c44db15e79b9fe1abb0697875be373d10d8d1dbc9cc00542a2fd45c047ac0b74f934927daf6c2e2200caf591d67aaabf0a1f8eb76f7bd6f23d8a1",
+  "sha256": "4a5ef2922dc711e2c43681714b54fd3001d1bf53801d4524fc900b64c578f02b",
+  "signature": "d178c5946d9a38ceae459022a53ce798cb8b1d82a37b8e312e6d5f2b2ac9fceb500a24d22bddfa4989d5b73d06435065c26ce8d618dd823e50d83966b23b7570",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6481696,
-  "version": "1.0.34"
+  "sizeBytes": 5812420,
+  "version": "1.0.35"
 }

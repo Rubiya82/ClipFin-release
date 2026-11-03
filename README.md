@@ -1,10 +1,10 @@
-# Sailfish · Clipboard share
+# ClipFin · Clipboard share
 
 Free Windows 11 x64 clipboard sharing and peer messages for reachable intranet networks.
 
-**Product website:** https://rubiya82.github.io/sailfish-release/
+**Product website:** https://rubiya82.github.io/ClipFin-release/
 
-**Download:** use the `Sailfish-<version>-win-x64.zip` asset in [Releases](https://github.com/Rubiya82/sailfish-release/releases). GitHub's automatically generated source archives are not the Windows program.
+**Download:** use the `ClipFin-<version>-win-x64.zip` asset in [Releases](https://github.com/Rubiya82/ClipFin-release/releases). GitHub's automatically generated source archives are not the Windows program.
 
 This public repository hosts the product website, release assets, signed `version.json`, public verification key and notices. Application source is maintained privately. No shared files or conversations are hosted here.
 
@@ -14,7 +14,7 @@ This public repository hosts the product website, release assets, signed `versio
 - Direct peer messages, contact aliases and receive refusal.
 - User-controlled verified updates: download first, then update now or at actual quit.
 
-Intranet routing must allow direct connections. Senders must remain online. File sharing uses HTTP; peer messages use mutually authenticated TLS 1.3 after both users verify the matching code. See the [release and update policy](https://rubiya82.github.io/sailfish-release/policy.html).
+Intranet routing must allow direct connections. Senders must remain online. File sharing uses HTTP; peer messages use mutually authenticated TLS 1.3 after both users verify the matching code. See the [release and update policy](https://rubiya82.github.io/ClipFin-release/policy.html).
 
 Seokwon Choi 2026. Third-party notices: [JSON](licenses/JSON-LICENSE.txt), [miniz](licenses/MINIZ-LICENSE.txt).
 
@@ -24,4 +24,4 @@ Android: separately signed release APKs use `android-v<version>` tags and `andro
 
 Windows 1.0.4 / Android 1.0.1: left/right conversation bubbles, message timestamps and delivery state, compact conversation controls and a fixed composer. Windows client fonts use fixed 96-DPI pixel sizes to avoid text-only growth at 125% display scaling.
 
-Windows 1.0.34: region-to-clipboard capture, Open main from messages, theme-aware scrollbars and restored Ctrl+wheel text size. [User manual](manual.html) · [PDF](manual.pdf). Android stays on 1.0.31.
+Windows 1.0.35: region-to-clipboard capture, Open main from messages, theme-aware scrollbars and restored Ctrl+wheel text size. [User manual](manual.html) · [PDF](manual.pdf). Android stays on 1.0.32.

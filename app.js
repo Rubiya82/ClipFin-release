@@ -12,7 +12,7 @@
   function validManifest(data) {
     if (!data || data.schemaVersion !== 1 || data.platform !== 'windows-x64' || data.published === false) return false;
     const v = data.version;
-    return typeof v === 'string' && /^\d+\.\d+\.\d+$/.test(v) && data.downloadUrl === `https://github.com/Rubiya82/sailfish-release/releases/download/v${v}/Sailfish-${v}-win-x64.zip` && /^[0-9a-f]{64}$/.test(data.sha256) && /^[0-9a-f]{64}$/.test(data.exeSha256) && Number.isSafeInteger(data.sizeBytes) && data.sizeBytes > 0 && data.sizeBytes <= 134217728 && typeof data.releaseNotes?.ko === 'string' && typeof data.releaseNotes?.en === 'string' && data.signatureAlgorithm === 'ecdsa-p256-sha256' && /^[0-9a-f]{128}$/.test(data.signature);
+    return typeof v === 'string' && /^\d+\.\d+\.\d+$/.test(v) && data.downloadUrl === `https://github.com/Rubiya82/ClipFin-release/releases/download/v${v}/ClipFin-${v}-win-x64.zip` && /^[0-9a-f]{64}$/.test(data.sha256) && /^[0-9a-f]{64}$/.test(data.exeSha256) && Number.isSafeInteger(data.sizeBytes) && data.sizeBytes > 0 && data.sizeBytes <= 134217728 && typeof data.releaseNotes?.ko === 'string' && typeof data.releaseNotes?.en === 'string' && data.signatureAlgorithm === 'ecdsa-p256-sha256' && /^[0-9a-f]{128}$/.test(data.signature);
   }
   async function verifyManifest(data, pem) {
     if (!validManifest(data) || !crypto.subtle) return false;
@@ -33,7 +33,7 @@
     $('download-state').textContent = say('배포 서명 확인 완료 · 무료 다운로드', 'Release signature verified · free download');
     $('download-version').textContent = `v${release.version}`;
     $('release-meta').hidden = false;
-    $('meta-version').textContent = `Sailfish ${release.version}`;
+    $('meta-version').textContent = `ClipFin ${release.version}`;
     $('meta-date').textContent = new Date(release.publishedAt).toLocaleDateString(language === 'ko' ? 'ko-KR' : 'en-US');
     $('meta-size').textContent = `${(release.sizeBytes / 1048576).toFixed(1)} MB · ZIP`;
     $('meta-sha').textContent = release.sha256;
@@ -43,7 +43,7 @@
     const content = $('demo-content'); content.replaceChildren();
     const art = document.createElement(demoType === 'text' ? 'pre' : 'div');
     art.className = demoType === 'file' ? 'source-file-icon' : demoType === 'image' ? 'source-picture' : 'source-code';
-    art.textContent = demoType === 'file' ? 'FILE' : demoType === 'text' ? 'const share = clipboard.copy();\nconst link = sailfish.create(share);\nchat.paste(link);' : '';
+    art.textContent = demoType === 'file' ? 'FILE' : demoType === 'text' ? 'const share = clipboard.copy();\nconst link = clipfin.create(share);\nchat.paste(link);' : '';
     const name = document.createElement('strong');
     name.textContent = demoType === 'file' ? 'Project-assets.zip' : demoType === 'image' ? 'Capture-a8f3.png' : 'Code.text';
     const help = document.createElement('small'); help.textContent = say('설명을 위한 예시 콘텐츠', 'Illustrative content');
@@ -70,7 +70,7 @@
   $('download-asset').addEventListener('click', event => {if (!release) event.preventDefault();});
   document.querySelectorAll('[data-preview-theme]').forEach(button => button.addEventListener('click', () => {
     const theme = button.dataset.previewTheme; $('theme-preview').dataset.theme = theme;
-    $('theme-logo').src = `assets/sailfish-${theme}.png`;
+    $('theme-logo').src = `assets/clipfin-${theme}.png`;
     document.querySelectorAll('[data-preview-theme]').forEach(item => {const active = item === button; item.classList.toggle('active', active); item.setAttribute('aria-pressed', String(active));});
   }));
   if ('IntersectionObserver' in window && !reduced) {
@@ -84,8 +84,8 @@
   addEventListener('resize', scrollProgress); scrollProgress();
   try {language = localStorage.getItem('sailfish-site-language') || 'ko';} catch (_) {}
   setLanguage(language);
-  Promise.all([fetch('version.json', {cache: 'no-cache'}).then(r => {if (!r.ok) throw Error('manifest'); return r.json();}), fetch('update-public-key.pem', {cache: 'force-cache'}).then(r => {if (!r.ok) throw Error('key'); return r.text();})]).then(async ([data, key]) => {
+  Promise.all([fetch('clipfin-version.json', {cache: 'no-cache'}).then(r => {if (!r.ok) throw Error('manifest'); return r.json();}), fetch('update-public-key.pem', {cache: 'force-cache'}).then(r => {if (!r.ok) throw Error('key'); return r.text();})]).then(async ([data, key]) => {
     if (!await verifyManifest(data, key)) throw Error('signature'); release = data; renderRelease();
   }).catch(() => {releaseError = true; renderRelease();});
-  window.SailfishSite = {validManifest, verifyManifest, setLanguage, getState: () => ({language, step, demoType, releaseReady: !!release})};
+  window.ClipFinSite = {validManifest, verifyManifest, setLanguage, getState: () => ({language, step, demoType, releaseReady: !!release})};
 })();
