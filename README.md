@@ -24,4 +24,4 @@ Android: separately signed release APKs use `android-v<version>` tags and `andro
 
 Windows 1.0.4 / Android 1.0.1: left/right conversation bubbles, message timestamps and delivery state, compact conversation controls and a fixed composer. Windows client fonts use fixed 96-DPI pixel sizes to avoid text-only growth at 125% display scaling.
 
-Windows 1.0.22 adds a saved name/IP address book, presence indicators and encrypted group rooms with durable per-recipient retry. Each participant must approve matching verification codes on both PCs. Group delivery waits for the owner PC to confirm membership; new members receive no earlier history. See [the address book and group guide](GROUP_MESSAGING.md). Android remains on 1.0.21 with 1:1 messaging.
+Windows 1.0.34: region-to-clipboard capture, Open main from messages, theme-aware scrollbars and restored Ctrl+wheel text size. [User manual](manual.html) · [PDF](manual.pdf). Android stays on 1.0.31.
