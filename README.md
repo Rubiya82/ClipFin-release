@@ -1,6 +1,6 @@
 # ClipFin · Clipboard share
 
-Free Windows 10 x64 clipboard sharing and peer messages for reachable intranet networks.
+Free clipboard sharing and peer messages for reachable intranet networks, built for Windows 11 x64 with Windows 10 x64 support.
 
 **Product website:** https://rubiya82.github.io/ClipFin-release/
 
