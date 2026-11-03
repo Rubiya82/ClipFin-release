@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.30-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.30/Sailfish-1.0.30-win-x64.zip",
+  "assetName": "Sailfish-1.0.31-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.31/Sailfish-1.0.31-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "6978906320cc8f7906c0605843e35eab6a6fc7b8d87fbf9041436d299f46c0f1",
-  "exeSizeBytes": 11999744,
+  "exeSha256": "397a329896daed2a046a40f0e5a6224cd7be2ca7f409be0e986e7ef73dd48abe",
+  "exeSizeBytes": 12089856,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-03T11:41:24+09:00",
+  "publishedAt": "2026-11-03T12:34:12+09:00",
   "releaseNotes": {
-    "en": "Taskbar flashing and notification sounds for incoming messages, independent On/Off controls, WAV selection and preview, and persistent settings.",
-    "ko": "Windows 메시지 수신 시 작업표시줄 깜빡임과 소리 알림, 소리 On/Off·WAV 선택·미리 듣기 및 설정 저장을 추가했습니다."
+    "en": "Unsend messages for everyone, revoke pending attachments, and persist cancellation until the peer reconnects. Update both peers.",
+    "ko": "메시지 발신 취소와 상대 취소 표시, 미수신 첨부 삭제 시 다운로드 권한 회수, 오프라인 취소 재전달을 추가했습니다. 양쪽 앱을 업데이트하세요."
   },
-  "releaseTag": "v1.0.30",
+  "releaseTag": "v1.0.31",
   "schemaVersion": 1,
-  "sha256": "527e11b771774453f0180ef1ecb7b0987def16341f6e6d81d855b2285caa9323",
-  "signature": "47cdd1787809702fd8b30d222921e88d7edb9ade5ca88d94b7f8c2195cf92416a5fca58912a1cb006beb8a242518bb3528703591d99467705f4ff98c9cf7bdbd",
+  "sha256": "d3303b0543aa00090a298670b7f0991fbed2eef84235784bb07f178f0539b008",
+  "signature": "539d8460838422a3df220d6e1a0036098ff801a617846e38bc07000dcfdf088bc924f56341053106f9ff8f16ba33a95d0fe2ea3c57d03605adabbe5785fcac46",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6202358,
-  "version": "1.0.30"
+  "sizeBytes": 6236441,
+  "version": "1.0.31"
 }
