@@ -78,8 +78,9 @@
     const observer = new IntersectionObserver(entries => entries.forEach(entry => {if (entry.isIntersecting) {entry.target.classList.add('visible'); observer.unobserve(entry.target);}}), {threshold: .08});
     document.querySelectorAll('.reveal').forEach(item => observer.observe(item));
   }
-  const progress = document.querySelector('.scroll-progress'); let queued = false;
-  function scrollProgress() {const height = document.documentElement.scrollHeight - innerHeight; if (progress) progress.style.transform = `scaleX(${height > 0 ? scrollY / height : 0})`; queued = false;}
+  const progress = document.querySelector('.scroll-progress'), backToTop = $('back-to-top'); let queued = false;
+  if (backToTop) backToTop.addEventListener('click', () => scrollTo({top: 0, behavior: reduced ? 'instant' : 'smooth'}));
+  function scrollProgress() {const height = document.documentElement.scrollHeight - innerHeight; if (progress) progress.style.transform = `scaleX(${height > 0 ? scrollY / height : 0})`; if (backToTop) backToTop.hidden = scrollY <= 0; queued = false;}
   addEventListener('scroll', () => {if (!queued) {queued = true; requestAnimationFrame(scrollProgress);}}, {passive: true});
   addEventListener('resize', scrollProgress); scrollProgress();
   try {language = localStorage.getItem('sailfish-site-language') || 'ko';} catch (_) {}
