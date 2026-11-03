@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.33-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.33/Sailfish-1.0.33-win-x64.zip",
+  "assetName": "Sailfish-1.0.34-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.34/Sailfish-1.0.34-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "6223f6a945c9802ad8bda6d36b29934d3700e091c0cd21cf64772ebb6b183022",
-  "exeSizeBytes": 12495872,
+  "exeSha256": "67ab191bab38fcb5f3b52f30c9124033bbbd5161e7d53acc81cd8ec8e6cb3a85",
+  "exeSizeBytes": 12510720,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-03T17:36:14+09:00",
+  "publishedAt": "2026-11-03T23:24:54+09:00",
   "releaseNotes": {
-    "en": "Smoother message input and sidebar resizing, own profile card, button tips, remembered window bounds, version-click update checks and file/folder usage lookup.",
-    "ko": "메시지 입력·목록 깜빡임 개선, 내 이모지·이름 프로필 카드, 버튼 도움말·창 위치 복원, 버전 클릭 업데이트 확인, 파일·폴더 점유 프로세스 검색."
+    "en": "Restore region-to-clipboard capture, open main from messages, fix dark buttons and scrollbars, and retain message text size.",
+    "ko": "영역 캡처 클립보드 메뉴 활성화, 메시지 창 메인 화면 열기, 다크 테마 버튼·스크롤바 및 글자 크기 복원 수정."
   },
-  "releaseTag": "v1.0.33",
+  "releaseTag": "v1.0.34",
   "schemaVersion": 1,
-  "sha256": "88bd7d3eb5571b9d8c44973481201fcf38a257eea50116303fdffc2e19316c5c",
-  "signature": "7f4f41fabd928cf9c3c7d76837b033ec1a32058a2002896203f9077369465e7b8deb06b3e511ee6d933a1fdbc75f9c354563c573fea5d69d9c36e7ebaa758a77",
+  "sha256": "efc3c0735a51f11c4886e985900eecefddff3cd17571e43b53e585abfeb3490c",
+  "signature": "ef3c0aa7b68c44db15e79b9fe1abb0697875be373d10d8d1dbc9cc00542a2fd45c047ac0b74f934927daf6c2e2200caf591d67aaabf0a1f8eb76f7bd6f23d8a1",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6475347,
-  "version": "1.0.33"
+  "sizeBytes": 6481696,
+  "version": "1.0.34"
 }
