@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.37-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.37/Sailfish-1.0.37-win-x64.zip",
+  "assetName": "Sailfish-1.0.38-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.38/Sailfish-1.0.38-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "63f551a697a1098a4ffd8352843f56e4cc0ad7106bd236fbfeb28b809731eac9",
-  "exeSizeBytes": 11830784,
+  "exeSha256": "821c85619c3b0e703e8e575cdf6a1e98b1fe31bd15cb8c067051651c6af3de33",
+  "exeSizeBytes": 11843584,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-04T19:20:45+09:00",
+  "publishedAt": "2026-11-04T19:47:33+09:00",
   "releaseNotes": {
-    "en": "Verified IP-change recovery, Ethernet/Wi-Fi fallback, LAN rediscovery and connection diagnostics. Removed the generic description from shared-link previews. Update both Windows peers to 1.0.37 and re-run initial setup. Android remains 1.0.36.",
-    "ko": "유선·무선/IP 변경 메시지 자동 복구, 검증된 복수 주소·대체 경로, LAN 검색 및 연결 정보를 지원합니다. 전송 링크 미리보기의 설명 문구를 제거했습니다. 양쪽 Windows 1.0.37 이상과 초기 설정 재실행이 필요합니다. Android는 1.0.36을 유지합니다."
+    "en": "Refresh signed release metadata before download and isolate metadata/package caches to prevent stale SHA-256 or size mismatches. Published with a new version and URL. Fully quit, restart, then check for updates. Android remains 1.0.36.",
+    "ko": "업데이트 직전 서명된 최신 안내를 다시 확인하고 안내·ZIP 캐시를 구분해 SHA-256/크기 불일치를 방지합니다. 새 버전·새 다운로드 주소로 배포합니다. 오류가 났다면 앱을 완전히 종료 후 다시 실행하여 업데이트를 확인하세요. Android는 1.0.36을 유지합니다."
   },
-  "releaseTag": "v1.0.37",
+  "releaseTag": "v1.0.38",
   "schemaVersion": 1,
-  "sha256": "346155b2abde507ab4b2f1c5a0fbd374b02c6c474377d1bcf141aa936dd95f18",
-  "signature": "f0685f28d31b42dd892be75b87d7213666d830a2175c3140411079c5a415487342354dcfc7540394f421fa433244f30c3a0c44b8100b9fec3a8db6f9007c116a",
+  "sha256": "7978819955ed36c4fa5c00432e4cbe0063b008bd625b69a9f5304b8763072bf6",
+  "signature": "584b2e0e30162e3d439d40e3530c29fe27c20a456554b75dcfe27d16f7c42dea730a7ef1f166a2e5c76f4b2f20fcc9b2117fb9dd1dbe3040c08cca91cafb119e",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6182687,
-  "version": "1.0.37"
+  "sizeBytes": 6190260,
+  "version": "1.0.38"
 }

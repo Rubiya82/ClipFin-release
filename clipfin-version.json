@@ -1,22 +1,22 @@
 {
-  "assetName": "ClipFin-1.0.37-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.37/ClipFin-1.0.37-win-x64.zip",
+  "assetName": "ClipFin-1.0.38-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.38/ClipFin-1.0.38-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "63f551a697a1098a4ffd8352843f56e4cc0ad7106bd236fbfeb28b809731eac9",
-  "exeSizeBytes": 11830784,
+  "exeSha256": "821c85619c3b0e703e8e575cdf6a1e98b1fe31bd15cb8c067051651c6af3de33",
+  "exeSizeBytes": 11843584,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-04T19:20:43+09:00",
+  "publishedAt": "2026-11-04T19:47:31+09:00",
   "releaseNotes": {
-    "en": "Verified IP-change recovery, Ethernet/Wi-Fi fallback, LAN rediscovery and connection diagnostics. Removed the generic description from shared-link previews. Update both Windows peers to 1.0.37 and re-run initial setup. Android remains 1.0.36.",
-    "ko": "유선·무선/IP 변경 메시지 자동 복구, 검증된 복수 주소·대체 경로, LAN 검색 및 연결 정보를 지원합니다. 전송 링크 미리보기의 설명 문구를 제거했습니다. 양쪽 Windows 1.0.37 이상과 초기 설정 재실행이 필요합니다. Android는 1.0.36을 유지합니다."
+    "en": "Refresh signed release metadata before download and isolate metadata/package caches to prevent stale SHA-256 or size mismatches. Published with a new version and URL. Fully quit, restart, then check for updates. Android remains 1.0.36.",
+    "ko": "업데이트 직전 서명된 최신 안내를 다시 확인하고 안내·ZIP 캐시를 구분해 SHA-256/크기 불일치를 방지합니다. 새 버전·새 다운로드 주소로 배포합니다. 오류가 났다면 앱을 완전히 종료 후 다시 실행하여 업데이트를 확인하세요. Android는 1.0.36을 유지합니다."
   },
-  "releaseTag": "v1.0.37",
+  "releaseTag": "v1.0.38",
   "schemaVersion": 1,
-  "sha256": "892ae4d79d0f858977f67e64c56aed49f04137cdb23c14aeccfea5fd3492b236",
-  "signature": "f983f7005bdbf53cd092819d96b2a5a7a79a15c8ffd6a28cf61082f6f5198a25e61e9dcc0b19892171f83c9238990882997a076bc804cd1d3a671f66bf2540ac",
+  "sha256": "2013b04c8747f361e5ca95cc58d07351c344c4af3b5f7b9b480e1ba901016ab3",
+  "signature": "0cf48333bb39d39a0f50f5eb4e708cb90e3182103d0d4d04f6227a4c5ab88ebfdb64407d18ca0024551fd36146deb3395206eeb8bc9bc25451f3dec0a55cff49",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6182685,
-  "version": "1.0.37"
+  "sizeBytes": 6190258,
+  "version": "1.0.38"
 }
