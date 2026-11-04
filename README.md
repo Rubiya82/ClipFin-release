@@ -24,4 +24,4 @@ Android: separately signed release APKs use `android-v<version>` tags and `andro
 
 Windows 1.0.4 / Android 1.0.1: left/right conversation bubbles, message timestamps and delivery state, compact conversation controls and a fixed composer. Windows client fonts use fixed 96-DPI pixel sizes to avoid text-only growth at 125% display scaling.
 
-Windows 1.0.38: refresh signed release metadata immediately before downloads and isolate metadata/ZIP caches to prevent stale hash/size mismatches. Includes verified network recovery from 1.0.37. Android stays on 1.0.36. [Network recovery guide](network-recovery.html) · [User manual](manual.html) · [PDF, base 1.0.36](manual.pdf).
+Windows 1.0.39: file-link preview images and extension labels, sent date/time, group and per-file expiration/download limits, contact removal, enabled action menus, and ClipFin share URLs/portable markers. Signed metadata refresh and package verification are retained. Android stays on 1.0.36. [Network recovery guide](network-recovery.html) · [User manual](manual.html) · [PDF, base 1.0.36](manual.pdf).

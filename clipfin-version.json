@@ -1,22 +1,22 @@
 {
-  "assetName": "ClipFin-1.0.38-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.38/ClipFin-1.0.38-win-x64.zip",
+  "assetName": "ClipFin-1.0.39-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.39/ClipFin-1.0.39-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "821c85619c3b0e703e8e575cdf6a1e98b1fe31bd15cb8c067051651c6af3de33",
-  "exeSizeBytes": 11843584,
+  "exeSha256": "1f0211e450f78a9e7b81ad8a5718bc69952627a9fc45cf667c8f1ddae3fee645",
+  "exeSizeBytes": 11906048,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-04T19:47:31+09:00",
+  "publishedAt": "2026-11-04T23:18:41+09:00",
   "releaseNotes": {
-    "en": "Refresh signed release metadata before download and isolate metadata/package caches to prevent stale SHA-256 or size mismatches. Published with a new version and URL. Fully quit, restart, then check for updates. Android remains 1.0.36.",
-    "ko": "업데이트 직전 서명된 최신 안내를 다시 확인하고 안내·ZIP 캐시를 구분해 SHA-256/크기 불일치를 방지합니다. 새 버전·새 다운로드 주소로 배포합니다. 오류가 났다면 앱을 완전히 종료 후 다시 실행하여 업데이트를 확인하세요. Android는 1.0.36을 유지합니다."
+    "en": "File-link preview images and extensions, sent timestamps, group/per-file expiration and limits, contact removal and enabled menus, ClipFin share URLs and portable markers.",
+    "ko": "첨부파일 링크 미리보기 이미지와 확장자 표시, 전송 일시·그룹/개별 유효기간·횟수 설정, 대화상대 삭제와 메뉴 활성화 개선. ClipFin 공유 주소와 포터블 표시 파일 적용."
   },
-  "releaseTag": "v1.0.38",
+  "releaseTag": "v1.0.39",
   "schemaVersion": 1,
-  "sha256": "2013b04c8747f361e5ca95cc58d07351c344c4af3b5f7b9b480e1ba901016ab3",
-  "signature": "0cf48333bb39d39a0f50f5eb4e708cb90e3182103d0d4d04f6227a4c5ab88ebfdb64407d18ca0024551fd36146deb3395206eeb8bc9bc25451f3dec0a55cff49",
+  "sha256": "54c5e0c863df3a1946c633b2c3233a2d52b664da85b8e47cf69bfda2f3fe78ce",
+  "signature": "555a5405fd77a1563ef984eecf906aae21c42a5e0bfcd92e35c4c50e1f07fbfa1731d1c005713d63b07a4c2e62817f9a49f70ee51ded79eec5bbbe4f40cf324c",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6190258,
-  "version": "1.0.38"
+  "sizeBytes": 6214793,
+  "version": "1.0.39"
 }
