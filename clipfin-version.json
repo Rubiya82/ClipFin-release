@@ -1,22 +1,22 @@
 {
-  "assetName": "ClipFin-1.0.36-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.36/ClipFin-1.0.36-win-x64.zip",
+  "assetName": "ClipFin-1.0.37-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.37/ClipFin-1.0.37-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "77f58465017f7815bac7f242e1ef4c7c17aecb3b7f040ac0fdf5e6f50ab7b871",
-  "exeSizeBytes": 11740160,
+  "exeSha256": "0dedc6c3b13f1ac4d65e749ab95731c09d9ae76d90231c8e6c3720089055d538",
+  "exeSizeBytes": 11830784,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-04T01:22:47+09:00",
+  "publishedAt": "2026-11-04T18:45:52+09:00",
   "releaseNotes": {
-    "en": "Migrate the installed executable to ClipFin.exe and use circular light/dark icons while preserving data and update compatibility.",
-    "ko": "설치 실행 파일명을 ClipFin.exe로 전환하고 원형·다크 아이콘을 적용했습니다. 기존 자료와 업데이트 호환성은 유지합니다."
+    "en": "Added verified message-route recovery after IP changes, Ethernet/Wi-Fi fallback, LAN rediscovery and connection diagnostics. Update both Windows peers to 1.0.37 and re-run initial setup for LAN discovery. Android remains 1.0.36.",
+    "ko": "유선·무선/IP 변경 메시지 자동 복구, 검증된 복수 주소와 대체 경로, LAN 검색, 연결 정보·주소 다시 찾기를 추가했습니다. 양쪽 Windows 1.0.37 이상이 필요하며 기존 설치는 초기 설정을 다시 실행해 주세요. Android는 1.0.36을 유지합니다."
   },
-  "releaseTag": "v1.0.36",
+  "releaseTag": "v1.0.37",
   "schemaVersion": 1,
-  "sha256": "a59009758ca45d55a4f6c4b490b32132d8d3a50fd1923eb7eb7b74410380b86a",
-  "signature": "f3ed70072f5472c114a4fee0b0b94c8b352e9a5df4a13db5e1a555db6648d78178d38167b43e0e810720d7ffeb874ddd0ffcc7a7d33db630dc89a6f11c92eb0e",
+  "sha256": "9907382d2796b5eed39f073fe7abc7f26e0fe896670d776e5187081ef6335511",
+  "signature": "3fc677dbf707cbf9729c5e6b111e0a8a884513420ad9d28a132ec2664e512f6c9e0186e59de778b1d9c02484ca7d8753bcb14ec2829e01a81d483c7bec7b0c9a",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6144098,
-  "version": "1.0.36"
+  "sizeBytes": 6182870,
+  "version": "1.0.37"
 }
