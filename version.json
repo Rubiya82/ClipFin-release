@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.36-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.36/Sailfish-1.0.36-win-x64.zip",
+  "assetName": "Sailfish-1.0.37-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.37/Sailfish-1.0.37-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "77f58465017f7815bac7f242e1ef4c7c17aecb3b7f040ac0fdf5e6f50ab7b871",
-  "exeSizeBytes": 11740160,
+  "exeSha256": "0dedc6c3b13f1ac4d65e749ab95731c09d9ae76d90231c8e6c3720089055d538",
+  "exeSizeBytes": 11830784,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-04T01:22:50+09:00",
+  "publishedAt": "2026-11-04T18:45:54+09:00",
   "releaseNotes": {
-    "en": "Migrate the installed executable to ClipFin.exe and use circular light/dark icons while preserving data and update compatibility.",
-    "ko": "설치 실행 파일명을 ClipFin.exe로 전환하고 원형·다크 아이콘을 적용했습니다. 기존 자료와 업데이트 호환성은 유지합니다."
+    "en": "Added verified message-route recovery after IP changes, Ethernet/Wi-Fi fallback, LAN rediscovery and connection diagnostics. Update both Windows peers to 1.0.37 and re-run initial setup for LAN discovery. Android remains 1.0.36.",
+    "ko": "유선·무선/IP 변경 메시지 자동 복구, 검증된 복수 주소와 대체 경로, LAN 검색, 연결 정보·주소 다시 찾기를 추가했습니다. 양쪽 Windows 1.0.37 이상이 필요하며 기존 설치는 초기 설정을 다시 실행해 주세요. Android는 1.0.36을 유지합니다."
   },
-  "releaseTag": "v1.0.36",
+  "releaseTag": "v1.0.37",
   "schemaVersion": 1,
-  "sha256": "2c3e62039249633745434f3d157956f93e7f8cb1b3924a95d22b6b7611020f15",
-  "signature": "e4010e72880e8cf6fb4cb6a8dc958a7bce43359033a294233288ce2c1fbdfc70c2368be5ac154755d00310a90ccd757b22ab7caf405195484ebc459f69f693cf",
+  "sha256": "b77deab0918bbc9b67a4b05aa142b6decc3f506a4cd0ff50f1c54de9c442ebbe",
+  "signature": "b42fa6f0a0e5488a6ff384ed758971096b1f98f8980502dcbba57abda2ec35e815b8a75f28ce2b6804a182831bb0cdb794c177a5af2be6f62311e181a615ea75",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6144100,
-  "version": "1.0.36"
+  "sizeBytes": 6182872,
+  "version": "1.0.37"
 }
