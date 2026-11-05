@@ -1,22 +1,22 @@
 {
-  "assetName": "ClipFin-1.0.39-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.39/ClipFin-1.0.39-win-x64.zip",
+  "assetName": "ClipFin-1.0.40-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.40/ClipFin-1.0.40-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "1f0211e450f78a9e7b81ad8a5718bc69952627a9fc45cf667c8f1ddae3fee645",
-  "exeSizeBytes": 11906048,
+  "exeSha256": "442305d5e1db22bbc7cec83bfe11ad4b3208a91e48a9bd232ef141d94ad840c0",
+  "exeSizeBytes": 11947008,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-04T23:18:41+09:00",
+  "publishedAt": "2026-11-05T12:33:42+09:00",
   "releaseNotes": {
-    "en": "File-link preview images and extensions, sent timestamps, group/per-file expiration and limits, contact removal and enabled menus, ClipFin share URLs and portable markers.",
-    "ko": "첨부파일 링크 미리보기 이미지와 확장자 표시, 전송 일시·그룹/개별 유효기간·횟수 설정, 대화상대 삭제와 메뉴 활성화 개선. ClipFin 공유 주소와 포터블 표시 파일 적용."
+    "en": "Sharing network selection, physical Ethernet first automatic choice, saved adapter restoration, cleared file selection after link creation, and improved code previews.",
+    "ko": "공유 네트워크 선택과 실제 유선 우선 자동 선택, 어댑터 선택 저장·복귀, 링크 생성 후 파일 선택 초기화, 코드 미리보기 개선."
   },
-  "releaseTag": "v1.0.39",
+  "releaseTag": "v1.0.40",
   "schemaVersion": 1,
-  "sha256": "54c5e0c863df3a1946c633b2c3233a2d52b664da85b8e47cf69bfda2f3fe78ce",
-  "signature": "555a5405fd77a1563ef984eecf906aae21c42a5e0bfcd92e35c4c50e1f07fbfa1731d1c005713d63b07a4c2e62817f9a49f70ee51ded79eec5bbbe4f40cf324c",
+  "sha256": "98d86a95f77bddc5f66c2c2b9d4cba08024145072c8b9e96e9efd35cf2aefa4c",
+  "signature": "4f96199d668bab72e49f869fd66c6a34d7d350a9f91b087f3fd561fce5e7b0b5a0a5c243b3e8805df2a3536556ea50b6b63ffb14e7d75066a725c3159349819d",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6214793,
-  "version": "1.0.39"
+  "sizeBytes": 6233636,
+  "version": "1.0.40"
 }

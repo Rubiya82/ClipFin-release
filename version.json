@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.39-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.39/Sailfish-1.0.39-win-x64.zip",
+  "assetName": "Sailfish-1.0.40-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.40/Sailfish-1.0.40-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "1f0211e450f78a9e7b81ad8a5718bc69952627a9fc45cf667c8f1ddae3fee645",
-  "exeSizeBytes": 11906048,
+  "exeSha256": "442305d5e1db22bbc7cec83bfe11ad4b3208a91e48a9bd232ef141d94ad840c0",
+  "exeSizeBytes": 11947008,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-04T23:18:44+09:00",
+  "publishedAt": "2026-11-05T12:33:45+09:00",
   "releaseNotes": {
-    "en": "File-link preview images and extensions, sent timestamps, group/per-file expiration and limits, contact removal and enabled menus, ClipFin share URLs and portable markers.",
-    "ko": "첨부파일 링크 미리보기 이미지와 확장자 표시, 전송 일시·그룹/개별 유효기간·횟수 설정, 대화상대 삭제와 메뉴 활성화 개선. ClipFin 공유 주소와 포터블 표시 파일 적용."
+    "en": "Sharing network selection, physical Ethernet first automatic choice, saved adapter restoration, cleared file selection after link creation, and improved code previews.",
+    "ko": "공유 네트워크 선택과 실제 유선 우선 자동 선택, 어댑터 선택 저장·복귀, 링크 생성 후 파일 선택 초기화, 코드 미리보기 개선."
   },
-  "releaseTag": "v1.0.39",
+  "releaseTag": "v1.0.40",
   "schemaVersion": 1,
-  "sha256": "982cedff9722eb1272fc3597427bcc9075798ba3ce9241f133dad89163eb586a",
-  "signature": "7dad26c92ce2914558eb62a73fe3039cbf71a8af1f81942473b65628bbe48e7dc1c80af82ad72d2b32960e665dec6a1daf078bf37b29dce083b8e46c6ae6f609",
+  "sha256": "3a3c56ab7ef7046679650ee32018354ab693a74787a869011b3114f11341820d",
+  "signature": "24a058a3e2eaccda36ba47909ab7117d0fbc9ff5008eb0f042a7799fba85d79216faa16bcecc696204a6744e81e8f0dfa2f881c8fe40de09591c89292cb6acf4",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6214795,
-  "version": "1.0.39"
+  "sizeBytes": 6233638,
+  "version": "1.0.40"
 }
