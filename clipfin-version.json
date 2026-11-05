@@ -1,22 +1,22 @@
 {
-  "assetName": "ClipFin-1.0.40-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.40/ClipFin-1.0.40-win-x64.zip",
+  "assetName": "ClipFin-1.0.41-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.41/ClipFin-1.0.41-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "442305d5e1db22bbc7cec83bfe11ad4b3208a91e48a9bd232ef141d94ad840c0",
-  "exeSizeBytes": 11947008,
+  "exeSha256": "7fb5c6aef50983e05dfe27e54575c5c8346c88282856bc122715e67a7d513b2b",
+  "exeSizeBytes": 11949056,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-05T12:33:42+09:00",
+  "publishedAt": "2026-11-05T12:51:43+09:00",
   "releaseNotes": {
-    "en": "Sharing network selection, physical Ethernet first automatic choice, saved adapter restoration, cleared file selection after link creation, and improved code previews.",
-    "ko": "공유 네트워크 선택과 실제 유선 우선 자동 선택, 어댑터 선택 저장·복귀, 링크 생성 후 파일 선택 초기화, 코드 미리보기 개선."
+    "en": "Prefer Wi-Fi for automatic sharing network selection and Windows-confirmed Internet access within each connection type. Show Internet access in the network menu.",
+    "ko": "공유 네트워크 자동 선택에서 Wi-Fi 최우선, 같은 연결 종류에서는 Windows가 확인한 인터넷 연결 우선. 메뉴에 인터넷 상태 표시."
   },
-  "releaseTag": "v1.0.40",
+  "releaseTag": "v1.0.41",
   "schemaVersion": 1,
-  "sha256": "98d86a95f77bddc5f66c2c2b9d4cba08024145072c8b9e96e9efd35cf2aefa4c",
-  "signature": "4f96199d668bab72e49f869fd66c6a34d7d350a9f91b087f3fd561fce5e7b0b5a0a5c243b3e8805df2a3536556ea50b6b63ffb14e7d75066a725c3159349819d",
+  "sha256": "c067169035391fc7d58d409d4d4a89f547bb4cbf4d2437017d5a0dca34910d1c",
+  "signature": "3171f0a74d6374943b24125b7a8314b98f196f3b118a2b094b925a19fe9c5f6c7d66bc948b697d86ecf81464b2ab18c397a9bbde76f2ea4e1186aa1c1c288217",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6233636,
-  "version": "1.0.40"
+  "sizeBytes": 6235946,
+  "version": "1.0.41"
 }
