@@ -1,22 +1,22 @@
 {
-  "assetName": "ClipFin-1.0.41-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.41/ClipFin-1.0.41-win-x64.zip",
+  "assetName": "ClipFin-1.0.42-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.42/ClipFin-1.0.42-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "7fb5c6aef50983e05dfe27e54575c5c8346c88282856bc122715e67a7d513b2b",
-  "exeSizeBytes": 11949056,
+  "exeSha256": "66b6d706061a2c4b8e2f6d0dea1e54be593cd87611d18febc9fee4cd7f9cf90f",
+  "exeSizeBytes": 11973120,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-05T12:51:43+09:00",
+  "publishedAt": "2026-11-05T13:54:07+09:00",
   "releaseNotes": {
-    "en": "Prefer Wi-Fi for automatic sharing network selection and Windows-confirmed Internet access within each connection type. Show Internet access in the network menu.",
-    "ko": "공유 네트워크 자동 선택에서 Wi-Fi 최우선, 같은 연결 종류에서는 Windows가 확인한 인터넷 연결 우선. 메뉴에 인터넷 상태 표시."
+    "en": "Show unread recipient counts beside Delivered. Direct chats start at 1; group counts decrease once per reader and disappear when everyone has read. Both Windows peers need 1.0.42 or later.",
+    "ko": "보낸 메시지의 전달됨 옆에 미읽음 인원 표시. 1:1은 1, 그룹은 수신자 수에서 읽은 사람마다 차감하고 모두 읽으면 숫자 숨김. 양쪽 Windows 1.0.42 이상 필요."
   },
-  "releaseTag": "v1.0.41",
+  "releaseTag": "v1.0.42",
   "schemaVersion": 1,
-  "sha256": "c067169035391fc7d58d409d4d4a89f547bb4cbf4d2437017d5a0dca34910d1c",
-  "signature": "3171f0a74d6374943b24125b7a8314b98f196f3b118a2b094b925a19fe9c5f6c7d66bc948b697d86ecf81464b2ab18c397a9bbde76f2ea4e1186aa1c1c288217",
+  "sha256": "c7f964338371998309ac05c3d63276cb893b84434c8505af7fd2d247a1829644",
+  "signature": "93293d9860a1fbcf00db835c5b3b04e4e185b3a6d0d691e95f3c884d136b7a5056f7753ed2658046e3750d5b0291a2511caf14248e8daa7a6f27aabfd41bf05e",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6235946,
-  "version": "1.0.41"
+  "sizeBytes": 6246268,
+  "version": "1.0.42"
 }
