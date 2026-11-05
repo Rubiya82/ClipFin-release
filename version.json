@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.42-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.42/Sailfish-1.0.42-win-x64.zip",
+  "assetName": "Sailfish-1.0.43-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.43/Sailfish-1.0.43-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "66b6d706061a2c4b8e2f6d0dea1e54be593cd87611d18febc9fee4cd7f9cf90f",
-  "exeSizeBytes": 11973120,
+  "exeSha256": "f1ec57c022c3d0526c12f8565113a3ba3c2512d8bb607ca8f33b8a3f20d8e2a7",
+  "exeSizeBytes": 11976192,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-05T13:54:09+09:00",
+  "publishedAt": "2026-11-05T14:19:20+09:00",
   "releaseNotes": {
-    "en": "Show unread recipient counts beside Delivered. Direct chats start at 1; group counts decrease once per reader and disappear when everyone has read. Both Windows peers need 1.0.42 or later.",
-    "ko": "보낸 메시지의 전달됨 옆에 미읽음 인원 표시. 1:1은 1, 그룹은 수신자 수에서 읽은 사람마다 차감하고 모두 읽으면 숫자 숨김. 양쪽 Windows 1.0.42 이상 필요."
+    "en": "Defer automatic UI updates while composing and improve native IME handling. Show web images at original dimensions with scrolling for large images.",
+    "ko": "메시지 작성 중 자동 화면 갱신 보류와 한글 IME 처리 보완. 웹 이미지 원본 크기 표시 및 큰 이미지 스크롤."
   },
-  "releaseTag": "v1.0.42",
+  "releaseTag": "v1.0.43",
   "schemaVersion": 1,
-  "sha256": "315407b4412dfc47b977fc93baaf8cbaa83b37c7c8cd157f75880e40b47baac3",
-  "signature": "10714291b6537a3ab89c362ffa651835f3826c65251d4e7e65f6324c9971d00d6045828f98ea28a91ed84ca1a48e463ffbe99dff370aa7b87bc0cf720def2907",
+  "sha256": "5f340c6191ec33ca31ecbc5e581cd8c69354bf892e541fd4d35fa90843b5a134",
+  "signature": "10212f43d446b5a6b88183dc357daac5382a352ea3d3c19be7fb3fb568615de1c2218c6e30c352e1ba1b058dbc5e68e6cd1a77edbfc45099ff427c4176945deb",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6246270,
-  "version": "1.0.42"
+  "sizeBytes": 6248422,
+  "version": "1.0.43"
 }
