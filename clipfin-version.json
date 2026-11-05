@@ -1,22 +1,22 @@
 {
-  "assetName": "ClipFin-1.0.42-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.42/ClipFin-1.0.42-win-x64.zip",
+  "assetName": "ClipFin-1.0.43-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.43/ClipFin-1.0.43-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "66b6d706061a2c4b8e2f6d0dea1e54be593cd87611d18febc9fee4cd7f9cf90f",
-  "exeSizeBytes": 11973120,
+  "exeSha256": "f1ec57c022c3d0526c12f8565113a3ba3c2512d8bb607ca8f33b8a3f20d8e2a7",
+  "exeSizeBytes": 11976192,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-05T13:54:07+09:00",
+  "publishedAt": "2026-11-05T14:19:18+09:00",
   "releaseNotes": {
-    "en": "Show unread recipient counts beside Delivered. Direct chats start at 1; group counts decrease once per reader and disappear when everyone has read. Both Windows peers need 1.0.42 or later.",
-    "ko": "보낸 메시지의 전달됨 옆에 미읽음 인원 표시. 1:1은 1, 그룹은 수신자 수에서 읽은 사람마다 차감하고 모두 읽으면 숫자 숨김. 양쪽 Windows 1.0.42 이상 필요."
+    "en": "Defer automatic UI updates while composing and improve native IME handling. Show web images at original dimensions with scrolling for large images.",
+    "ko": "메시지 작성 중 자동 화면 갱신 보류와 한글 IME 처리 보완. 웹 이미지 원본 크기 표시 및 큰 이미지 스크롤."
   },
-  "releaseTag": "v1.0.42",
+  "releaseTag": "v1.0.43",
   "schemaVersion": 1,
-  "sha256": "c7f964338371998309ac05c3d63276cb893b84434c8505af7fd2d247a1829644",
-  "signature": "93293d9860a1fbcf00db835c5b3b04e4e185b3a6d0d691e95f3c884d136b7a5056f7753ed2658046e3750d5b0291a2511caf14248e8daa7a6f27aabfd41bf05e",
+  "sha256": "a9a91ba65f81831046db5736cf9e083892ed3260d5f9f11b32acfa3cdf9ca7bd",
+  "signature": "2cb255f9ad77adde29b575d9fec9353d2048183728a9f8b06663493536f77a3b931694b05f49c39ab01acb8c8cac0e6cf564902b49749e4e39ea1b8de7b6970e",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6246268,
-  "version": "1.0.42"
+  "sizeBytes": 6248420,
+  "version": "1.0.43"
 }
