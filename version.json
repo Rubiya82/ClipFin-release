@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.40-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.40/Sailfish-1.0.40-win-x64.zip",
+  "assetName": "Sailfish-1.0.41-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.41/Sailfish-1.0.41-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "442305d5e1db22bbc7cec83bfe11ad4b3208a91e48a9bd232ef141d94ad840c0",
-  "exeSizeBytes": 11947008,
+  "exeSha256": "7fb5c6aef50983e05dfe27e54575c5c8346c88282856bc122715e67a7d513b2b",
+  "exeSizeBytes": 11949056,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-05T12:33:45+09:00",
+  "publishedAt": "2026-11-05T12:51:45+09:00",
   "releaseNotes": {
-    "en": "Sharing network selection, physical Ethernet first automatic choice, saved adapter restoration, cleared file selection after link creation, and improved code previews.",
-    "ko": "공유 네트워크 선택과 실제 유선 우선 자동 선택, 어댑터 선택 저장·복귀, 링크 생성 후 파일 선택 초기화, 코드 미리보기 개선."
+    "en": "Prefer Wi-Fi for automatic sharing network selection and Windows-confirmed Internet access within each connection type. Show Internet access in the network menu.",
+    "ko": "공유 네트워크 자동 선택에서 Wi-Fi 최우선, 같은 연결 종류에서는 Windows가 확인한 인터넷 연결 우선. 메뉴에 인터넷 상태 표시."
   },
-  "releaseTag": "v1.0.40",
+  "releaseTag": "v1.0.41",
   "schemaVersion": 1,
-  "sha256": "3a3c56ab7ef7046679650ee32018354ab693a74787a869011b3114f11341820d",
-  "signature": "24a058a3e2eaccda36ba47909ab7117d0fbc9ff5008eb0f042a7799fba85d79216faa16bcecc696204a6744e81e8f0dfa2f881c8fe40de09591c89292cb6acf4",
+  "sha256": "c2001722d073507909eb69c068d4e1ef61143782dcc27eb9fdef5f11dbe2bceb",
+  "signature": "8a6c1b9e3aa5442e893935627bcf51ed9e6dc2e8697579a545f5016123a404c4b0bed2d21a0aaf4163feebe3049e0f80e0433e3e318d94cbc08906d963be6c07",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6233638,
-  "version": "1.0.40"
+  "sizeBytes": 6235948,
+  "version": "1.0.41"
 }
