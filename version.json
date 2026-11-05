@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.43-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.43/Sailfish-1.0.43-win-x64.zip",
+  "assetName": "Sailfish-1.0.44-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.44/Sailfish-1.0.44-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "f1ec57c022c3d0526c12f8565113a3ba3c2512d8bb607ca8f33b8a3f20d8e2a7",
-  "exeSizeBytes": 11976192,
+  "exeSha256": "e2eb5e84c3031486a35f368e914e9e2f0c3969df85d2428b54462fc4f9ce73bb",
+  "exeSizeBytes": 12150784,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-05T14:19:20+09:00",
+  "publishedAt": "2026-11-05T18:06:19+09:00",
   "releaseNotes": {
-    "en": "Defer automatic UI updates while composing and improve native IME handling. Show web images at original dimensions with scrolling for large images.",
-    "ko": "메시지 작성 중 자동 화면 갱신 보류와 한글 IME 처리 보완. 웹 이미지 원본 크기 표시 및 큰 이미지 스크롤."
+    "en": "Add Excel table messages and formatted copying, personal contact groups, address book sharing/import, and themed directory dialogs.",
+    "ko": "Excel 표 메시지와 서식 복사, 개인 연락처 그룹 및 주소록 공유·가져오기, 주소록 라이트·다크 테마를 추가했습니다."
   },
-  "releaseTag": "v1.0.43",
+  "releaseTag": "v1.0.44",
   "schemaVersion": 1,
-  "sha256": "5f340c6191ec33ca31ecbc5e581cd8c69354bf892e541fd4d35fa90843b5a134",
-  "signature": "10212f43d446b5a6b88183dc357daac5382a352ea3d3c19be7fb3fb568615de1c2218c6e30c352e1ba1b058dbc5e68e6cd1a77edbfc45099ff427c4176945deb",
+  "sha256": "136b51dbaa3408c9d3b9a254a2185e30a0c755bef966946e246e91db6767f094",
+  "signature": "10a0f801a7e3158bcd37cef06bacb90c8538538fc96cec4aad4ea6fe2401e1e3eaadad70ef031799d1d5873d363111d5c70994a3b73043e102b3e4c6d8ac2d77",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6248422,
-  "version": "1.0.43"
+  "sizeBytes": 6319322,
+  "version": "1.0.44"
 }
