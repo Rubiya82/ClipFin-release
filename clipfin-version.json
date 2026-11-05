@@ -1,22 +1,22 @@
 {
-  "assetName": "ClipFin-1.0.44-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.44/ClipFin-1.0.44-win-x64.zip",
+  "assetName": "ClipFin-1.0.45-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.45/ClipFin-1.0.45-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "e2eb5e84c3031486a35f368e914e9e2f0c3969df85d2428b54462fc4f9ce73bb",
-  "exeSizeBytes": 12150784,
+  "exeSha256": "75d278ea6d00912c6e39aa58b829d3922a5b33f41305a1ac3fb020601e78ca7d",
+  "exeSizeBytes": 12183552,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-05T18:06:17+09:00",
+  "publishedAt": "2026-11-06T02:05:26+09:00",
   "releaseNotes": {
-    "en": "Add Excel table messages and formatted copying, personal contact groups, address book sharing/import, and themed directory dialogs.",
-    "ko": "Excel 표 메시지와 서식 복사, 개인 연락처 그룹 및 주소록 공유·가져오기, 주소록 라이트·다크 테마를 추가했습니다."
+    "en": "Move address-book contacts into one group or Ungrouped by drag-and-drop or context menu. Existing multiple memberships retain the first recorded group.",
+    "ko": "주소록 연락처를 드래그·우클릭으로 한 그룹 또는 미분류로 즉시 이동합니다. 기존 여러 소속은 첫 번째 그룹만 유지합니다."
   },
-  "releaseTag": "v1.0.44",
+  "releaseTag": "v1.0.45",
   "schemaVersion": 1,
-  "sha256": "08264ef34e1b2d6f8638f78b292d5d0d5afc839017c08ab61519279ba3ab2504",
-  "signature": "60c17bc229f9b4d8f7109b9aa366bf50ad66c7d7d0f0114ad3c5f7424d4946c63b486c8d292a5c9d169cb6412fc8a81ad6130e3f4f0284e44d9ed45995d8cdf8",
+  "sha256": "f6ac320683583969efebdf36265b054983dfd190a996d4ccffda55e29b7b4707",
+  "signature": "9c0c96bb500c157112457b4ed2af0a2498e58db0eddadb53c6f266c32fb4060fe2a5a801df432adda80849f5067400ed9f88d6c1ee99edc6a996f1350a8e8b73",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6319320,
-  "version": "1.0.44"
+  "sizeBytes": 6332927,
+  "version": "1.0.45"
 }
