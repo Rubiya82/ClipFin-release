@@ -1,22 +1,22 @@
 {
-  "assetName": "ClipFin-1.0.46-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.46/ClipFin-1.0.46-win-x64.zip",
+  "assetName": "ClipFin-1.0.47-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.47/ClipFin-1.0.47-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "3d41c4bbc76d2be0326fcc74a6d0b0f62cdf0e634b9363be1489daf44ff1a43c",
-  "exeSizeBytes": 12288512,
+  "exeSha256": "af793e7b0c19742fef0014bb6c491138ab01ab6a8d6c4a6dc436a0c800f7d2de",
+  "exeSizeBytes": 12346880,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-06T15:16:37+09:00",
+  "publishedAt": "2026-11-06T16:12:44+09:00",
   "releaseNotes": {
-    "en": "Refresh messages with avatars, bubbles and a rounded composer. Add the Messenger theme while preserving existing Light/Dark colors, settings and conversation formats.",
-    "ko": "메시지 창을 아바타 목록·말풍선·둥근 입력 카드로 정리하고 메신저 테마를 추가했습니다. 기존 라이트·다크 색과 설정·대화 형식은 유지합니다."
+    "en": "Improve Messenger tab backgrounds, high-resolution message icons and Malgun Gothic fonts. Header X dismisses the current conversation while retaining history and drafts.",
+    "ko": "메신저 테마의 메인 탭 배경을 보완하고 메시지 아이콘·글꼴을 개선했습니다. 헤더 X는 기록과 초안을 유지한 채 현재 대화만 닫습니다."
   },
-  "releaseTag": "v1.0.46",
+  "releaseTag": "v1.0.47",
   "schemaVersion": 1,
-  "sha256": "f13dad34dd327f32e1c9be7917abb5013baea7161b2cdfa386ea334ef9c6d411",
-  "signature": "bda4296d63e94aad67d26dcf6b9e5cfaccb118d9d17b500df0fa2729170c725ad85050cc4d7197b647d49e6c8f36a9e69e3c814d12be2c97a72b80497f138a64",
+  "sha256": "ef9870386cc1d0fe49e634bc08d323c1cb8f7443224670ea24be45636b671968",
+  "signature": "a2dac249d0c2d373d8eb5abd8c909ab3039cb084c7b2687dac4041da98b78d4cfa7a4cf8fc08ba901dc392bb539f35f1a91b77f330daa62c0387a17213db3941",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6376125,
-  "version": "1.0.46"
+  "sizeBytes": 6425156,
+  "version": "1.0.47"
 }

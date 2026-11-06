@@ -183,3 +183,7 @@ Excel에서 셀을 복사해 메시지 입력창에 붙여넣고 미리보기 �
 ## Windows 1.0.46: 메시지 레이아웃과 메신저 테마
 
 전체 메뉴의 **테마**에서 라이트·다크·메신저를 선택합니다. 기존 라이트·다크 색은 유지하고, 메신저는 민트 계열의 라이트 팔레트입니다. 대화 목록의 전체/읽지 않음 탭과 아바타·최근 메시지·시간을 사용하며, 입력 카드의 ＋로 첨부하고 같은 종이비행기 아이콘으로 메시지·이미지·표를 보냅니다. 빈 입력은 전송할 수 없고, Enter 전송·Shift+Enter 줄바꿈·Ctrl+휠 글자 크기 조절은 유지합니다. 전송 실패 시 말풍선 아래의 재전송·삭제를 사용합니다. Android는 1.0.36을 유지합니다.
+
+## Windows 1.0.47
+
+Messenger theme main tabs now have distinct selected and idle backgrounds. Message buttons use high-resolution Fluent icons; message text uses Malgun Gothic. The header X closes the selected conversation only and displays a conversation-selection prompt. Text, image and table drafts and history remain intact. New incoming messages do not automatically reopen a dismissed view; selecting a conversation or notification restores it. This dismissed state lasts for the current app session. The titlebar X retains its window-hide behavior. Android remains 1.0.36.
