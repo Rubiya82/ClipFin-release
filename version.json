@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.45-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.45/Sailfish-1.0.45-win-x64.zip",
+  "assetName": "Sailfish-1.0.46-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.46/Sailfish-1.0.46-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "75d278ea6d00912c6e39aa58b829d3922a5b33f41305a1ac3fb020601e78ca7d",
-  "exeSizeBytes": 12183552,
+  "exeSha256": "3d41c4bbc76d2be0326fcc74a6d0b0f62cdf0e634b9363be1489daf44ff1a43c",
+  "exeSizeBytes": 12288512,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-06T02:05:27+09:00",
+  "publishedAt": "2026-11-06T15:16:39+09:00",
   "releaseNotes": {
-    "en": "Move address-book contacts into one group or Ungrouped by drag-and-drop or context menu. Existing multiple memberships retain the first recorded group.",
-    "ko": "주소록 연락처를 드래그·우클릭으로 한 그룹 또는 미분류로 즉시 이동합니다. 기존 여러 소속은 첫 번째 그룹만 유지합니다."
+    "en": "Refresh messages with avatars, bubbles and a rounded composer. Add the Messenger theme while preserving existing Light/Dark colors, settings and conversation formats.",
+    "ko": "메시지 창을 아바타 목록·말풍선·둥근 입력 카드로 정리하고 메신저 테마를 추가했습니다. 기존 라이트·다크 색과 설정·대화 형식은 유지합니다."
   },
-  "releaseTag": "v1.0.45",
+  "releaseTag": "v1.0.46",
   "schemaVersion": 1,
-  "sha256": "c9d540f2a6f1ec2c0d05d733f457722e0cc3b0e750746f582cfc47fbcaca6359",
-  "signature": "36a34036b43196850bdff0f8e0c3940b3c0ba0f8d190ba09cf19c833fdd02c32aff8d6410437cd364a5c9d67bab8a488ffdb67f49574cca7a4c9c999b5470047",
+  "sha256": "68b55578d5ae465340194ffa0ae14af67083e8e551c0a3b183648a6c816ab5b8",
+  "signature": "3ca579c7e0493cf9e5f8049ecfac41099c5411621f0d7f87aee595488647d5ce0716732a17fa7e109e8eeccd4fdb32fe69810a1e33788b893ef20353557fa4f2",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6332929,
-  "version": "1.0.45"
+  "sizeBytes": 6376127,
+  "version": "1.0.46"
 }
