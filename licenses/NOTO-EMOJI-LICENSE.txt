@@ -1,6 +1,6 @@
 Noto Emoji profile artwork
 Source: https://github.com/googlefonts/noto-emoji/tree/v2.047/png/128
-Images are included unmodified.
+PNG encoding is losslessly optimized; artwork, resolution and decoded RGBA pixels are unchanged.
 
 Copyright 2013 Google, Inc. All Rights Reserved.
 

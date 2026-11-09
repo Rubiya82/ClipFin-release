@@ -1,22 +1,22 @@
 {
-  "assetName": "ClipFin-1.0.48-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.48/ClipFin-1.0.48-win-x64.zip",
+  "assetName": "ClipFin-1.0.49-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.49/ClipFin-1.0.49-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "d8783351d4d0b5f65d6aa27c9339c694e128852ec50722472ce5455ff209fe11",
-  "exeSizeBytes": 12441088,
+  "exeSha256": "7a1e7755adee6f0e3929a36f131eeea6104e0047246335b7c9a783025b383bd6",
+  "exeSizeBytes": 10526720,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-10T00:07:57+09:00",
+  "publishedAt": "2026-11-10T01:10:40+09:00",
   "releaseNotes": {
-    "en": "Complete zodiac profiles and fix Unread filtering. Add group creation, participant avatars and presence, adding people from direct chats, and mutual contact registration when receiving shared files.",
-    "ko": "12간지 프로필을 완성하고 읽지 않음 분류를 수정했습니다. 그룹 생성·참여자 프로필과 접속 상태·1:1 상대 추가를 지원하며 파일받기 시 양쪽 대화 명단에 자동 등록합니다."
+    "en": "Reduce embedded logos to 256px and losslessly compress profile PNGs, shrinking the Windows EXE from about 12.44MB to 10.53MB. Preserve high-resolution logo originals separately.",
+    "ko": "내장 로고를 256px로 줄이고 프로필 PNG를 무손실 압축해 실행 파일을 약 12.44MB에서 10.53MB로 줄였습니다. 고해상도 로고 원본은 별도 보관합니다."
   },
-  "releaseTag": "v1.0.48",
+  "releaseTag": "v1.0.49",
   "schemaVersion": 1,
-  "sha256": "3793b60e856db7800aad8ef664f0f75611d0abf74a50fdeaaa245db87e513185",
-  "signature": "ce04686b6550841ab176ca32de262abd1a268a4ea476f3431502648ed6f0d25cf5747297bafef53860739ae7773070d94802ec2db77438b4f0885e1e5e1df74d",
+  "sha256": "9ebcd45532fbfbf7ce36f22fc0bc04b6888e47d3ab8f23a3cdff87b05049fc80",
+  "signature": "c6c09df962c76d1f3aadf3490b34edfeefe1cb7348175fc93a7a7ba88e6d1db046f029715adcbb745e8e4d1d787cc42fe52407f92281ba5225459da65d60c007",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6480364,
-  "version": "1.0.48"
+  "sizeBytes": 4563830,
+  "version": "1.0.49"
 }
