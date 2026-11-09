@@ -187,3 +187,12 @@ Excel에서 셀을 복사해 메시지 입력창에 붙여넣고 미리보기 �
 ## Windows 1.0.47
 
 Messenger theme main tabs now have distinct selected and idle backgrounds. Message buttons use high-resolution Fluent icons; message text uses Malgun Gothic. The header X closes the selected conversation only and displays a conversation-selection prompt. Text, image and table drafts and history remain intact. New incoming messages do not automatically reopen a dismissed view; selecting a conversation or notification restores it. This dismissed state lasts for the current app session. The titlebar X retains its window-hide behavior. Android remains 1.0.36.
+
+
+## Windows 1.0.48: 그룹 대화와 참여자 목록
+
+대화 목록 상단의 **새 그룹** 또는 메뉴의 **새 그룹 대화방**에서 주소록·기존 대화 상대를 함께 선택합니다. 승인 전 상대는 등록 승인을 거쳐 그룹에 초대합니다. 1:1 대화 메뉴의 **상대 추가하여 새 그룹 만들기**는 기존 대화와 기록을 유지한 채 새 그룹을 만듭니다.
+
+그룹 상단의 **그룹 · N명 / 참여자 보기**를 누르면 본인과 오프라인 참여자를 포함해 프로필·온라인/오프라인·초대 대기/거절 상태를 표시합니다. 초대 상태는 방장에서 동기화하며 이전 버전에서 지원하지 않으면 **참여 확인 중**으로 표시합니다. 모두 읽은 방은 읽지 않음 분류에서 빠집니다.
+
+프로필에서 12간지 동물을 모두 선택할 수 있습니다. 파일을 **Sailfish/ClipFin으로 받기**로 받으면 공유자와 수신자를 양쪽 대화 명단에 추가합니다. 기존 상대 확인·승인 절차는 유지합니다. Android는 1.0.36입니다.
