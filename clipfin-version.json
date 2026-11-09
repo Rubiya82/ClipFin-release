@@ -1,22 +1,22 @@
 {
-  "assetName": "ClipFin-1.0.47-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.47/ClipFin-1.0.47-win-x64.zip",
+  "assetName": "ClipFin-1.0.48-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.48/ClipFin-1.0.48-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "af793e7b0c19742fef0014bb6c491138ab01ab6a8d6c4a6dc436a0c800f7d2de",
-  "exeSizeBytes": 12346880,
+  "exeSha256": "d8783351d4d0b5f65d6aa27c9339c694e128852ec50722472ce5455ff209fe11",
+  "exeSizeBytes": 12441088,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-06T16:12:44+09:00",
+  "publishedAt": "2026-11-10T00:07:57+09:00",
   "releaseNotes": {
-    "en": "Improve Messenger tab backgrounds, high-resolution message icons and Malgun Gothic fonts. Header X dismisses the current conversation while retaining history and drafts.",
-    "ko": "메신저 테마의 메인 탭 배경을 보완하고 메시지 아이콘·글꼴을 개선했습니다. 헤더 X는 기록과 초안을 유지한 채 현재 대화만 닫습니다."
+    "en": "Complete zodiac profiles and fix Unread filtering. Add group creation, participant avatars and presence, adding people from direct chats, and mutual contact registration when receiving shared files.",
+    "ko": "12간지 프로필을 완성하고 읽지 않음 분류를 수정했습니다. 그룹 생성·참여자 프로필과 접속 상태·1:1 상대 추가를 지원하며 파일받기 시 양쪽 대화 명단에 자동 등록합니다."
   },
-  "releaseTag": "v1.0.47",
+  "releaseTag": "v1.0.48",
   "schemaVersion": 1,
-  "sha256": "ef9870386cc1d0fe49e634bc08d323c1cb8f7443224670ea24be45636b671968",
-  "signature": "a2dac249d0c2d373d8eb5abd8c909ab3039cb084c7b2687dac4041da98b78d4cfa7a4cf8fc08ba901dc392bb539f35f1a91b77f330daa62c0387a17213db3941",
+  "sha256": "3793b60e856db7800aad8ef664f0f75611d0abf74a50fdeaaa245db87e513185",
+  "signature": "ce04686b6550841ab176ca32de262abd1a268a4ea476f3431502648ed6f0d25cf5747297bafef53860739ae7773070d94802ec2db77438b4f0885e1e5e1df74d",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6425156,
-  "version": "1.0.47"
+  "sizeBytes": 6480364,
+  "version": "1.0.48"
 }
