@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.48-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.48/Sailfish-1.0.48-win-x64.zip",
+  "assetName": "Sailfish-1.0.49-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.49/Sailfish-1.0.49-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "d8783351d4d0b5f65d6aa27c9339c694e128852ec50722472ce5455ff209fe11",
-  "exeSizeBytes": 12441088,
+  "exeSha256": "7a1e7755adee6f0e3929a36f131eeea6104e0047246335b7c9a783025b383bd6",
+  "exeSizeBytes": 10526720,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-10T00:07:59+09:00",
+  "publishedAt": "2026-11-10T01:10:42+09:00",
   "releaseNotes": {
-    "en": "Complete zodiac profiles and fix Unread filtering. Add group creation, participant avatars and presence, adding people from direct chats, and mutual contact registration when receiving shared files.",
-    "ko": "12간지 프로필을 완성하고 읽지 않음 분류를 수정했습니다. 그룹 생성·참여자 프로필과 접속 상태·1:1 상대 추가를 지원하며 파일받기 시 양쪽 대화 명단에 자동 등록합니다."
+    "en": "Reduce embedded logos to 256px and losslessly compress profile PNGs, shrinking the Windows EXE from about 12.44MB to 10.53MB. Preserve high-resolution logo originals separately.",
+    "ko": "내장 로고를 256px로 줄이고 프로필 PNG를 무손실 압축해 실행 파일을 약 12.44MB에서 10.53MB로 줄였습니다. 고해상도 로고 원본은 별도 보관합니다."
   },
-  "releaseTag": "v1.0.48",
+  "releaseTag": "v1.0.49",
   "schemaVersion": 1,
-  "sha256": "d4736e672e29f89ed705fc0f0ddff4c6912ec866ef25f85c5432fe720dd00162",
-  "signature": "678365d782bc14d056fc64f07b90d1aa47654c7c8695948a232836197b728d9942d1696efa33b0db3dc384aeb7954d25e393323f5b0da30d97bc09c8acad47ee",
+  "sha256": "b1aa0cab0300ce1e4e684c53b6170e3f960b8899a7e392bd1c84985549c74fe4",
+  "signature": "7c7c81b781a5f75aded8482d4c0fc7cc865f785f9cab38cc6f0566b7e7b141bf9530b37bdc1fc6ab9839aa6ab187012ec364c7900c8b60d757e6382fde28e25b",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 6480366,
-  "version": "1.0.48"
+  "sizeBytes": 4563832,
+  "version": "1.0.49"
 }
