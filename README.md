@@ -43,3 +43,7 @@ Windows 1.0.48: complete the 12 zodiac profile animals; fix the final read group
 Windows 1.0.49: reduce embedded logos to 256×256 while preserving the 1254px originals privately, and losslessly compress all 31 profile PNGs with identical RGBA pixels. The single Windows EXE shrinks from about 12.44MB to 10.53MB. Android remains 1.0.36.
 
 Windows 1.0.50: Windows autostart defaults to the tray; manual launches open the window. Independently configure one-second startup tray/monitoring notices and minimize notices. The first explicit minimize-notice dismissal decision is remembered; subsequent changes use the menu.
+
+Windows 1.0.51: find ClipFin PCs on the local IPv4 subnet, save addresses or request recipient-approved registration, and control LAN discoverability. Esc hides the messenger while retaining drafts; menus configure its notice. Improve hover feedback in all themes. Unregistered discovery requires 1.0.51+ on both PCs. Physical two-PC network tests and additional desktop mouse/key checks remain outstanding.
+
+Windows 1.0.51 also retains the new-link per-file download default (unlimited, 1 or 3) across restarts and applies it to each new shared file.
