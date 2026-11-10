@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.52-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.52/Sailfish-1.0.52-win-x64.zip",
+  "assetName": "Sailfish-1.0.53-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.53/Sailfish-1.0.53-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "66d0719613c78e7af39a2e6d8e2e365f7504ad2642b4f9eeb0b6288a4f744b19",
-  "exeSizeBytes": 10702848,
+  "exeSha256": "53aa332b27fa55f5fbd25e42dddd11188fbca66719ae25b21134587304666824",
+  "exeSizeBytes": 10741760,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-10T23:15:56+09:00",
+  "publishedAt": "2026-11-11T08:41:54+09:00",
   "releaseNotes": {
-    "en": "Add a global menu option to automatically save new incoming attachments, images, text files and ClipFin share links to the default download folder. Keep both files with numbered names and retain the setting across restarts.",
-    "ko": "모든 대화의 새 첨부·이미지·텍스트 파일과 ClipFin 공유 링크를 기본 수신 폴더에 자동 저장하는 메뉴를 추가했습니다. 중복 이름에는 번호를 붙이며 선택은 재시작 후에도 유지됩니다."
+    "en": "Add Ctrl+Alt+~ region capture with named PNG saving, Desktop default and remembered save folder, and grouped menus. Improve clipboard image formats and elapsed-time lock retries.",
+    "ko": "Ctrl+Alt+~ 영역 캡처 후 PNG 파일 이름 지정 저장, 바탕화면 기본값과 마지막 저장 폴더 기억, 메뉴 기능별 분류를 추가했습니다. 클립보드 이미지 호환 형식과 잠금 재시도를 개선했습니다."
   },
-  "releaseTag": "v1.0.52",
+  "releaseTag": "v1.0.53",
   "schemaVersion": 1,
-  "sha256": "bf0080c9a3d5a9832f6eb7ea2aad2d2ad37b052f46e1514fb4976269d3cd85e5",
-  "signature": "ecc1b799d3ba8662ea6f386514f2c032ae35b8d2922c592f1f1ca705863a21472e5071407f150a63ce0b0ef79560a0db619755e6841b4b90926c935ac2840481",
+  "sha256": "f29b2330c76def2d48f7744c246d7d9b444b2ee00785441c31f31bd57fddc4f5",
+  "signature": "9d3285f4f348448d5703739c2971a83226b47f2a716621e88a6682ab571a3869942e48d26cd989689c0a224486e1070f3ffafed112944b660229fd657125b4ea",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4636471,
-  "version": "1.0.52"
+  "sizeBytes": 4651686,
+  "version": "1.0.53"
 }
