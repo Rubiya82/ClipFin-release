@@ -41,3 +41,5 @@ Windows 1.0.47: restore visible Messenger-theme main tab backgrounds, replace me
 Windows 1.0.48: complete the 12 zodiac profile animals; fix the final read group remaining in Unread; add visible new-group creation and add-people flows from direct chats while preserving the original history; show participant avatars, presence and invitation status; initialize messaging for mutual contact registration when receiving shared files. Approval and refusal settings are preserved. Android remains 1.0.36.
 
 Windows 1.0.49: reduce embedded logos to 256×256 while preserving the 1254px originals privately, and losslessly compress all 31 profile PNGs with identical RGBA pixels. The single Windows EXE shrinks from about 12.44MB to 10.53MB. Android remains 1.0.36.
+
+Windows 1.0.50: Windows autostart defaults to the tray; manual launches open the window. Independently configure one-second startup tray/monitoring notices and minimize notices. The first explicit minimize-notice dismissal decision is remembered; subsequent changes use the menu.
