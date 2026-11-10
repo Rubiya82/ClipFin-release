@@ -1,22 +1,22 @@
 {
-  "assetName": "ClipFin-1.0.51-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.51/ClipFin-1.0.51-win-x64.zip",
+  "assetName": "ClipFin-1.0.52-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.52/ClipFin-1.0.52-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "cfdbaab79118f512a30c1f8b9ecc3b56bbc028b1b72e7a6107546d0382d03549",
-  "exeSizeBytes": 10652160,
+  "exeSha256": "66d0719613c78e7af39a2e6d8e2e365f7504ad2642b4f9eeb0b6288a4f744b19",
+  "exeSizeBytes": 10702848,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-10T14:44:19+09:00",
+  "publishedAt": "2026-11-10T23:15:54+09:00",
   "releaseNotes": {
-    "en": "Find ClipFin PCs, close messages with Esc, configure its notice, and improve hover feedback. Retain new-link per-file download limits across restarts. Unregistered discovery requires both PCs on 1.0.51+.",
-    "ko": "ClipFin PC 찾기, 메신저 ESC 닫기·안내 설정과 마우스 오버를 추가했습니다. 새 링크의 파일당 다운로드 기본 제한(무제한/1회/3회)을 재실행 후에도 유지합니다. 미등록 PC 검색은 양쪽 1.0.51 이상이 필요합니다."
+    "en": "Add a global menu option to automatically save new incoming attachments, images, text files and ClipFin share links to the default download folder. Keep both files with numbered names and retain the setting across restarts.",
+    "ko": "모든 대화의 새 첨부·이미지·텍스트 파일과 ClipFin 공유 링크를 기본 수신 폴더에 자동 저장하는 메뉴를 추가했습니다. 중복 이름에는 번호를 붙이며 선택은 재시작 후에도 유지됩니다."
   },
-  "releaseTag": "v1.0.51",
+  "releaseTag": "v1.0.52",
   "schemaVersion": 1,
-  "sha256": "42ae57f845c443f6fc33522d8a6f376aaac7b119a82a1e503220f02916a016aa",
-  "signature": "e981bb7628a1e819aa073cbabf6340ccf69303a4f81fc28e9397930e7a07100bbe4605e29c4b6c119efd065c436853a03941a01090ad5c845339f0eb3606fb1e",
+  "sha256": "cbe49e9b5d332cdee573beace35965ef084879807a7bcaf35073ae29f539e94c",
+  "signature": "105ead91559c27c0948186797f50765dcb15e20b880bd8371cee8dbfc47065550f28a7afe29d37f378ee7b293aa7f89da6ac11648eac024e91379a3f62790160",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4618483,
-  "version": "1.0.51"
+  "sizeBytes": 4636469,
+  "version": "1.0.52"
 }
