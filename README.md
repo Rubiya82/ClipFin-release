@@ -47,3 +47,5 @@ Windows 1.0.50: Windows autostart defaults to the tray; manual launches open the
 Windows 1.0.51: find ClipFin PCs on the local IPv4 subnet, save addresses or request recipient-approved registration, and control LAN discoverability. Esc hides the messenger while retaining drafts; menus configure its notice. Improve hover feedback in all themes. Unregistered discovery requires 1.0.51+ on both PCs. Physical two-PC network tests and additional desktop mouse/key checks remain outstanding.
 
 Windows 1.0.51 also retains the new-link per-file download default (unlimited, 1 or 3) across restarts and applies it to each new shared file.
+
+Windows 1.0.52: optionally auto-download new incoming attachments, images, text files and ClipFin share links from all conversations to the default download folder. Keep both files by adding a numbered suffix on name collisions. The global choice persists across restarts; historical messages and plain chat bodies are excluded. Android remains 1.0.36. Real popup/command and isolated receive checks passed; additional desktop pointer verification was blocked by PickerHost.exe.
