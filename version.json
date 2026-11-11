@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.55-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.55/Sailfish-1.0.55-win-x64.zip",
+  "assetName": "Sailfish-1.0.56-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.56/Sailfish-1.0.56-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "bab7048f37b07e9006cfdf20849e81f617b7e357353873a331e1b207d80df9f2",
-  "exeSizeBytes": 10776064,
+  "exeSha256": "256e987c7fb567c37831c60de8e528f98e3a635a2a4dbc8b33d74838935a003d",
+  "exeSizeBytes": 10777600,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-11T11:04:06+09:00",
+  "publishedAt": "2026-11-11T12:50:09+09:00",
   "releaseNotes": {
-    "en": "Change named PNG region capture to Ctrl+Shift+C. Update menus and tooltips while preserving the existing capture-shortcut preference and Ctrl+Alt+1/2/3/4 capture actions.",
-    "ko": "파일 이름을 지정해 저장하는 영역 캡처 단축키를 Ctrl+Shift+C로 변경했습니다. 메뉴와 안내를 새 단축키에 맞췄으며 기존 캡처 단축키 사용 설정을 유지합니다."
+    "en": "Left-align menu labels and right-align shortcut hints with a separate column and gap. Use the same layout for clipboard monitoring and Quick link while preserving existing commands.",
+    "ko": "단축키 안내가 있는 메뉴에서 항목명은 좌측, 단축키는 우측 정렬하도록 개선했습니다. 클립보드 감시와 빠른 링크 안내도 같은 형식으로 통일했습니다."
   },
-  "releaseTag": "v1.0.55",
+  "releaseTag": "v1.0.56",
   "schemaVersion": 1,
-  "sha256": "720d92662260a7d18d6d1a8afc03b8e7ffafbef12892cb9a04c3ec10db03d2c8",
-  "signature": "e148ee7ecc2f8a05ed244d8cbcb59e4614091e0ef63d0beb41992a6bbdd3c6e138c52b8e130483d1eb7357bb0ff100765c36907aaf62cebfa64c4b8a15c5169c",
+  "sha256": "2f9f68e089a32f9c5ba1dfac4ecd3ddc46ab0300bca48ddb934880d7a829d710",
+  "signature": "5ebdadd3ce1ed37e5aec864c988748661dc5375862916890e1c4830e9fee7ce1ab1c7977fd3ebe90678bdce9892574e38d3156af74de105f4326e40c182ad4cb",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4669447,
-  "version": "1.0.55"
+  "sizeBytes": 4669886,
+  "version": "1.0.56"
 }
