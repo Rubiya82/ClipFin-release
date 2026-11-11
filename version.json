@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.53-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.53/Sailfish-1.0.53-win-x64.zip",
+  "assetName": "Sailfish-1.0.54-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.54/Sailfish-1.0.54-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "53aa332b27fa55f5fbd25e42dddd11188fbca66719ae25b21134587304666824",
-  "exeSizeBytes": 10741760,
+  "exeSha256": "d4c64d92f84a5ebf3f4e5146f412e20b00da39a21bdab8a318824955f5b55ba2",
+  "exeSizeBytes": 10776064,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-11T08:41:54+09:00",
+  "publishedAt": "2026-11-11T10:13:49+09:00",
   "releaseNotes": {
-    "en": "Add Ctrl+Alt+~ region capture with named PNG saving, Desktop default and remembered save folder, and grouped menus. Improve clipboard image formats and elapsed-time lock retries.",
-    "ko": "Ctrl+Alt+~ 영역 캡처 후 PNG 파일 이름 지정 저장, 바탕화면 기본값과 마지막 저장 폴더 기억, 메뉴 기능별 분류를 추가했습니다. 클립보드 이미지 호환 형식과 잠금 재시도를 개선했습니다."
+    "en": "Prepare the native Windows save dialog and folder during region selection to reduce post-capture initialization work. Monitoring status toasts hide after three seconds while clipboard monitoring continues.",
+    "ko": "영역 선택 중 Windows 저장 창과 기본 폴더를 미리 준비하여 캡처 후 대기를 줄이도록 개선했습니다. 클립보드 감시 중 토스트는 3초 후 자동으로 사라지며 감시는 계속 유지됩니다."
   },
-  "releaseTag": "v1.0.53",
+  "releaseTag": "v1.0.54",
   "schemaVersion": 1,
-  "sha256": "f29b2330c76def2d48f7744c246d7d9b444b2ee00785441c31f31bd57fddc4f5",
-  "signature": "9d3285f4f348448d5703739c2971a83226b47f2a716621e88a6682ab571a3869942e48d26cd989689c0a224486e1070f3ffafed112944b660229fd657125b4ea",
+  "sha256": "6103be38b65e245e784fa366342621cec40c364a78435cebf018145deca038b8",
+  "signature": "b9060cdb2e77c2579522846bfeb16c03a0de578cad59921273b6edad590df444d796c876181c7573cba91f523dab3368d22ca4ad6fab6bffb4012484807a28e5",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4651686,
-  "version": "1.0.53"
+  "sizeBytes": 4669452,
+  "version": "1.0.54"
 }
