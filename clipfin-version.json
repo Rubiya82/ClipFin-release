@@ -1,22 +1,22 @@
 {
-  "assetName": "ClipFin-1.0.55-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.55/ClipFin-1.0.55-win-x64.zip",
+  "assetName": "ClipFin-1.0.56-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.56/ClipFin-1.0.56-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "bab7048f37b07e9006cfdf20849e81f617b7e357353873a331e1b207d80df9f2",
-  "exeSizeBytes": 10776064,
+  "exeSha256": "256e987c7fb567c37831c60de8e528f98e3a635a2a4dbc8b33d74838935a003d",
+  "exeSizeBytes": 10777600,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-11T11:04:04+09:00",
+  "publishedAt": "2026-11-11T12:50:07+09:00",
   "releaseNotes": {
-    "en": "Change named PNG region capture to Ctrl+Shift+C. Update menus and tooltips while preserving the existing capture-shortcut preference and Ctrl+Alt+1/2/3/4 capture actions.",
-    "ko": "파일 이름을 지정해 저장하는 영역 캡처 단축키를 Ctrl+Shift+C로 변경했습니다. 메뉴와 안내를 새 단축키에 맞췄으며 기존 캡처 단축키 사용 설정을 유지합니다."
+    "en": "Left-align menu labels and right-align shortcut hints with a separate column and gap. Use the same layout for clipboard monitoring and Quick link while preserving existing commands.",
+    "ko": "단축키 안내가 있는 메뉴에서 항목명은 좌측, 단축키는 우측 정렬하도록 개선했습니다. 클립보드 감시와 빠른 링크 안내도 같은 형식으로 통일했습니다."
   },
-  "releaseTag": "v1.0.55",
+  "releaseTag": "v1.0.56",
   "schemaVersion": 1,
-  "sha256": "3973b5841876ee65255a25ce650bad6fcbd2828c421be88ed00fff0284e97dd1",
-  "signature": "5da8558382ef86ed87920b40c8f75a258882ca1206338e33d31340b7db4654cf553dd860239d45b6dfd33148169973b73525c9d200289ed1644d333afb1271f1",
+  "sha256": "df640478743b588284162e4f6f0456bb8e3eae7342c312d36679497f32239b86",
+  "signature": "bf6d8638a80a50839209c989f99ac1b3d724b62056c2d37836be6fe4de7a8e08e8a12184d7d397d0f144b9e7249b6bb60688709df61c40003f62eb601c96bd7f",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4669445,
-  "version": "1.0.55"
+  "sizeBytes": 4669884,
+  "version": "1.0.56"
 }
