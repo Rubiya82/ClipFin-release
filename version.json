@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.54-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.54/Sailfish-1.0.54-win-x64.zip",
+  "assetName": "Sailfish-1.0.55-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.55/Sailfish-1.0.55-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "d4c64d92f84a5ebf3f4e5146f412e20b00da39a21bdab8a318824955f5b55ba2",
+  "exeSha256": "bab7048f37b07e9006cfdf20849e81f617b7e357353873a331e1b207d80df9f2",
   "exeSizeBytes": 10776064,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-11T10:13:49+09:00",
+  "publishedAt": "2026-11-11T11:04:06+09:00",
   "releaseNotes": {
-    "en": "Prepare the native Windows save dialog and folder during region selection to reduce post-capture initialization work. Monitoring status toasts hide after three seconds while clipboard monitoring continues.",
-    "ko": "영역 선택 중 Windows 저장 창과 기본 폴더를 미리 준비하여 캡처 후 대기를 줄이도록 개선했습니다. 클립보드 감시 중 토스트는 3초 후 자동으로 사라지며 감시는 계속 유지됩니다."
+    "en": "Change named PNG region capture to Ctrl+Shift+C. Update menus and tooltips while preserving the existing capture-shortcut preference and Ctrl+Alt+1/2/3/4 capture actions.",
+    "ko": "파일 이름을 지정해 저장하는 영역 캡처 단축키를 Ctrl+Shift+C로 변경했습니다. 메뉴와 안내를 새 단축키에 맞췄으며 기존 캡처 단축키 사용 설정을 유지합니다."
   },
-  "releaseTag": "v1.0.54",
+  "releaseTag": "v1.0.55",
   "schemaVersion": 1,
-  "sha256": "6103be38b65e245e784fa366342621cec40c364a78435cebf018145deca038b8",
-  "signature": "b9060cdb2e77c2579522846bfeb16c03a0de578cad59921273b6edad590df444d796c876181c7573cba91f523dab3368d22ca4ad6fab6bffb4012484807a28e5",
+  "sha256": "720d92662260a7d18d6d1a8afc03b8e7ffafbef12892cb9a04c3ec10db03d2c8",
+  "signature": "e148ee7ecc2f8a05ed244d8cbcb59e4614091e0ef63d0beb41992a6bbdd3c6e138c52b8e130483d1eb7357bb0ff100765c36907aaf62cebfa64c4b8a15c5169c",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4669452,
-  "version": "1.0.54"
+  "sizeBytes": 4669447,
+  "version": "1.0.55"
 }
