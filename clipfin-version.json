@@ -1,22 +1,22 @@
 {
-  "assetName": "ClipFin-1.0.56-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.56/ClipFin-1.0.56-win-x64.zip",
+  "assetName": "ClipFin-1.0.57-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.57/ClipFin-1.0.57-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "256e987c7fb567c37831c60de8e528f98e3a635a2a4dbc8b33d74838935a003d",
+  "exeSha256": "d3c44d669549a4888a3ef1a3c95862b6e24e87a66859ad037637cc7496f35d9f",
   "exeSizeBytes": 10777600,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-11T12:50:07+09:00",
+  "publishedAt": "2026-11-13T10:10:16+09:00",
   "releaseNotes": {
-    "en": "Left-align menu labels and right-align shortcut hints with a separate column and gap. Use the same layout for clipboard monitoring and Quick link while preserving existing commands.",
-    "ko": "단축키 안내가 있는 메뉴에서 항목명은 좌측, 단축키는 우측 정렬하도록 개선했습니다. 클립보드 감시와 빠른 링크 안내도 같은 형식으로 통일했습니다."
+    "en": "Change named PNG region saving to Ctrl+Alt+W and stop registering Ctrl+Shift+C to release PowerPoint format copying. Update menus and tooltips while retaining existing capture-shortcut preferences.",
+    "ko": "파일 이름 지정 저장 캡처 단축키를 Ctrl+Alt+W로 변경했습니다. Ctrl+Shift+C 등록을 제거하고 메뉴·툴팁·안내를 갱신하여 PowerPoint 서식 복사와의 충돌을 피하도록 했습니다."
   },
-  "releaseTag": "v1.0.56",
+  "releaseTag": "v1.0.57",
   "schemaVersion": 1,
-  "sha256": "df640478743b588284162e4f6f0456bb8e3eae7342c312d36679497f32239b86",
-  "signature": "bf6d8638a80a50839209c989f99ac1b3d724b62056c2d37836be6fe4de7a8e08e8a12184d7d397d0f144b9e7249b6bb60688709df61c40003f62eb601c96bd7f",
+  "sha256": "a141805627a87bdca300113ec7f3e2368a8738f56f6488ebca011a82f337f6aa",
+  "signature": "700185e61800c630f00d418ee73786827972ecb582740949eb015ab9958b500ff82e6657fd5fac55dd485b9c50b49575febaea573bf29e68ba66328c727765ab",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4669884,
-  "version": "1.0.56"
+  "sizeBytes": 4669934,
+  "version": "1.0.57"
 }

@@ -1,22 +1,22 @@
 {
-  "assetName": "Sailfish-1.0.56-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.56/Sailfish-1.0.56-win-x64.zip",
+  "assetName": "Sailfish-1.0.57-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.57/Sailfish-1.0.57-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "256e987c7fb567c37831c60de8e528f98e3a635a2a4dbc8b33d74838935a003d",
+  "exeSha256": "d3c44d669549a4888a3ef1a3c95862b6e24e87a66859ad037637cc7496f35d9f",
   "exeSizeBytes": 10777600,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-11T12:50:09+09:00",
+  "publishedAt": "2026-11-13T10:10:18+09:00",
   "releaseNotes": {
-    "en": "Left-align menu labels and right-align shortcut hints with a separate column and gap. Use the same layout for clipboard monitoring and Quick link while preserving existing commands.",
-    "ko": "단축키 안내가 있는 메뉴에서 항목명은 좌측, 단축키는 우측 정렬하도록 개선했습니다. 클립보드 감시와 빠른 링크 안내도 같은 형식으로 통일했습니다."
+    "en": "Change named PNG region saving to Ctrl+Alt+W and stop registering Ctrl+Shift+C to release PowerPoint format copying. Update menus and tooltips while retaining existing capture-shortcut preferences.",
+    "ko": "파일 이름 지정 저장 캡처 단축키를 Ctrl+Alt+W로 변경했습니다. Ctrl+Shift+C 등록을 제거하고 메뉴·툴팁·안내를 갱신하여 PowerPoint 서식 복사와의 충돌을 피하도록 했습니다."
   },
-  "releaseTag": "v1.0.56",
+  "releaseTag": "v1.0.57",
   "schemaVersion": 1,
-  "sha256": "2f9f68e089a32f9c5ba1dfac4ecd3ddc46ab0300bca48ddb934880d7a829d710",
-  "signature": "5ebdadd3ce1ed37e5aec864c988748661dc5375862916890e1c4830e9fee7ce1ab1c7977fd3ebe90678bdce9892574e38d3156af74de105f4326e40c182ad4cb",
+  "sha256": "3d122ceaa4a5c910bbb27c817183bea05c701c7ac22f718958aee66bca35ee88",
+  "signature": "c255171b675403943c17d799c55c2a7819c71a32260d98545fa4a31e6d430a5a33ed443e65060a63298121324109c56851f94bce91171f2e1ebb78104c3a9ceb",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4669886,
-  "version": "1.0.56"
+  "sizeBytes": 4669936,
+  "version": "1.0.57"
 }
