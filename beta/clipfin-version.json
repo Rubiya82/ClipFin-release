@@ -1,23 +1,23 @@
 {
-  "assetName": "ClipFin-1.0.59-beta.2-win-x64.zip",
+  "assetName": "ClipFin-1.0.59-beta.3-win-x64.zip",
   "channel": "beta",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.59-beta.2/ClipFin-1.0.59-beta.2-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.59-beta.3/ClipFin-1.0.59-beta.3-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "ea209a675645f43457762243911f5b37ea8ce08fb139ff7bccbfd070a8924ba9",
-  "exeSizeBytes": 11284480,
+  "exeSha256": "1817b20ff47a48f85e1f8274833f1fcb9cebe90515d4f7ea415a8e9fa5f090a9",
+  "exeSizeBytes": 11300352,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-13T15:44:22+09:00",
+  "publishedAt": "2026-11-13T16:35:27+09:00",
   "releaseNotes": {
-    "en": "Improved shortcut dialog startup and label backgrounds. Added inline TSF plain-text input and reduced refresh interference during Korean composition in messages and memos. Preserves settings and data.",
-    "ko": "단축키 설정 창의 표시 대기와 배경색을 개선하고 메시지·메모의 한글 입력 조합 중 갱신 간섭을 줄였습니다. 기존 설정과 자료를 유지합니다."
+    "en": "Memos save after five seconds idle and collapse to a draggable icon at their current position. Improved composer hint and first-line input rendering. Existing settings and data are preserved.",
+    "ko": "메모는 입력이 5초간 없을 때만 자동저장하고 현재 위치에 작은 축소 아이콘을 남깁니다. 메시지 안내 문구와 첫 줄 입력 표시도 개선했습니다. 기존 설정과 자료를 유지합니다."
   },
-  "releaseTag": "v1.0.59-beta.2",
+  "releaseTag": "v1.0.59-beta.3",
   "schemaVersion": 1,
-  "sha256": "50e51f98d50eb6164fdb4d4f7bc80d67da236b9c8a7c1b82e6efd9f423fc4b0c",
-  "signature": "f6620fda65c60d45369620edaae8944c0bb305ea3d84360c37873cabbfec8294219434db388f7fb539ed95d7c32aa728baa135f063c313f6ced5056ba90b5020",
+  "sha256": "2a0752a7f656a052dbb42e21d26e92f00ded06f3fc015d2fc252df3da40ab5fb",
+  "signature": "3095c4a08a55ebe28dc68460e64cd96b307a476dcc2e77fc4f81347172e93efb3a2deda41bbf6a3b4dfc753ff35bc2e904602f2e21b430e13c01e63b9082ce4d",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4874213,
-  "version": "1.0.59-beta.2"
+  "sizeBytes": 4879659,
+  "version": "1.0.59-beta.3"
 }
