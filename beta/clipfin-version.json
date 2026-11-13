@@ -1,23 +1,23 @@
 {
-  "assetName": "ClipFin-1.0.59-beta.1-win-x64.zip",
+  "assetName": "ClipFin-1.0.59-beta.2-win-x64.zip",
   "channel": "beta",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.59-beta.1/ClipFin-1.0.59-beta.1-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.59-beta.2/ClipFin-1.0.59-beta.2-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "f706e50b4101795868061878992a6de49fdf6c22b46df0b1449a8b08194c557c",
-  "exeSizeBytes": 11280384,
+  "exeSha256": "ea209a675645f43457762243911f5b37ea8ce08fb139ff7bccbfd070a8924ba9",
+  "exeSizeBytes": 11284480,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-13T15:07:03+09:00",
+  "publishedAt": "2026-11-13T15:44:22+09:00",
   "releaseNotes": {
-    "en": "Refined the memo UI with compact icon tools and More, added a main-window New memo button and Ctrl+Win+Z. Existing settings and data are preserved.",
-    "ko": "메모 UI와 상단 아이콘·더보기를 개선하고 메인 화면 새 메모 버튼 및 Ctrl+Win+Z를 추가했습니다. 기존 설정과 자료를 유지합니다."
+    "en": "Improved shortcut dialog startup and label backgrounds. Added inline TSF plain-text input and reduced refresh interference during Korean composition in messages and memos. Preserves settings and data.",
+    "ko": "단축키 설정 창의 표시 대기와 배경색을 개선하고 메시지·메모의 한글 입력 조합 중 갱신 간섭을 줄였습니다. 기존 설정과 자료를 유지합니다."
   },
-  "releaseTag": "v1.0.59-beta.1",
+  "releaseTag": "v1.0.59-beta.2",
   "schemaVersion": 1,
-  "sha256": "7d654e93548030f5832eb689b19e64f50718cb467660dfe520e7f4e800efbb85",
-  "signature": "1475c854df9292e0841c701fdeac69bb680ae7f4592a896c546f5ad100ec340df135b257530b76d576050e95a68af777be48ff2fc4ef884f18f7673c0746e1a9",
+  "sha256": "50e51f98d50eb6164fdb4d4f7bc80d67da236b9c8a7c1b82e6efd9f423fc4b0c",
+  "signature": "f6620fda65c60d45369620edaae8944c0bb305ea3d84360c37873cabbfec8294219434db388f7fb539ed95d7c32aa728baa135f063c313f6ced5056ba90b5020",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4870107,
-  "version": "1.0.59-beta.1"
+  "sizeBytes": 4874213,
+  "version": "1.0.59-beta.2"
 }
