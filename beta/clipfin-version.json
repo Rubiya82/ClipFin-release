@@ -1,23 +1,23 @@
 {
-  "assetName": "ClipFin-1.0.58-beta.1-win-x64.zip",
+  "assetName": "ClipFin-1.0.59-beta.1-win-x64.zip",
   "channel": "beta",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.58-beta.1/ClipFin-1.0.58-beta.1-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.59-beta.1/ClipFin-1.0.59-beta.1-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "84c907efbed111e026608fa37633c12dcbdcb37a22956a5dfb36229b68e33113",
-  "exeSizeBytes": 11240960,
+  "exeSha256": "f706e50b4101795868061878992a6de49fdf6c22b46df0b1449a8b08194c557c",
+  "exeSizeBytes": 11280384,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-13T12:57:15+09:00",
+  "publishedAt": "2026-11-13T15:07:03+09:00",
   "releaseNotes": {
-    "en": "Beta testing for desktop memos and attachments, per-sender receive consent, Ctrl+Alt+W plus Ctrl+Win+X capture saving, editable global shortcuts, and data-preserving beta-to-stable updates. Stable publication awaits user approval.",
-    "ko": "메모·첨부 공유, 상대별 수신 승인과 요청 알림, Ctrl+Alt+W 및 Ctrl+Win+X 캡처 저장, 전역 단축키 설정, 자료를 유지하는 베타→정식 업데이트를 테스트하는 베타입니다. 정식 배포는 사용자 승인 후 진행합니다."
+    "en": "Refined the memo UI with compact icon tools and More, added a main-window New memo button and Ctrl+Win+Z. Existing settings and data are preserved.",
+    "ko": "메모 UI와 상단 아이콘·더보기를 개선하고 메인 화면 새 메모 버튼 및 Ctrl+Win+Z를 추가했습니다. 기존 설정과 자료를 유지합니다."
   },
-  "releaseTag": "v1.0.58-beta.1",
+  "releaseTag": "v1.0.59-beta.1",
   "schemaVersion": 1,
-  "sha256": "6a165dd4a1057f19c926e99ea3ae48b468af041357e35ced6889dd0cce6c34a5",
-  "signature": "ec8ee9ad64d23f0700c0142e7f59a7d00982d5958b519f451cf86fa781e64685b49ab8c245018131e38840951fa91c21e954bb9a640fecedd0245c9d3c79f4a1",
+  "sha256": "7d654e93548030f5832eb689b19e64f50718cb467660dfe520e7f4e800efbb85",
+  "signature": "1475c854df9292e0841c701fdeac69bb680ae7f4592a896c546f5ad100ec340df135b257530b76d576050e95a68af777be48ff2fc4ef884f18f7673c0746e1a9",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4853170,
-  "version": "1.0.58-beta.1"
+  "sizeBytes": 4870107,
+  "version": "1.0.59-beta.1"
 }
