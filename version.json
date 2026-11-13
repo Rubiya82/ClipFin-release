@@ -1,22 +1,23 @@
 {
-  "assetName": "Sailfish-1.0.57-win-x64.zip",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.57/Sailfish-1.0.57-win-x64.zip",
+  "assetName": "Sailfish-1.0.58-win-x64.zip",
+  "channel": "stable",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.58/Sailfish-1.0.58-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "d3c44d669549a4888a3ef1a3c95862b6e24e87a66859ad037637cc7496f35d9f",
-  "exeSizeBytes": 10777600,
+  "exeSha256": "ea633ddf4655bfb393b262f50dcefddac276030966fa4ae958c72af109aa185e",
+  "exeSizeBytes": 11240960,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-13T10:10:18+09:00",
+  "publishedAt": "2026-11-13T13:13:04+09:00",
   "releaseNotes": {
-    "en": "Change named PNG region saving to Ctrl+Alt+W and stop registering Ctrl+Shift+C to release PowerPoint format copying. Update menus and tooltips while retaining existing capture-shortcut preferences.",
-    "ko": "파일 이름 지정 저장 캡처 단축키를 Ctrl+Alt+W로 변경했습니다. Ctrl+Shift+C 등록을 제거하고 메뉴·툴팁·안내를 갱신하여 PowerPoint 서식 복사와의 충돌을 피하도록 했습니다."
+    "en": "Add desktop memos and attachment sharing with per-sender consent, Ctrl+Alt+W plus Ctrl+Win+X capture saving, global shortcut settings and data-preserving beta/stable update channels. Future changes follow beta testing and explicit approval before stable release.",
+    "ko": "바탕화면 메모·첨부 공유와 상대별 수신 승인, Ctrl+Alt+W 및 Ctrl+Win+X 캡처 저장, 전역 단축키 설정과 자료를 유지하는 베타·정식 업데이트 채널을 추가했습니다. 이후 수정부터 베타 테스트·승인 후 정식 배포합니다."
   },
-  "releaseTag": "v1.0.57",
+  "releaseTag": "v1.0.58",
   "schemaVersion": 1,
-  "sha256": "3d122ceaa4a5c910bbb27c817183bea05c701c7ac22f718958aee66bca35ee88",
-  "signature": "c255171b675403943c17d799c55c2a7819c71a32260d98545fa4a31e6d430a5a33ed443e65060a63298121324109c56851f94bce91171f2e1ebb78104c3a9ceb",
+  "sha256": "1a27367cca0d741517504ae4f8eb75b8c1d9aa006514ad959bf19c06c26ab166",
+  "signature": "1eee3509584c15f9b07de654d236819af4ad544cc169f025ee3944885481a3d3559d5db63acd16d74dc74f6873bd16740d075468e584b0bf1e3ca4a3a77b3035",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4669936,
-  "version": "1.0.57"
+  "sizeBytes": 4853093,
+  "version": "1.0.58"
 }
