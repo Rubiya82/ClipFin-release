@@ -1,0 +1,23 @@
+{
+  "assetName": "Sailfish-1.0.58-beta.1-win-x64.zip",
+  "channel": "beta",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.58-beta.1/Sailfish-1.0.58-beta.1-win-x64.zip",
+  "exePath": "Sailfish.exe",
+  "exeSha256": "84c907efbed111e026608fa37633c12dcbdcb37a22956a5dfb36229b68e33113",
+  "exeSizeBytes": 11240960,
+  "keyId": "sailfish-release-2026",
+  "platform": "windows-x64",
+  "published": true,
+  "publishedAt": "2026-11-13T12:57:16+09:00",
+  "releaseNotes": {
+    "en": "Beta testing for desktop memos and attachments, per-sender receive consent, Ctrl+Alt+W plus Ctrl+Win+X capture saving, editable global shortcuts, and data-preserving beta-to-stable updates. Stable publication awaits user approval.",
+    "ko": "메모·첨부 공유, 상대별 수신 승인과 요청 알림, Ctrl+Alt+W 및 Ctrl+Win+X 캡처 저장, 전역 단축키 설정, 자료를 유지하는 베타→정식 업데이트를 테스트하는 베타입니다. 정식 배포는 사용자 승인 후 진행합니다."
+  },
+  "releaseTag": "v1.0.58-beta.1",
+  "schemaVersion": 1,
+  "sha256": "9ea41d5e3055d5b83cc4524c2907176b0eff6f4a8833c6c70caf99e067e92ed3",
+  "signature": "979db82594f873941723b0acd9155ef1629ae35c536c445e4b75d8d9a855c55ed2108501ab53f0c5b5a1e338f437b66b7f7b7635d772fc000e0f969cc419ea83",
+  "signatureAlgorithm": "ecdsa-p256-sha256",
+  "sizeBytes": 4853172,
+  "version": "1.0.58-beta.1"
+}
