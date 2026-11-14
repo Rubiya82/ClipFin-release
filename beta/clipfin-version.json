@@ -1,23 +1,23 @@
 {
-  "assetName": "ClipFin-1.0.59-beta.3-win-x64.zip",
+  "assetName": "ClipFin-1.0.59-beta.4-win-x64.zip",
   "channel": "beta",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.59-beta.3/ClipFin-1.0.59-beta.3-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.59-beta.4/ClipFin-1.0.59-beta.4-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "1817b20ff47a48f85e1f8274833f1fcb9cebe90515d4f7ea415a8e9fa5f090a9",
-  "exeSizeBytes": 11300352,
+  "exeSha256": "3a0bea005688430c44a4a6701a514673e829a075dd6b369e274745635289e58b",
+  "exeSizeBytes": 11326976,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-13T16:35:27+09:00",
+  "publishedAt": "2026-11-15T01:21:30+09:00",
   "releaseNotes": {
-    "en": "Memos save after five seconds idle and collapse to a draggable icon at their current position. Improved composer hint and first-line input rendering. Existing settings and data are preserved.",
-    "ko": "메모는 입력이 5초간 없을 때만 자동저장하고 현재 위치에 작은 축소 아이콘을 남깁니다. 메시지 안내 문구와 첫 줄 입력 표시도 개선했습니다. 기존 설정과 자료를 유지합니다."
+    "en": "Improve first-line editor metrics, collapsed desktop tiles and memo list access. Actual Korean IME and Win+D need beta confirmation. Existing settings and data preserved.",
+    "ko": "메시지·메모 첫 줄 표시, 바탕화면 축소 타일과 메모 목록 개선. 실제 한글 IME·Win+D 재확인 필요. 기존 설정과 자료 유지."
   },
-  "releaseTag": "v1.0.59-beta.3",
+  "releaseTag": "v1.0.59-beta.4",
   "schemaVersion": 1,
-  "sha256": "2a0752a7f656a052dbb42e21d26e92f00ded06f3fc015d2fc252df3da40ab5fb",
-  "signature": "3095c4a08a55ebe28dc68460e64cd96b307a476dcc2e77fc4f81347172e93efb3a2deda41bbf6a3b4dfc753ff35bc2e904602f2e21b430e13c01e63b9082ce4d",
+  "sha256": "e2502345d2681c145efda064b59dcd7f0a3e993502aad2c6ef0aff7cb01f82db",
+  "signature": "b72d2cb264b90a51b05283496c1e53e414f90f930634c185aae3418f472a8f8c7168495b20cb031b48ad906c1cf04596dabe865e2207e214954b39cacbb410c1",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4879659,
-  "version": "1.0.59-beta.3"
+  "sizeBytes": 4887484,
+  "version": "1.0.59-beta.4"
 }
