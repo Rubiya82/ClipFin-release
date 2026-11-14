@@ -1,23 +1,23 @@
 {
-  "assetName": "Sailfish-1.0.59-beta.3-win-x64.zip",
+  "assetName": "Sailfish-1.0.59-beta.4-win-x64.zip",
   "channel": "beta",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.59-beta.3/Sailfish-1.0.59-beta.3-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.59-beta.4/Sailfish-1.0.59-beta.4-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "1817b20ff47a48f85e1f8274833f1fcb9cebe90515d4f7ea415a8e9fa5f090a9",
-  "exeSizeBytes": 11300352,
+  "exeSha256": "3a0bea005688430c44a4a6701a514673e829a075dd6b369e274745635289e58b",
+  "exeSizeBytes": 11326976,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-13T16:35:29+09:00",
+  "publishedAt": "2026-11-15T01:21:32+09:00",
   "releaseNotes": {
-    "en": "Memos save after five seconds idle and collapse to a draggable icon at their current position. Improved composer hint and first-line input rendering. Existing settings and data are preserved.",
-    "ko": "메모는 입력이 5초간 없을 때만 자동저장하고 현재 위치에 작은 축소 아이콘을 남깁니다. 메시지 안내 문구와 첫 줄 입력 표시도 개선했습니다. 기존 설정과 자료를 유지합니다."
+    "en": "Improve first-line editor metrics, collapsed desktop tiles and memo list access. Actual Korean IME and Win+D need beta confirmation. Existing settings and data preserved.",
+    "ko": "메시지·메모 첫 줄 표시, 바탕화면 축소 타일과 메모 목록 개선. 실제 한글 IME·Win+D 재확인 필요. 기존 설정과 자료 유지."
   },
-  "releaseTag": "v1.0.59-beta.3",
+  "releaseTag": "v1.0.59-beta.4",
   "schemaVersion": 1,
-  "sha256": "f02a80dee6b822299ef9ad485b04b6a89fb278e0feda285c42cce2ec1dd42b35",
-  "signature": "9c6416363211514cecb83835cc25d025f166335d8b6ccd413ec0d8b3661b3d1a8ea8e71654b853f024048217d56585edc6282f089a8d2d5954e6c6c8526a647e",
+  "sha256": "d92e2be0625ac705c9a9419d27ffdc1806b5b1584a5bb48e8e174aa89a8cf5b5",
+  "signature": "bb0e4b550b8b575f025ef0a8f802aabb72b2f21336ddddefa3cf0c5f64e9e3cd51a2d7ee24bfce25a8381ad2f47077a87054e987e3d30bbf1d88e8079d4624de",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4879661,
-  "version": "1.0.59-beta.3"
+  "sizeBytes": 4887486,
+  "version": "1.0.59-beta.4"
 }
