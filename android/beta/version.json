@@ -1,0 +1,17 @@
+{
+  "channel": "beta",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/android-v1.0.59-beta.1/Sailfish-1.0.59-beta.1-android.apk",
+  "keyId": "sailfish-release-2026",
+  "minSdk": 29,
+  "packageName": "com.rubiya.sailfish",
+  "platform": "android",
+  "published": true,
+  "schemaVersion": 1,
+  "sha256": "e1433b3d5f35873289b10f8d39a5e4877cbfb1fe158a7fa6fb74dee2195a7766",
+  "signature": "88b920711952663b19d6d1ef9f93a79b7a3450632f9dd1ced1c4d1979406b97eb0d3b155506389627e47abf9021fc2137803b4ee38fcc1128e88caad3d743ae3",
+  "signatureAlgorithm": "ecdsa-p256-sha256",
+  "signerSha256": "51f1d581ee1adb0b6a7708a9df798ce195ffb1c63164b2b5291944d20147ce3d",
+  "sizeBytes": 899534,
+  "version": "1.0.59-beta.1",
+  "versionCode": 1005901
+}
