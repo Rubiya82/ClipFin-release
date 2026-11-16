@@ -1,23 +1,23 @@
 {
-  "assetName": "ClipFin-1.0.59-beta.6-win-x64.zip",
+  "assetName": "ClipFin-1.0.59-beta.7-win-x64.zip",
   "channel": "beta",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.59-beta.6/ClipFin-1.0.59-beta.6-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.59-beta.7/ClipFin-1.0.59-beta.7-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "e794032fdf4554a74d7df6c5a40a997fdf32f075cf6bcea84a855c1c44a56d46",
-  "exeSizeBytes": 11329536,
+  "exeSha256": "50c0c2901309ef7d2df2d5c4501fc35dd46c321828857fe8e8c47308a149988e",
+  "exeSizeBytes": 11331072,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-16T18:34:25+09:00",
+  "publishedAt": "2026-11-16T19:45:29+09:00",
   "releaseNotes": {
-    "en": "Hide the composer hint on focus and revise inline Korean IME font initialization. Actual Microsoft IME rendering requires beta confirmation. Settings and data preserved.",
-    "ko": "입력창 클릭/포커스 시 안내 문구를 즉시 숨기고 한글 조합 입력 경로와 글꼴 초기화를 수정했습니다. 실제 Microsoft 입력기 표시 재확인 필요. 설정·자료 유지."
+    "en": "Initialize the first message paragraph from the current input language and disable empty-editor language fixup. Actual Korean first-line caret behavior needs beta confirmation. Settings and data preserved.",
+    "ko": "메시지 첫 문단을 현재 입력 언어로 초기화하고 빈 문단의 자동 언어 보정을 막도록 수정했습니다. 첫 줄 커서 증상은 실제 입력에서 재확인 필요. 설정·자료 유지."
   },
-  "releaseTag": "v1.0.59-beta.6",
+  "releaseTag": "v1.0.59-beta.7",
   "schemaVersion": 1,
-  "sha256": "5a8ab05340754232d2820a0fa5269259b4f8f708f94e345d17f074db790c53d8",
-  "signature": "2a828e6f43ed5eef28a33a298cb2bfbc85708726c5118fc722c8d865f2dede02b3c155bb3879b1b11af43cad309637c37a76b0c26bc725d1856cc3c258031eb7",
+  "sha256": "2073e9c6faf1f66786b3727a006713b14e27f4609763a173732181bdceb76ef1",
+  "signature": "0c1ba4f426130ab26522456e4fd295bcaac5e39aeb096793f60cd725d38a44f18346eb6a42271a7eec0cca466648734ee82cc836620c13730f9a38090ec0b2f0",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4888757,
-  "version": "1.0.59-beta.6"
+  "sizeBytes": 4890116,
+  "version": "1.0.59-beta.7"
 }
