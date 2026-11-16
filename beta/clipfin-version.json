@@ -1,23 +1,23 @@
 {
-  "assetName": "ClipFin-1.0.59-beta.4-win-x64.zip",
+  "assetName": "ClipFin-1.0.59-beta.5-win-x64.zip",
   "channel": "beta",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.59-beta.4/ClipFin-1.0.59-beta.4-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.59-beta.5/ClipFin-1.0.59-beta.5-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "3a0bea005688430c44a4a6701a514673e829a075dd6b369e274745635289e58b",
+  "exeSha256": "72b6ffbc5562625f5a5e7923c45307f0f8eedb267e3e0f5bae63e0a68e45068c",
   "exeSizeBytes": 11326976,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-15T01:21:30+09:00",
+  "publishedAt": "2026-11-16T17:01:42+09:00",
   "releaseNotes": {
-    "en": "Improve first-line editor metrics, collapsed desktop tiles and memo list access. Actual Korean IME and Win+D need beta confirmation. Existing settings and data preserved.",
-    "ko": "메시지·메모 첫 줄 표시, 바탕화면 축소 타일과 메모 목록 개선. 실제 한글 IME·Win+D 재확인 필요. 기존 설정과 자료 유지."
+    "en": "Keep the composer hint stationary before first input and use Windows Unicode Edit for message entry. Actual Korean IME composition needs beta confirmation. Settings and data preserved.",
+    "ko": "메시지 첫 입력 안내 문구의 스크롤 이동을 방지하고 기본 Windows Edit로 한글 입력 경로를 변경했습니다. 실제 한글 조합 재확인 필요. 설정과 자료 유지."
   },
-  "releaseTag": "v1.0.59-beta.4",
+  "releaseTag": "v1.0.59-beta.5",
   "schemaVersion": 1,
-  "sha256": "e2502345d2681c145efda064b59dcd7f0a3e993502aad2c6ef0aff7cb01f82db",
-  "signature": "b72d2cb264b90a51b05283496c1e53e414f90f930634c185aae3418f472a8f8c7168495b20cb031b48ad906c1cf04596dabe865e2207e214954b39cacbb410c1",
+  "sha256": "05ddfcc61a82575f1548a18e6022f0c12ceb4392a5980cefb0f511c3397d52e0",
+  "signature": "6f7ccf1b3c9e98cce31a254a09ded990f001714f5c2e3ef379c3e07a20caee6142cf9ef10c4bcf8b2607150eba9ab7556017e5c38f1e069ffc5b764914d84a15",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4887484,
-  "version": "1.0.59-beta.4"
+  "sizeBytes": 4887710,
+  "version": "1.0.59-beta.5"
 }

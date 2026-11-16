@@ -1,23 +1,23 @@
 {
-  "assetName": "Sailfish-1.0.59-beta.4-win-x64.zip",
+  "assetName": "Sailfish-1.0.59-beta.5-win-x64.zip",
   "channel": "beta",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.59-beta.4/Sailfish-1.0.59-beta.4-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.59-beta.5/Sailfish-1.0.59-beta.5-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "3a0bea005688430c44a4a6701a514673e829a075dd6b369e274745635289e58b",
+  "exeSha256": "72b6ffbc5562625f5a5e7923c45307f0f8eedb267e3e0f5bae63e0a68e45068c",
   "exeSizeBytes": 11326976,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-15T01:21:32+09:00",
+  "publishedAt": "2026-11-16T17:01:43+09:00",
   "releaseNotes": {
-    "en": "Improve first-line editor metrics, collapsed desktop tiles and memo list access. Actual Korean IME and Win+D need beta confirmation. Existing settings and data preserved.",
-    "ko": "메시지·메모 첫 줄 표시, 바탕화면 축소 타일과 메모 목록 개선. 실제 한글 IME·Win+D 재확인 필요. 기존 설정과 자료 유지."
+    "en": "Keep the composer hint stationary before first input and use Windows Unicode Edit for message entry. Actual Korean IME composition needs beta confirmation. Settings and data preserved.",
+    "ko": "메시지 첫 입력 안내 문구의 스크롤 이동을 방지하고 기본 Windows Edit로 한글 입력 경로를 변경했습니다. 실제 한글 조합 재확인 필요. 설정과 자료 유지."
   },
-  "releaseTag": "v1.0.59-beta.4",
+  "releaseTag": "v1.0.59-beta.5",
   "schemaVersion": 1,
-  "sha256": "d92e2be0625ac705c9a9419d27ffdc1806b5b1584a5bb48e8e174aa89a8cf5b5",
-  "signature": "bb0e4b550b8b575f025ef0a8f802aabb72b2f21336ddddefa3cf0c5f64e9e3cd51a2d7ee24bfce25a8381ad2f47077a87054e987e3d30bbf1d88e8079d4624de",
+  "sha256": "5b358b69171d727564e4b7ed77a5c38471a23e8e474209e4fa25c1e074458f54",
+  "signature": "3b2c44c7516924618c293cef88917dfe0c6cd1ac55634a11c53c746d44a54ebdf719ca8ab735ab372ef61fec2ac12e2cb0b89af34669f61f23ce1d04c2cc5b2b",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4887486,
-  "version": "1.0.59-beta.4"
+  "sizeBytes": 4887712,
+  "version": "1.0.59-beta.5"
 }
