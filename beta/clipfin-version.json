@@ -1,23 +1,23 @@
 {
-  "assetName": "ClipFin-1.0.59-beta.5-win-x64.zip",
+  "assetName": "ClipFin-1.0.59-beta.6-win-x64.zip",
   "channel": "beta",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.59-beta.5/ClipFin-1.0.59-beta.5-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.59-beta.6/ClipFin-1.0.59-beta.6-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "72b6ffbc5562625f5a5e7923c45307f0f8eedb267e3e0f5bae63e0a68e45068c",
-  "exeSizeBytes": 11326976,
+  "exeSha256": "e794032fdf4554a74d7df6c5a40a997fdf32f075cf6bcea84a855c1c44a56d46",
+  "exeSizeBytes": 11329536,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-16T17:01:42+09:00",
+  "publishedAt": "2026-11-16T18:34:25+09:00",
   "releaseNotes": {
-    "en": "Keep the composer hint stationary before first input and use Windows Unicode Edit for message entry. Actual Korean IME composition needs beta confirmation. Settings and data preserved.",
-    "ko": "메시지 첫 입력 안내 문구의 스크롤 이동을 방지하고 기본 Windows Edit로 한글 입력 경로를 변경했습니다. 실제 한글 조합 재확인 필요. 설정과 자료 유지."
+    "en": "Hide the composer hint on focus and revise inline Korean IME font initialization. Actual Microsoft IME rendering requires beta confirmation. Settings and data preserved.",
+    "ko": "입력창 클릭/포커스 시 안내 문구를 즉시 숨기고 한글 조합 입력 경로와 글꼴 초기화를 수정했습니다. 실제 Microsoft 입력기 표시 재확인 필요. 설정·자료 유지."
   },
-  "releaseTag": "v1.0.59-beta.5",
+  "releaseTag": "v1.0.59-beta.6",
   "schemaVersion": 1,
-  "sha256": "05ddfcc61a82575f1548a18e6022f0c12ceb4392a5980cefb0f511c3397d52e0",
-  "signature": "6f7ccf1b3c9e98cce31a254a09ded990f001714f5c2e3ef379c3e07a20caee6142cf9ef10c4bcf8b2607150eba9ab7556017e5c38f1e069ffc5b764914d84a15",
+  "sha256": "5a8ab05340754232d2820a0fa5269259b4f8f708f94e345d17f074db790c53d8",
+  "signature": "2a828e6f43ed5eef28a33a298cb2bfbc85708726c5118fc722c8d865f2dede02b3c155bb3879b1b11af43cad309637c37a76b0c26bc725d1856cc3c258031eb7",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4887710,
-  "version": "1.0.59-beta.5"
+  "sizeBytes": 4888757,
+  "version": "1.0.59-beta.6"
 }

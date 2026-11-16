@@ -1,23 +1,23 @@
 {
-  "assetName": "Sailfish-1.0.59-beta.5-win-x64.zip",
+  "assetName": "Sailfish-1.0.59-beta.6-win-x64.zip",
   "channel": "beta",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.59-beta.5/Sailfish-1.0.59-beta.5-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.59-beta.6/Sailfish-1.0.59-beta.6-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "72b6ffbc5562625f5a5e7923c45307f0f8eedb267e3e0f5bae63e0a68e45068c",
-  "exeSizeBytes": 11326976,
+  "exeSha256": "e794032fdf4554a74d7df6c5a40a997fdf32f075cf6bcea84a855c1c44a56d46",
+  "exeSizeBytes": 11329536,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-16T17:01:43+09:00",
+  "publishedAt": "2026-11-16T18:34:26+09:00",
   "releaseNotes": {
-    "en": "Keep the composer hint stationary before first input and use Windows Unicode Edit for message entry. Actual Korean IME composition needs beta confirmation. Settings and data preserved.",
-    "ko": "메시지 첫 입력 안내 문구의 스크롤 이동을 방지하고 기본 Windows Edit로 한글 입력 경로를 변경했습니다. 실제 한글 조합 재확인 필요. 설정과 자료 유지."
+    "en": "Hide the composer hint on focus and revise inline Korean IME font initialization. Actual Microsoft IME rendering requires beta confirmation. Settings and data preserved.",
+    "ko": "입력창 클릭/포커스 시 안내 문구를 즉시 숨기고 한글 조합 입력 경로와 글꼴 초기화를 수정했습니다. 실제 Microsoft 입력기 표시 재확인 필요. 설정·자료 유지."
   },
-  "releaseTag": "v1.0.59-beta.5",
+  "releaseTag": "v1.0.59-beta.6",
   "schemaVersion": 1,
-  "sha256": "5b358b69171d727564e4b7ed77a5c38471a23e8e474209e4fa25c1e074458f54",
-  "signature": "3b2c44c7516924618c293cef88917dfe0c6cd1ac55634a11c53c746d44a54ebdf719ca8ab735ab372ef61fec2ac12e2cb0b89af34669f61f23ce1d04c2cc5b2b",
+  "sha256": "8dc49ccbdb9396fd649fdc4a005a5448edf80cb7f2db98fee4027b5ee5ff55e8",
+  "signature": "07b0ee96e4a9d572f424701eb5ec0fa373806cffc6f3265fb39b05994a76cf2f04e0685c9d32bc1b36a5152b93540b7f2ddb5e0ee8515e6b1bf0ec3e7ef979c2",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4887712,
-  "version": "1.0.59-beta.5"
+  "sizeBytes": 4888759,
+  "version": "1.0.59-beta.6"
 }
