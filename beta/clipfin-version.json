@@ -1,23 +1,23 @@
 {
-  "assetName": "ClipFin-1.0.59-beta.7-win-x64.zip",
+  "assetName": "ClipFin-1.0.59-beta.8-win-x64.zip",
   "channel": "beta",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.59-beta.7/ClipFin-1.0.59-beta.7-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.59-beta.8/ClipFin-1.0.59-beta.8-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "50c0c2901309ef7d2df2d5c4501fc35dd46c321828857fe8e8c47308a149988e",
-  "exeSizeBytes": 11331072,
+  "exeSha256": "3c9706684df05207cf07ab509ec205676742c34c0569bf97355a49dd36117e24",
+  "exeSizeBytes": 11356160,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-16T19:45:29+09:00",
+  "publishedAt": "2026-11-17T12:25:58+09:00",
   "releaseNotes": {
-    "en": "Initialize the first message paragraph from the current input language and disable empty-editor language fixup. Actual Korean first-line caret behavior needs beta confirmation. Settings and data preserved.",
-    "ko": "메시지 첫 문단을 현재 입력 언어로 초기화하고 빈 문단의 자동 언어 보정을 막도록 수정했습니다. 첫 줄 커서 증상은 실제 입력에서 재확인 필요. 설정·자료 유지."
+    "en": "Defer input-related UI updates in messages and memos. Actual first-line Korean IME caret behavior requires beta testing. Settings and data are preserved.",
+    "ko": "메시지·메모 입력 중 UI 갱신을 지연해 간섭을 줄였습니다. 첫 줄 한글 커서 왕복은 실제 테스트가 필요합니다. 설정과 자료는 유지됩니다."
   },
-  "releaseTag": "v1.0.59-beta.7",
+  "releaseTag": "v1.0.59-beta.8",
   "schemaVersion": 1,
-  "sha256": "2073e9c6faf1f66786b3727a006713b14e27f4609763a173732181bdceb76ef1",
-  "signature": "0c1ba4f426130ab26522456e4fd295bcaac5e39aeb096793f60cd725d38a44f18346eb6a42271a7eec0cca466648734ee82cc836620c13730f9a38090ec0b2f0",
+  "sha256": "eb0cef7ef0bb2ad2b12870619c05f309b6592aafbc5c523b8a0276ecc8abb534",
+  "signature": "64d906cd5f76c5fffd5472c00b6f9f7b44dc7119014684fa0cda445ecc502c61c61b73cde6a7535b74330e19ebd05b9aec4c637ab3dbd0d49c8642df3c290933",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4890116,
-  "version": "1.0.59-beta.7"
+  "sizeBytes": 4902139,
+  "version": "1.0.59-beta.8"
 }
