@@ -1,23 +1,23 @@
 {
-  "assetName": "ClipFin-1.0.58-win-x64.zip",
+  "assetName": "ClipFin-1.0.59-win-x64.zip",
   "channel": "stable",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.58/ClipFin-1.0.58-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.59/ClipFin-1.0.59-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "ea633ddf4655bfb393b262f50dcefddac276030966fa4ae958c72af109aa185e",
-  "exeSizeBytes": 11240960,
+  "exeSha256": "72dd957fc582a0ec7c7c44423dd9fe143a50791dc8f19e656692941928a20e6b",
+  "exeSizeBytes": 11392000,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-13T13:12:57+09:00",
+  "publishedAt": "2026-11-19T15:21:59+09:00",
   "releaseNotes": {
-    "en": "Add desktop memos and attachment sharing with per-sender consent, Ctrl+Alt+W plus Ctrl+Win+X capture saving, global shortcut settings and data-preserving beta/stable update channels. Future changes follow beta testing and explicit approval before stable release.",
-    "ko": "바탕화면 메모·첨부 공유와 상대별 수신 승인, Ctrl+Alt+W 및 Ctrl+Win+X 캡처 저장, 전역 단축키 설정과 자료를 유지하는 베타·정식 업데이트 채널을 추가했습니다. 이후 수정부터 베타 테스트·승인 후 정식 배포합니다."
+    "en": "Sticky notes now support per-note passwords, pinned compact tiles, Show memos, and hover previews.",
+    "ko": "스티커 메모별 비밀번호, 축소 타일 항상 위, 메모 모두 보기와 내용 미리보기를 추가했습니다."
   },
-  "releaseTag": "v1.0.58",
+  "releaseTag": "v1.0.59",
   "schemaVersion": 1,
-  "sha256": "3da2469804be579febc63376877b4a8bd1f06c4c51e06b25ebfa304631a9104d",
-  "signature": "3b68ff6ee9f71530234eca707c4566e584e30c85b1400ef86670c9c81c426c9883332f7af51de61e4d16eb6d5e5e19d1581db051c26d298f60a58bf7299bea7d",
+  "sha256": "aa66a5072e7a21bb1479b981e6d4eebf129839ca4e4a54f8b37d63d720b16099",
+  "signature": "2e3bed90d2aea9df552cdd11755ab159a0c0940e226870fa0ae4603fe2893d773a47cac5d20b85c7966c66b4cb85b573afbcfdd5474a170bb98cf0a97f5d85f3",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4853091,
-  "version": "1.0.58"
+  "sizeBytes": 4914912,
+  "version": "1.0.59"
 }
