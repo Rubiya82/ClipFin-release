@@ -1,23 +1,23 @@
 {
-  "assetName": "ClipFin-1.0.60-beta.2-win-x64.zip",
+  "assetName": "ClipFin-1.0.60-beta.3-win-x64.zip",
   "channel": "beta",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.60-beta.2/ClipFin-1.0.60-beta.2-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.60-beta.3/ClipFin-1.0.60-beta.3-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "9f3529505dc206c47750b5b1e4cc5a54d0495b9cd35cc10c042b4553e1da8f96",
-  "exeSizeBytes": 11482112,
+  "exeSha256": "e345e1c2b0bc1e447eeba8d311ec0ef9381611fcbafa1f017a4b06b9f7eb6ad9",
+  "exeSizeBytes": 11497472,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-23T15:05:57+09:00",
+  "publishedAt": "2026-11-23T16:14:16+09:00",
   "releaseNotes": {
-    "en": "Import pattern images, watch a fixed screen area, show match scores, restore the pointer after a click, and reduce scanning CPU load.",
-    "ko": "이미지 파일 패턴 등록, 고정 화면 영역 감시, 매칭률 표시, 클릭 후 포인터 복원과 검색 CPU 부하 감소를 추가했습니다."
+    "en": "Image Macro now has a themed step-by-step layout, pattern image drop, and a click confirmation toast.",
+    "ko": "이미지 매크로에 단계별 테마 UI, 패턴 미리보기 파일 드롭, 클릭 완료 토스트를 추가했습니다."
   },
-  "releaseTag": "v1.0.60-beta.2",
+  "releaseTag": "v1.0.60-beta.3",
   "schemaVersion": 1,
-  "sha256": "b03533cc0194295ed002785406fa1c92e6e6a4cfae9d0c997c9b3a02572ad962",
-  "signature": "b6db4592cc1dfb7ec0a88087b1465849a78758d6bbbff85f39b6483323bd28608c07afab592f48b01b23e260155f2d6e12e1cf7c3a1c43efb92470e9650c4ad9",
+  "sha256": "0ff3e0268d23f6151c05af74ca72407a6bad04c4d5e3f801e545a9afdefebe3f",
+  "signature": "ac1194cd83a5759803c0a95bf9f729b9bad4e438fb8c6cc7f24385425ff3fa501658d6e651b0ef3cd88442b24243a474d8d9502c852a98f8a5ba5af4420302cd",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4957443,
-  "version": "1.0.60-beta.2"
+  "sizeBytes": 4964364,
+  "version": "1.0.60-beta.3"
 }
