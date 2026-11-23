@@ -1,23 +1,23 @@
 {
-  "assetName": "Sailfish-1.0.59-win-x64.zip",
+  "assetName": "Sailfish-1.0.60-win-x64.zip",
   "channel": "stable",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.59/Sailfish-1.0.59-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.60/Sailfish-1.0.60-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "72dd957fc582a0ec7c7c44423dd9fe143a50791dc8f19e656692941928a20e6b",
-  "exeSizeBytes": 11392000,
+  "exeSha256": "e4a240c2985aad23b7ef097501d65edc96f57f4bf68d72331db754656be9e3d0",
+  "exeSizeBytes": 11497472,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-19T15:22:01+09:00",
+  "publishedAt": "2026-11-23T16:46:29+09:00",
   "releaseNotes": {
-    "en": "Sticky notes now support per-note passwords, pinned compact tiles, Show memos, and hover previews.",
-    "ko": "스티커 메모별 비밀번호, 축소 타일 항상 위, 메모 모두 보기와 내용 미리보기를 추가했습니다."
+    "en": "Image Macro adds guided setup, fixed-area monitoring, image drop, match scores, and click confirmation.",
+    "ko": "이미지 매크로에 단계별 테마 UI, 고정 영역 감시, 패턴 파일 드롭, 매칭률 표시와 클릭 완료 토스트를 추가했습니다."
   },
-  "releaseTag": "v1.0.59",
+  "releaseTag": "v1.0.60",
   "schemaVersion": 1,
-  "sha256": "112d09a1f2d2af19fff0b8279f84c22b866ee214a831029c5823167e4cc6be34",
-  "signature": "8f12d2a5843c42bdbbabf4b0fd5655d0837b943189c9e4409cc56ee51afd94b3e69a94080c4758a16833809b60c195d19574d19b915307864ccf1ccc86a69773",
+  "sha256": "a0fa3301eb3f5f56568daed31a29b5c51a02df2c65554e7bff2a7617c07ed71a",
+  "signature": "ac0d3b441966c7694d4e952cb53d451b3daca0b7cd958fa8d539802245cbb7895893179eea7e7b60c96ff0ff985c92eecd881c21dea29f1b73caffd72c4e3892",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4914914,
-  "version": "1.0.59"
+  "sizeBytes": 4964358,
+  "version": "1.0.60"
 }
