@@ -1,23 +1,23 @@
 {
-  "assetName": "Sailfish-1.0.59-beta.8-win-x64.zip",
+  "assetName": "Sailfish-1.0.60-beta.1-win-x64.zip",
   "channel": "beta",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.59-beta.8/Sailfish-1.0.59-beta.8-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.60-beta.1/Sailfish-1.0.60-beta.1-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "3c9706684df05207cf07ab509ec205676742c34c0569bf97355a49dd36117e24",
-  "exeSizeBytes": 11356160,
+  "exeSha256": "a108270537f36f639fc693f61d303fbaa392e0f275894727f92f30a6cac9628a",
+  "exeSizeBytes": 11463680,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-17T12:26:00+09:00",
+  "publishedAt": "2026-11-23T14:27:25+09:00",
   "releaseNotes": {
-    "en": "Defer input-related UI updates in messages and memos. Actual first-line Korean IME caret behavior requires beta testing. Settings and data are preserved.",
-    "ko": "메시지·메모 입력 중 UI 갱신을 지연해 간섭을 줄였습니다. 첫 줄 한글 커서 왕복은 실제 테스트가 필요합니다. 설정과 자료는 유지됩니다."
+    "en": "Image macro with a window-relative search area, center clicks, binary previews, start and stop controls, and a repeat-click cooldown.",
+    "ko": "이미지 매크로: 대상 창을 따라가는 검색 영역, 중심 자동 클릭, 이진화 모니터, 감시 시작·중지와 재클릭 대기시간을 추가했습니다."
   },
-  "releaseTag": "v1.0.59-beta.8",
+  "releaseTag": "v1.0.60-beta.1",
   "schemaVersion": 1,
-  "sha256": "26436d31bc6cbc2187c5a89ffc3f5eef75d3af00e4830580456a3e2b3da68586",
-  "signature": "e3493f038ecb2d1a177257acdb43c74737538d06e0f94071ee436f8972679ce6fe40daa40608584074191af46df95e9a48068a8c0551bb335d93e5f1415050bf",
+  "sha256": "4faf3ea6d2c809e4e852109e1f8761109c101b837c4b6b29cfe935a1ef69411a",
+  "signature": "b1e36525dc92531f2d778fb492eff9114540e283f873e8faf01d0f67c55d55859f2bc19090c23c4ab786a45785e14825eae0d461bfdcc43fb1ac8b6fa85eda23",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4902141,
-  "version": "1.0.59-beta.8"
+  "sizeBytes": 4949033,
+  "version": "1.0.60-beta.1"
 }
