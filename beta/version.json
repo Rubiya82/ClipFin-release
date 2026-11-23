@@ -1,23 +1,23 @@
 {
-  "assetName": "Sailfish-1.0.60-beta.1-win-x64.zip",
+  "assetName": "Sailfish-1.0.60-beta.2-win-x64.zip",
   "channel": "beta",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.60-beta.1/Sailfish-1.0.60-beta.1-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.60-beta.2/Sailfish-1.0.60-beta.2-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "a108270537f36f639fc693f61d303fbaa392e0f275894727f92f30a6cac9628a",
-  "exeSizeBytes": 11463680,
+  "exeSha256": "9f3529505dc206c47750b5b1e4cc5a54d0495b9cd35cc10c042b4553e1da8f96",
+  "exeSizeBytes": 11482112,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-23T14:27:25+09:00",
+  "publishedAt": "2026-11-23T15:05:58+09:00",
   "releaseNotes": {
-    "en": "Image macro with a window-relative search area, center clicks, binary previews, start and stop controls, and a repeat-click cooldown.",
-    "ko": "이미지 매크로: 대상 창을 따라가는 검색 영역, 중심 자동 클릭, 이진화 모니터, 감시 시작·중지와 재클릭 대기시간을 추가했습니다."
+    "en": "Import pattern images, watch a fixed screen area, show match scores, restore the pointer after a click, and reduce scanning CPU load.",
+    "ko": "이미지 파일 패턴 등록, 고정 화면 영역 감시, 매칭률 표시, 클릭 후 포인터 복원과 검색 CPU 부하 감소를 추가했습니다."
   },
-  "releaseTag": "v1.0.60-beta.1",
+  "releaseTag": "v1.0.60-beta.2",
   "schemaVersion": 1,
-  "sha256": "4faf3ea6d2c809e4e852109e1f8761109c101b837c4b6b29cfe935a1ef69411a",
-  "signature": "b1e36525dc92531f2d778fb492eff9114540e283f873e8faf01d0f67c55d55859f2bc19090c23c4ab786a45785e14825eae0d461bfdcc43fb1ac8b6fa85eda23",
+  "sha256": "849886c16acb41a7cd790fbd511b355eb9047ef03c55becb614c1e59f6d76615",
+  "signature": "1f7b124167a9b2e8ee8c96c041be897ab1d807a656c33bd0042f75813f99c808af9cb6a0d4cfc78cde6c47ec58934c099d15bed4aa326870fcadabaa0a09277e",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4949033,
-  "version": "1.0.60-beta.1"
+  "sizeBytes": 4957445,
+  "version": "1.0.60-beta.2"
 }

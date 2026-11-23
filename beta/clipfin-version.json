@@ -1,23 +1,23 @@
 {
-  "assetName": "ClipFin-1.0.60-beta.1-win-x64.zip",
+  "assetName": "ClipFin-1.0.60-beta.2-win-x64.zip",
   "channel": "beta",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.60-beta.1/ClipFin-1.0.60-beta.1-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.60-beta.2/ClipFin-1.0.60-beta.2-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "a108270537f36f639fc693f61d303fbaa392e0f275894727f92f30a6cac9628a",
-  "exeSizeBytes": 11463680,
+  "exeSha256": "9f3529505dc206c47750b5b1e4cc5a54d0495b9cd35cc10c042b4553e1da8f96",
+  "exeSizeBytes": 11482112,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-23T14:27:23+09:00",
+  "publishedAt": "2026-11-23T15:05:57+09:00",
   "releaseNotes": {
-    "en": "Image macro with a window-relative search area, center clicks, binary previews, start and stop controls, and a repeat-click cooldown.",
-    "ko": "이미지 매크로: 대상 창을 따라가는 검색 영역, 중심 자동 클릭, 이진화 모니터, 감시 시작·중지와 재클릭 대기시간을 추가했습니다."
+    "en": "Import pattern images, watch a fixed screen area, show match scores, restore the pointer after a click, and reduce scanning CPU load.",
+    "ko": "이미지 파일 패턴 등록, 고정 화면 영역 감시, 매칭률 표시, 클릭 후 포인터 복원과 검색 CPU 부하 감소를 추가했습니다."
   },
-  "releaseTag": "v1.0.60-beta.1",
+  "releaseTag": "v1.0.60-beta.2",
   "schemaVersion": 1,
-  "sha256": "d11b7f64b4f9f1bebdc542c766680b0b4174d7e688a925ccccfb2a5f5fdf08ce",
-  "signature": "ef828a0b17f380082668bd11572f7c75976522bb7a26f218b730a8b16c2c8c5511d580e85e09608a549b107f27ee649c5640cffb6f6d5e22ab083d7866ad08af",
+  "sha256": "b03533cc0194295ed002785406fa1c92e6e6a4cfae9d0c997c9b3a02572ad962",
+  "signature": "b6db4592cc1dfb7ec0a88087b1465849a78758d6bbbff85f39b6483323bd28608c07afab592f48b01b23e260155f2d6e12e1cf7c3a1c43efb92470e9650c4ad9",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4949031,
-  "version": "1.0.60-beta.1"
+  "sizeBytes": 4957443,
+  "version": "1.0.60-beta.2"
 }
