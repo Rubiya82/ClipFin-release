@@ -1,23 +1,23 @@
 {
-  "assetName": "Sailfish-1.0.60-beta.3-win-x64.zip",
+  "assetName": "Sailfish-1.0.61-beta.1-win-x64.zip",
   "channel": "beta",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.60-beta.3/Sailfish-1.0.60-beta.3-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.61-beta.1/Sailfish-1.0.61-beta.1-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "e345e1c2b0bc1e447eeba8d311ec0ef9381611fcbafa1f017a4b06b9f7eb6ad9",
-  "exeSizeBytes": 11497472,
+  "exeSha256": "91f8831410585630d032f59e23444805e795ae080a251011ccd4fd4758c13631",
+  "exeSizeBytes": 11500032,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-23T16:14:18+09:00",
+  "publishedAt": "2026-11-23T20:12:39+09:00",
   "releaseNotes": {
-    "en": "Image Macro now has a themed step-by-step layout, pattern image drop, and a click confirmation toast.",
-    "ko": "이미지 매크로에 단계별 테마 UI, 패턴 미리보기 파일 드롭, 클릭 완료 토스트를 추가했습니다."
+    "en": "Image Macro keeps the display awake while watching, refreshes the request every 30 seconds, and restores the previous execution state on stop.",
+    "ko": "이미지 매크로 감시 중 화면 유지 요청을 30초마다 갱신하고 중지하면 이전 전원 요청 상태를 복원합니다."
   },
-  "releaseTag": "v1.0.60-beta.3",
+  "releaseTag": "v1.0.61-beta.1",
   "schemaVersion": 1,
-  "sha256": "77ebb0f8dffa245ca7c197c31d8eb6016903d7f7df914d5090b0a386f824550a",
-  "signature": "e9f91ea8f869a648522875095facd773e1c0d932bdf522d63378582460573f22e7a15ad42eded9d7f9d2af881eecd32e008ef0e985974a7b5cde736542e52884",
+  "sha256": "f659fabadcadf3cc00e1f4f69dc47f8da17159d31a59349c7fd7e682513cdb88",
+  "signature": "fae664c7b6246c6c44e94ed9c867960786e2cec97b66dedeb99dab954279ec55530808d0f90cfa0de4c2094315c2a29ce5431da995780cda7db849f164889892",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4964366,
-  "version": "1.0.60-beta.3"
+  "sizeBytes": 4965622,
+  "version": "1.0.61-beta.1"
 }

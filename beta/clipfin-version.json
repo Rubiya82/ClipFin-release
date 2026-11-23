@@ -1,23 +1,23 @@
 {
-  "assetName": "ClipFin-1.0.60-beta.3-win-x64.zip",
+  "assetName": "ClipFin-1.0.61-beta.1-win-x64.zip",
   "channel": "beta",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.60-beta.3/ClipFin-1.0.60-beta.3-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.61-beta.1/ClipFin-1.0.61-beta.1-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "e345e1c2b0bc1e447eeba8d311ec0ef9381611fcbafa1f017a4b06b9f7eb6ad9",
-  "exeSizeBytes": 11497472,
+  "exeSha256": "91f8831410585630d032f59e23444805e795ae080a251011ccd4fd4758c13631",
+  "exeSizeBytes": 11500032,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-23T16:14:16+09:00",
+  "publishedAt": "2026-11-23T20:12:37+09:00",
   "releaseNotes": {
-    "en": "Image Macro now has a themed step-by-step layout, pattern image drop, and a click confirmation toast.",
-    "ko": "이미지 매크로에 단계별 테마 UI, 패턴 미리보기 파일 드롭, 클릭 완료 토스트를 추가했습니다."
+    "en": "Image Macro keeps the display awake while watching, refreshes the request every 30 seconds, and restores the previous execution state on stop.",
+    "ko": "이미지 매크로 감시 중 화면 유지 요청을 30초마다 갱신하고 중지하면 이전 전원 요청 상태를 복원합니다."
   },
-  "releaseTag": "v1.0.60-beta.3",
+  "releaseTag": "v1.0.61-beta.1",
   "schemaVersion": 1,
-  "sha256": "0ff3e0268d23f6151c05af74ca72407a6bad04c4d5e3f801e545a9afdefebe3f",
-  "signature": "ac1194cd83a5759803c0a95bf9f729b9bad4e438fb8c6cc7f24385425ff3fa501658d6e651b0ef3cd88442b24243a474d8d9502c852a98f8a5ba5af4420302cd",
+  "sha256": "ee1acb98a5e5d2cc8461819004ea8fee0821e1858be15353b30a01fa5b919aad",
+  "signature": "396c3772c2ccc0043ec32140df5af70c178d56369facda94d28027b46366aec3e49e491e01887ab9a39f59618492b7cdd61bf22697a0a2ab16a61a6e5e8f7bf1",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4964364,
-  "version": "1.0.60-beta.3"
+  "sizeBytes": 4965620,
+  "version": "1.0.61-beta.1"
 }
