@@ -1,23 +1,23 @@
 {
-  "assetName": "ClipFin-1.0.61-beta.1-win-x64.zip",
+  "assetName": "ClipFin-1.0.62-beta.1-win-x64.zip",
   "channel": "beta",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.61-beta.1/ClipFin-1.0.61-beta.1-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.62-beta.1/ClipFin-1.0.62-beta.1-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "91f8831410585630d032f59e23444805e795ae080a251011ccd4fd4758c13631",
-  "exeSizeBytes": 11500032,
+  "exeSha256": "67482ff76fe9849c5d4d27b830a9f12050e2f1b523acffdb3cb8a191813e554c",
+  "exeSizeBytes": 11509760,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-23T20:12:37+09:00",
+  "publishedAt": "2026-11-24T13:56:01+09:00",
   "releaseNotes": {
-    "en": "Image Macro keeps the display awake while watching, refreshes the request every 30 seconds, and restores the previous execution state on stop.",
-    "ko": "이미지 매크로 감시 중 화면 유지 요청을 30초마다 갱신하고 중지하면 이전 전원 요청 상태를 복원합니다."
+    "en": "ClipFin restores the saved clipboard monitoring setting on restart and Windows startup.",
+    "ko": "클립보드 감시 On/Off를 저장하고 앱 재실행이나 Windows 자동 시작 때 복원합니다."
   },
-  "releaseTag": "v1.0.61-beta.1",
+  "releaseTag": "v1.0.62-beta.1",
   "schemaVersion": 1,
-  "sha256": "ee1acb98a5e5d2cc8461819004ea8fee0821e1858be15353b30a01fa5b919aad",
-  "signature": "396c3772c2ccc0043ec32140df5af70c178d56369facda94d28027b46366aec3e49e491e01887ab9a39f59618492b7cdd61bf22697a0a2ab16a61a6e5e8f7bf1",
+  "sha256": "d18d8a5a735a175712d5d9b8db6ffc7e4a1962968a305a8ed5a2c2c0c43f0acf",
+  "signature": "121b4fa750112bcbd79e3023f3ee8448be2f9d7370d93af7cc0643e5a843bcaa58135aae787edf3eb013a8b7d6169ea43fdadbdd92be34db1fbe29a7c2eb6bdb",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4965620,
-  "version": "1.0.61-beta.1"
+  "sizeBytes": 4968469,
+  "version": "1.0.62-beta.1"
 }
