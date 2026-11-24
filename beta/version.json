@@ -1,23 +1,23 @@
 {
-  "assetName": "Sailfish-1.0.62-beta.1-win-x64.zip",
+  "assetName": "Sailfish-1.0.63-beta.1-win-x64.zip",
   "channel": "beta",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.62-beta.1/Sailfish-1.0.62-beta.1-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.63-beta.1/Sailfish-1.0.63-beta.1-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "67482ff76fe9849c5d4d27b830a9f12050e2f1b523acffdb3cb8a191813e554c",
-  "exeSizeBytes": 11509760,
+  "exeSha256": "5ad4895f330fe2752c9330392a8bc677a3057a5a55c08858c3c3ac6236382829",
+  "exeSizeBytes": 11497472,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-24T13:56:03+09:00",
+  "publishedAt": "2026-11-24T21:00:29+09:00",
   "releaseNotes": {
-    "en": "ClipFin restores the saved clipboard monitoring setting on restart and Windows startup.",
-    "ko": "클립보드 감시 On/Off를 저장하고 앱 재실행이나 Windows 자동 시작 때 복원합니다."
+    "en": "Image Macro now watches a fixed screen area and restores saved fixed areas and patterns.",
+    "ko": "이미지 매크로를 고정 화면 영역 감시 전용으로 변경했습니다. 기존 고정 영역과 저장된 패턴을 불러옵니다."
   },
-  "releaseTag": "v1.0.62-beta.1",
+  "releaseTag": "v1.0.63-beta.1",
   "schemaVersion": 1,
-  "sha256": "852d0d2d22fe315a9376c4a1f519a83487a2c17a907d4041b3987468b443172a",
-  "signature": "d9389241aad50e2834ea2cb52c8c5218eb345c8e557bfa28148a79033f2c885cfceb87cd43e215097ce29f88406a32ff62675a88c13820887a25ee77b487c23b",
+  "sha256": "a0d223b85ac011a987e5d96e85e24466d9c9453ae077157f13af6076c4d027b7",
+  "signature": "6faf69b57aec85ab1853f1e1dc4f8b92c756d62cdce1c46bc76128f5d79d1d6917312fb3aca615e54d596ee4af8212f673c35db70b05035cb8f8181e4d565d5d",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4968471,
-  "version": "1.0.62-beta.1"
+  "sizeBytes": 4963604,
+  "version": "1.0.63-beta.1"
 }
