@@ -1,23 +1,23 @@
 {
-  "assetName": "Sailfish-1.0.61-win-x64.zip",
+  "assetName": "Sailfish-1.0.62-win-x64.zip",
   "channel": "stable",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.61/Sailfish-1.0.61-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.62/Sailfish-1.0.62-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "c5abb5f841ce04e4c11f0532aa48269ec82f7b13cc139e4f1df3032c71f68369",
-  "exeSizeBytes": 11500032,
+  "exeSha256": "632107e490b3b07302a67ce97d446433c0873e9a9cf6e05a7788ad926122ae45",
+  "exeSizeBytes": 11509760,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-24T13:49:18+09:00",
+  "publishedAt": "2026-11-24T14:00:37+09:00",
   "releaseNotes": {
-    "en": "Image Macro refreshes the display wake request every 30 seconds while watching and restores the previous execution state when stopped.",
-    "ko": "이미지 매크로 감시 중 화면 유지 요청을 30초마다 갱신하고 중지하면 이전 전원 요청 상태를 복원합니다."
+    "en": "ClipFin restores the saved clipboard monitoring setting on restart and Windows startup.",
+    "ko": "클립보드 감시 On/Off를 저장하고 앱 재실행이나 Windows 자동 시작 때 복원합니다."
   },
-  "releaseTag": "v1.0.61",
+  "releaseTag": "v1.0.62",
   "schemaVersion": 1,
-  "sha256": "85dda40ec88b5b15b75c0879f9e472e862ae9b26aafb44c1b3c051f559931519",
-  "signature": "ee911746d0e98749b7555ef6273fab65cbd2d1fd7d8b1a8b9ce9483bb4a4f078988bd606d32817e4206cca3322a8c945a73739f17f04f2db7412697060f5f11f",
+  "sha256": "a688bf9f5919bd41452292a0e52fc0459b0061c25aed16e4738e6f46c3fcbf30",
+  "signature": "661e6ff581d80bcca7fceaf951370532f9b6e036445d1b48d646e1d89d1e104bf987f730fe0a39cff67c1fd871c2417bc2e0cca43acecc5d5fc686a93f27b5c1",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4965549,
-  "version": "1.0.61"
+  "sizeBytes": 4968534,
+  "version": "1.0.62"
 }
