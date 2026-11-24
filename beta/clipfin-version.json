@@ -1,23 +1,23 @@
 {
-  "assetName": "ClipFin-1.0.63-beta.1-win-x64.zip",
+  "assetName": "ClipFin-1.0.63-beta.2-win-x64.zip",
   "channel": "beta",
-  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.63-beta.1/ClipFin-1.0.63-beta.1-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/ClipFin-release/releases/download/v1.0.63-beta.2/ClipFin-1.0.63-beta.2-win-x64.zip",
   "exePath": "ClipFin.exe",
-  "exeSha256": "5ad4895f330fe2752c9330392a8bc677a3057a5a55c08858c3c3ac6236382829",
-  "exeSizeBytes": 11497472,
+  "exeSha256": "cc3ac418d961fb62652c22da7ed5b005133a4f5ca60ea4062fb323f4425abab6",
+  "exeSizeBytes": 11505664,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-24T21:00:27+09:00",
+  "publishedAt": "2026-11-25T07:36:47+09:00",
   "releaseNotes": {
-    "en": "Image Macro now watches a fixed screen area and restores saved fixed areas and patterns.",
-    "ko": "이미지 매크로를 고정 화면 영역 감시 전용으로 변경했습니다. 기존 고정 영역과 저장된 패턴을 불러옵니다."
+    "en": "Bring all sticky notes forward from the tray, a note context menu, or Ctrl+Alt+M. Visibility changes preserve the last edit time.",
+    "ko": "스티커 메모 모두 앞으로를 트레이와 메모 우클릭 메뉴 및 Ctrl+Alt+M으로 실행합니다. 메모 표시 상태를 바꿔도 마지막 수정 시각을 유지합니다."
   },
-  "releaseTag": "v1.0.63-beta.1",
+  "releaseTag": "v1.0.63-beta.2",
   "schemaVersion": 1,
-  "sha256": "7548e242c6749336800f0a893e6812f5cdf3ebde7b6ce853cfb965ff6409b77b",
-  "signature": "5a57f664d2c3d417ff89c2b3ed9cd61bba6dedd29b5e455fcccbc66f3fdd8df45838023f8bd956336f8c2f91af5b27608364520f7f8856e82a4eab0a772e2c41",
+  "sha256": "514914d7477503060db469dc6085622ed5a762e762419fa02b1855846918fc45",
+  "signature": "22fe2b17f9241b7753b0536e8288a9cafbc15f0e26a8eb49b7d5ebad4e45850f2ec19725780beec66c459fb1b77dfdb1d56ce686b3911b2ce7f592a4ef34f46f",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4963602,
-  "version": "1.0.63-beta.1"
+  "sizeBytes": 4966678,
+  "version": "1.0.63-beta.2"
 }

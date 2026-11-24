@@ -1,23 +1,23 @@
 {
-  "assetName": "Sailfish-1.0.63-beta.1-win-x64.zip",
+  "assetName": "Sailfish-1.0.63-beta.2-win-x64.zip",
   "channel": "beta",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.63-beta.1/Sailfish-1.0.63-beta.1-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.63-beta.2/Sailfish-1.0.63-beta.2-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "5ad4895f330fe2752c9330392a8bc677a3057a5a55c08858c3c3ac6236382829",
-  "exeSizeBytes": 11497472,
+  "exeSha256": "cc3ac418d961fb62652c22da7ed5b005133a4f5ca60ea4062fb323f4425abab6",
+  "exeSizeBytes": 11505664,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-24T21:00:29+09:00",
+  "publishedAt": "2026-11-25T07:36:49+09:00",
   "releaseNotes": {
-    "en": "Image Macro now watches a fixed screen area and restores saved fixed areas and patterns.",
-    "ko": "이미지 매크로를 고정 화면 영역 감시 전용으로 변경했습니다. 기존 고정 영역과 저장된 패턴을 불러옵니다."
+    "en": "Bring all sticky notes forward from the tray, a note context menu, or Ctrl+Alt+M. Visibility changes preserve the last edit time.",
+    "ko": "스티커 메모 모두 앞으로를 트레이와 메모 우클릭 메뉴 및 Ctrl+Alt+M으로 실행합니다. 메모 표시 상태를 바꿔도 마지막 수정 시각을 유지합니다."
   },
-  "releaseTag": "v1.0.63-beta.1",
+  "releaseTag": "v1.0.63-beta.2",
   "schemaVersion": 1,
-  "sha256": "a0d223b85ac011a987e5d96e85e24466d9c9453ae077157f13af6076c4d027b7",
-  "signature": "6faf69b57aec85ab1853f1e1dc4f8b92c756d62cdce1c46bc76128f5d79d1d6917312fb3aca615e54d596ee4af8212f673c35db70b05035cb8f8181e4d565d5d",
+  "sha256": "fd23c85ad7ec522b9df8219733e1d2c3b99da0f96649952c61c290793917ab0f",
+  "signature": "21255079bbe90970d050eb539e3d3dc0b4aa1249c78538563a54e1802167031e7c58ba1b262800fa6f6c2962e317a750b0ac8c7f8043a93528ed150bb6e55a77",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4963604,
-  "version": "1.0.63-beta.1"
+  "sizeBytes": 4966680,
+  "version": "1.0.63-beta.2"
 }
