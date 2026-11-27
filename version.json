@@ -1,23 +1,23 @@
 {
-  "assetName": "Sailfish-1.0.62-win-x64.zip",
+  "assetName": "Sailfish-1.0.63-win-x64.zip",
   "channel": "stable",
-  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.62/Sailfish-1.0.62-win-x64.zip",
+  "downloadUrl": "https://github.com/Rubiya82/sailfish-release/releases/download/v1.0.63/Sailfish-1.0.63-win-x64.zip",
   "exePath": "Sailfish.exe",
-  "exeSha256": "632107e490b3b07302a67ce97d446433c0873e9a9cf6e05a7788ad926122ae45",
-  "exeSizeBytes": 11509760,
+  "exeSha256": "87f6d611af4c31f0a21e943e9145be2f2efb153f640ff555db010a0ac3526ba6",
+  "exeSizeBytes": 11505664,
   "keyId": "sailfish-release-2026",
   "platform": "windows-x64",
   "published": true,
-  "publishedAt": "2026-11-24T14:00:37+09:00",
+  "publishedAt": "2026-11-27T23:49:55+09:00",
   "releaseNotes": {
-    "en": "ClipFin restores the saved clipboard monitoring setting on restart and Windows startup.",
-    "ko": "클립보드 감시 On/Off를 저장하고 앱 재실행이나 Windows 자동 시작 때 복원합니다."
+    "en": "Download all files as ClipFin.zip. Includes Bring all memos forward and fixed-area image macro monitoring.",
+    "ko": "여러 파일을 한 번에 받으면 ClipFin.zip으로 저장합니다. 스티커 메모 모두 앞으로와 이미지 매크로 고정 영역 감시를 포함합니다."
   },
-  "releaseTag": "v1.0.62",
+  "releaseTag": "v1.0.63",
   "schemaVersion": 1,
-  "sha256": "a688bf9f5919bd41452292a0e52fc0459b0061c25aed16e4738e6f46c3fcbf30",
-  "signature": "661e6ff581d80bcca7fceaf951370532f9b6e036445d1b48d646e1d89d1e104bf987f730fe0a39cff67c1fd871c2417bc2e0cca43acecc5d5fc686a93f27b5c1",
+  "sha256": "6451711de91c65dd0bf76cca802443c01581ee127a756e8dd9eba7d2fe724830",
+  "signature": "c816ce4d35a0ccf786e44e8e150de38ca3923bae93038478082705904effff3a5ec18271282339303e41453e01f6837df756e2cdb0e65386eb5452f04fd615dd",
   "signatureAlgorithm": "ecdsa-p256-sha256",
-  "sizeBytes": 4968534,
-  "version": "1.0.62"
+  "sizeBytes": 4966763,
+  "version": "1.0.63"
 }
